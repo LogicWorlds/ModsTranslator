@@ -1,0 +1,59 @@
+## Config Strings ##
+macrokey.config.title=Конфігурація прив'язки клавіш макроключа
+####
+
+## Layer translations ##
+text.layer.display=Шар: %s
+text.layer.hover.right_click=Клацніть правою кнопкою миші, щоб відкрити графічний інтерфейс макроключа
+text.layer.master=Майстер
+####
+
+## GuiMacroManagement ##
+gui.manage.text.title=Прив'язка клавіш макроключа
+
+gui.manage.text.macro.add=Додати макрос
+
+gui.manage.text.layer.edit=Редактор шарів
+gui.manage.text.layer.switch=Перемикач шарів
+
+fragment.list.text.remove=X
+####
+
+## GuiModifyMacro ##
+gui.modify.text.title.new=Створити макрос
+gui.modify.text.title.edit=Редагувати макрос
+
+gui.modify.text.command=Команда
+gui.modify.text.key=Спусковий гачок
+
+gui.modify.text.repeat=Утримуйте, щоб повторити
+gui.modify.text.enable=Включити макрос
+
+gui.modify.text.save=Зберегти макрос
+####
+
+## GuiLayerManagement ##
+gui.manage.layer.text.title=Управління шарами
+
+gui.manage.text.layer.add=Додати шар
+####
+
+## GuiModifyLayer ##
+gui.modify.layer.text.title.new=Створити шар
+gui.modify.layer.text.title.edit=Редагувати шар
+
+gui.modify.layer.text.save=Зберегти шар
+
+## CommandLayer ##
+command.layer.information=Layer %s - макрос %s Активний.
+
+## Generic Translations ##
+enabled=Включений
+disabled=Непрацездатний
+edit=Редагувати
+####
+
+## Vanilla Controls ##
+key.macrokey.category=Прив'язка клавіш макроключа
+key.macrokey.management.desc=Відкрийте графічний інтерфейс управління макросами
+####

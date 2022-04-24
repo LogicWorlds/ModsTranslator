@@ -1,0 +1,529 @@
+#Creative Tab Name
+itemGroup.statues=Статуи
+
+#Config name
+statues.config.title=Конфигурация статуй
+
+#Block names
+tile.babyzombiestatue.name=Декоративная Статуя Младенца-Зомби
+tile.babyzombiestatuet2.name=Звуковая Детская Статуя Зомби
+tile.babyzombiestatuet3.name=Функциональная Статуэтка Младенца-Зомби
+tile.babyzombiestatuet4.name=Статуя Мирного Младенца-Зомби
+tile.babyzombiestatuet5.name=Приглушенная Статуя Младенца-Зомби
+
+tile.blazestatue.name=Декоративная статуя Пламени
+tile.blazestatuet2.name=Статуя Звукового пламени
+tile.blazestatuet3.name=Функциональная статуя Пламени
+tile.blazestatuet4.name=Статуя Мирного Пламени
+tile.blazestatuet5.name=Статуя Приглушенного Пламени
+
+tile.chickenstatue.name=Декоративная Статуэтка Цыпленка
+tile.chickenstatuet2.name=Звуковая Статуя Цыпленка
+tile.chickenstatuet3.name=Функциональная Статуэтка Цыпленка
+tile.chickenstatuet4.name=Статуя Мирного цыпленка
+tile.chickenstatuet5.name=Приглушенная Статуя Цыпленка
+
+tile.cowstatue.name=Декоративная Статуя Коровы
+tile.cowstatuet2.name=Звуковая статуя Коровы
+tile.cowstatuet3.name=Функциональная Статуя Коровы
+tile.cowstatuet4.name=Статуя Мирной Коровы
+tile.cowstatuet5.name=Приглушенная статуя Коровы
+
+tile.creeperstatue.name=Декоративная статуя Лианы
+tile.creeperstatuet2.name=Звуковая статуя Крипера
+tile.creeperstatuet3.name=Функциональная статуя Лианы
+tile.creeperstatuet4.name=Статуя Мирного Ползучего растения
+tile.creeperstatuet5.name=Приглушенная статуя Лианы
+
+tile.floodstatue.name=Декоративная Статуя Наводнения
+tile.floodstatuet2.name=Статуя Звукового наводнения
+tile.floodstatuet3.name=Функциональная Статуя Наводнения
+tile.floodstatuet4.name=Статуя Мирного наводнения
+tile.floodstatuet5.name=Статуя приглушенного наводнения
+
+tile.kingcluckstatue.name=Декоративная Статуя Короля Кудахтанья
+tile.kingcluckstatuet2.name=Статуя Кудахчущего Короля звуков
+tile.kingcluckstatuet3.name=Функциональная Статуя Короля Кудахтанья
+tile.kingcluckstatuet4.name=Статуя Мирного Короля Кудахтанья
+tile.kingcluckstatuet5.name=Статуя Приглушенного короля Кудахтанья
+
+tile.mooshroomstatue.name=Декоративная статуя Мушрума
+tile.mooshroomstatuet2.name=Звуковая статуя Мушрума
+tile.mooshroomstatuet3.name=Функциональная статуя Мушрума
+tile.mooshroomstatuet4.name=Мирная статуя Мушрума
+tile.mooshroomstatuet5.name=Приглушенная статуя Мушрума
+
+tile.pigstatue.name=Декоративная статуя Свиньи
+tile.pigstatuet2.name=Звуковая статуя Свиньи
+tile.pigstatuet3.name=Функциональная Статуя Свиньи
+tile.pigstatuet4.name=Статуя Мирной Свиньи
+tile.pigstatuet5.name=Приглушенная статуя Свиньи
+
+tile.rabbitblackspotstatue.name=Декоративная статуя Кролика
+tile.rabbitblackspotstatuet2.name=Статуя Звукового Кролика
+tile.rabbitblackspotstatuet3.name=Функциональная Статуя Кролика
+tile.rabbitblackspotstatuet4.name=Статуя Мирного Кролика
+tile.rabbitblackspotstatuet5.name=Приглушенная статуя Кролика
+
+tile.rabbitbrownstatue.name=Декоративная статуя Кролика
+tile.rabbitbrownstatuet2.name=Статуя Звукового Кролика
+tile.rabbitbrownstatuet3.name=Функциональная Статуя Кролика
+tile.rabbitbrownstatuet4.name=Статуя Мирного Кролика
+tile.rabbitbrownstatuet5.name=Приглушенная статуя Кролика
+
+tile.rabbitstatue.name=Декоративная статуя Кролика
+tile.rabbitstatuet2.name=Статуя Звукового Кролика
+tile.rabbitstatuet3.name=Функциональная Статуя Кролика
+tile.rabbitstatuet4.name=Статуя Мирного Кролика
+tile.rabbitstatuet5.name=Приглушенная статуя Кролика
+
+tile.rabbitwhitespotstatue.name=Декоративная статуя Кролика
+tile.rabbitwhitespotstatuet2.name=Статуя Звукового Кролика
+tile.rabbitwhitespotstatuet3.name=Функциональная Статуя Кролика
+tile.rabbitwhitespotstatuet4.name=Статуя Мирного Кролика
+tile.rabbitwhitespotstatuet5.name=Приглушенная статуя Кролика
+
+tile.rabbitwhitestatue.name=Декоративная статуя Кролика
+tile.rabbitwhitestatuet2.name=Статуя Звукового Кролика
+tile.rabbitwhitestatuet3.name=Функциональная Статуя Кролика
+tile.rabbitwhitestatuet4.name=Статуя Мирного Кролика
+tile.rabbitwhitestatuet5.name=Приглушенная статуя Кролика
+
+tile.rabbityellowstatue.name=Декоративная статуя Кролика
+tile.rabbityellowstatuet2.name=Статуя Звукового Кролика
+tile.rabbityellowstatuet3.name=Функциональная Статуя Кролика
+tile.rabbityellowstatuet4.name=Статуя Мирного Кролика
+tile.rabbityellowstatuet5.name=Приглушенная статуя Кролика
+
+tile.sheepshavenstatue.name=Декоративная Статуя Бритой Овцы
+tile.sheepshavenstatuet2.name=Статуя Хорошо Выбритой Овцы
+tile.sheepshavenstatuet3.name=Функциональная Статуя Бритой Овцы
+tile.sheepshavenstatuet4.name=Статуя Мирной Бритой Овцы
+tile.sheepshavenstatuet5.name=Приглушенная Статуя Бритой Овцы
+
+tile.sheepstatue.name=Декоративная Статуя Белой Овцы
+tile.sheepstatuet2.name=Звуковая Статуя Белой Овцы
+tile.sheepstatuet3.name=Функциональная Статуя Белой Овцы
+tile.sheepstatuet4.name=Статуя Мирной Белой Овцы
+tile.sheepstatuet5.name=Приглушенная Статуя Белой Овцы
+
+tile.sheepstatueorange.name=Декоративная Оранжевая Статуя Овцы
+tile.sheepstatueoranget2.name=Звуковая Оранжевая Статуя Овцы
+tile.sheepstatueoranget3.name=Функциональная Оранжевая Статуя Овцы
+tile.sheepstatueoranget4.name=Статуя Мирной Оранжевой Овцы
+tile.sheepstatueoranget5.name=Приглушенная Оранжевая Статуя Овцы
+
+tile.sheepstatuemagenta.name=Декоративная Статуя Пурпурной Овцы
+tile.sheepstatuemagentat2.name=Звуковая Пурпурная Статуя Овцы
+tile.sheepstatuemagentat3.name=Функциональная Статуя Пурпурной Овцы
+tile.sheepstatuemagentat4.name=Статуя Мирной Пурпурной Овцы
+tile.sheepstatuemagentat5.name=Статуя Овцы Приглушенного Пурпурного цвета
+
+tile.sheepstatuelightblue.name=Декоративная Светло-Голубая Статуя Овцы
+tile.sheepstatuelightbluet2.name=Звуковая Светло-Голубая Статуя Овцы
+tile.sheepstatuelightbluet3.name=Функциональная Светло-Голубая Статуя Овцы
+tile.sheepstatuelightbluet4.name=Мирная Светло-Голубая Статуя Овцы
+tile.sheepstatuelightbluet5.name=Приглушенная Светло-Голубая Статуя Овцы
+
+tile.sheepstatueyellow.name=Декоративная Желтая Статуя Овцы
+tile.sheepstatueyellowt2.name=Звуковая Статуя Желтой Овцы
+tile.sheepstatueyellowt3.name=Функциональная Статуя Желтой Овцы
+tile.sheepstatueyellowt4.name=Статуя Мирной Желтой Овцы
+tile.sheepstatueyellowt5.name=Приглушенная Желтая Статуя Овцы
+
+tile.sheepstatuelime.name=Декоративная Статуя Известковой Овцы
+tile.sheepstatuelimet2.name=Статуя Звуковой Известковой Овцы
+tile.sheepstatuelimet3.name=Функциональная Статуя Лаймовой Овцы
+tile.sheepstatuelimet4.name=Статуя Мирной Известковой Овцы
+tile.sheepstatuelimet5.name=Статуя овцы из приглушенного лайма
+
+tile.sheepstatuepink.name=Декоративная Статуя Розовой Овцы
+tile.sheepstatuepinkt2.name=Звуковая Статуя Розовой Овцы
+tile.sheepstatuepinkt3.name=Функциональная Статуя Розовой Овцы
+tile.sheepstatuepinkt4.name=Статуя Мирной Розовой Овцы
+tile.sheepstatuepinkt5.name=Приглушенная Розовая Статуя Овцы
+
+tile.sheepstatuegray.name=Декоративная Статуя Серой Овцы
+tile.sheepstatuegrayt2.name=Статуя Добротной Серой Овцы
+tile.sheepstatuegrayt3.name=Функциональная Статуя Серой Овцы
+tile.sheepstatuegrayt4.name=Статуя Мирной Серой Овцы
+tile.sheepstatuegrayt5.name=Статуя приглушенной Серой Овцы
+
+tile.sheepstatuelightgray.name=Декоративная Светло-Серая Статуя Овцы
+tile.sheepstatuelightgrayt2.name=Звуковая Светло-Серая Статуя Овцы
+tile.sheepstatuelightgrayt3.name=Функциональная Светло-Серая Статуя Овцы
+tile.sheepstatuelightgrayt4.name=Мирная Светло-Серая Статуя Овцы
+tile.sheepstatuelightgrayt5.name=Приглушенная Светло-Серая Статуя Овцы
+
+tile.sheepstatuecyan.name=Декоративная Статуя Голубой Овцы
+tile.sheepstatuecyant2.name=Звуковая Статуя Голубой Овцы
+tile.sheepstatuecyant3.name=Функциональная Статуя Голубой Овцы
+tile.sheepstatuecyant4.name=Статуя Мирной Голубой Овцы
+tile.sheepstatuecyant5.name=Приглушенная Голубая статуя Овцы
+
+tile.sheepstatuepurple.name=Декоративная Фиолетовая Статуя Овцы
+tile.sheepstatuepurplet2.name=Звуковая Статуя Пурпурной Овцы
+tile.sheepstatuepurplet3.name=Функциональная Статуя Фиолетовой Овцы
+tile.sheepstatuepurplet4.name=Мирная Статуя Пурпурной Овцы
+tile.sheepstatuepurplet5.name=Приглушенная Фиолетовая Статуя Овцы
+
+tile.sheepstatueblue.name=Декоративная Статуя Голубой Овцы
+tile.sheepstatuebluet2.name=Звуковая статуя Голубой Овцы
+tile.sheepstatuebluet3.name=Функциональная Статуя Голубой Овцы
+tile.sheepstatuebluet4.name=Статуя Мирной Голубой Овцы
+tile.sheepstatuebluet5.name=Статуя Приглушенной Синей Овцы
+
+tile.sheepstatuebrown.name=Декоративная Статуя Коричневой Овцы
+tile.sheepstatuebrownt2.name=Статуя Добротной Коричневой Овцы
+tile.sheepstatuebrownt3.name=Функциональная Статуя Коричневой Овцы
+tile.sheepstatuebrownt4.name=Статуя Мирной Коричневой Овцы
+tile.sheepstatuebrownt5.name=Статуя приглушенной Коричневой Овцы
+
+tile.sheepstatuegreen.name=Декоративная Статуя Зеленой Овцы
+tile.sheepstatuegreent2.name=Звуковая Статуя Зеленой Овцы
+tile.sheepstatuegreent3.name=Функциональная Статуя Зеленой Овцы
+tile.sheepstatuegreent4.name=Статуя Мирной Зеленой Овцы
+tile.sheepstatuegreent5.name=Приглушенная Зеленая Статуя Овцы
+
+tile.sheepstatuered.name=Декоративная Статуя Красной Овцы
+tile.sheepstatueredt2.name=Звуковая статуя Красной Овцы
+tile.sheepstatueredt3.name=Функциональная Статуя Красной Овцы
+tile.sheepstatueredt4.name=Статуя Мирной Красной Овцы
+tile.sheepstatueredt5.name=Приглушенная Статуя Красной Овцы
+
+tile.sheepstatueblack.name=Декоративная Статуя Черной Овцы
+tile.sheepstatueblackt2.name=Звуковая статуя Паршивой Овцы
+tile.sheepstatueblackt3.name=Функциональная Статуя Черной Овцы
+tile.sheepstatueblackt4.name=Статуя Мирной Черной Овцы
+tile.sheepstatueblackt5.name=Приглушенная статуя Черной Овцы
+
+tile.slimestatue.name=Декоративная Статуя Из Слизи
+tile.slimestatuet2.name=Звуковая Статуя Из Слизи
+tile.slimestatuet3.name=Функциональная Статуя Из Слизи
+tile.slimestatuet4.name=Мирная Статуя Из Слизи
+tile.slimestatuet5.name=Статуя из приглушенной Слизи
+
+tile.snowgolemstatue.name=Декоративная Статуя Снежного Человека
+tile.snowgolemstatuet2.name=Звуковая Статуя Снежного Человека
+tile.snowgolemstatuet3.name=Функциональная Статуя Снежного Человека
+tile.snowgolemstatuet4.name=Статуя Мирного Снежного Человека
+tile.snowgolemstatuet5.name=Приглушенная статуя Снежного Человека
+
+tile.squidstatue.name=Декоративная Статуя Кальмара
+tile.squidstatuet2.name=Звуковая Статуя Кальмара
+tile.squidstatuet3.name=Функциональная Статуя Кальмара
+tile.squidstatuet4.name=Статуя Мирного Кальмара
+tile.squidstatuet5.name=Приглушенная Статуя Кальмара
+
+tile.villagerbrowncoatstatue.name=Декоративная статуя Деревенского жителя
+tile.villagerbrowncoatstatuet2.name=Статуя Добротного Деревенского жителя
+tile.villagerbrowncoatstatuet3.name=Функциональная статуя Деревенского жителя
+tile.villagerbrowncoatstatuet4.name=Статуя Мирного жителя деревни
+tile.villagerbrowncoatstatuet5.name=Приглушенная статуя Деревенского жителя
+
+tile.villagerpurplecoatstatue.name=Декоративная статуя Деревенского жителя
+tile.villagerpurplecoatstatuet2.name=Статуя Добротного Деревенского жителя
+tile.villagerpurplecoatstatuet3.name=Функциональная статуя Деревенского жителя
+tile.villagerpurplecoatstatuet4.name=Статуя Мирного жителя деревни
+tile.villagerpurplecoatstatuet5.name=Приглушенная статуя Деревенского жителя
+
+tile.villagerstatue.name=Декоративная статуя Деревенского жителя
+tile.villagerstatuet2.name=Статуя Добротного Деревенского жителя
+tile.villagerstatuet3.name=Функциональная статуя Деревенского жителя
+tile.villagerstatuet4.name=Статуя Мирного жителя деревни
+tile.villagerstatuet5.name=Приглушенная статуя Деревенского жителя
+
+tile.villagerwhitecoatstatue.name=Декоративная статуя Деревенского жителя
+tile.villagerwhitecoatstatuet2.name=Статуя Добротного Деревенского жителя
+tile.villagerwhitecoatstatuet3.name=Функциональная статуя Деревенского жителя
+tile.villagerwhitecoatstatuet4.name=Статуя Мирного жителя деревни
+tile.villagerwhitecoatstatuet5.name=Приглушенная статуя Деревенского жителя
+
+tile.infostatue.name=Информативная Статуя
+tile.playerstatue.name=Статуя игрока
+
+tile.witchstatue.name=Декоративная Статуя Ведьмы
+tile.witchstatuet2.name=Звуковая Статуя Ведьмы
+tile.witchstatuet3.name=Функциональная Статуя Ведьмы
+tile.witchstatuet4.name=Статуя Мирной Ведьмы
+tile.witchstatuet5.name=Приглушенная Статуя Ведьмы
+
+tile.zombiestatue.name=Декоративная Статуя Зомби
+tile.zombiestatuet2.name=Звуковая Статуя Зомби
+tile.zombiestatuet3.name=Функциональная Статуя Зомби
+tile.zombiestatuet4.name=Мирная Статуя Зомби
+tile.zombiestatuet5.name=Приглушенная Статуя Зомби
+
+tile.huskstatue.name=Декоративная Статуя Из Шелухи
+tile.huskstatuet2.name=Статуя Звуковой Шелухи
+tile.huskstatuet3.name=Функциональная Статуя из Шелухи
+tile.huskstatuet4.name=Статуя Мирной Шелухи
+tile.huskstatuet5.name=Статуя из приглушенной Шелухи
+
+tile.shulkerstatue.name=Декоративная статуя Шулкера
+tile.shulkerstatuet2.name=Статуя Звукорежиссера
+tile.shulkerstatuet3.name=Функциональная статуя Шулкера
+tile.shulkerstatuet4.name=Статуя мирного Шулкера
+tile.shulkerstatuet5.name=Приглушенная статуя Шулкера
+
+tile.chickenjockeystatue.name=Декоративная Статуя Куриного Жокея
+tile.chickenjockeystatuet2.name=Статуя Добротного Цыпленка-жокея
+tile.chickenjockeystatuet3.name=Функциональная Статуя Куриного Жокея
+tile.chickenjockeystatuet4.name=Статуя Мирного Цыпленка-жокея
+tile.chickenjockeystatuet5.name=Приглушенная Статуя Цыпленка-Жокея
+
+tile.endermitestatue.name=Декоративная статуя Эндермита
+
+tile.magmastatue.name=Декоративная Статуя из Магматического Куба
+tile.magmastatuet2.name=Звуковая Статуя Куба Магмы
+tile.magmastatuet3.name=Функциональная Статуя Магматического Куба
+tile.magmastatuet4.name=Статуя Мирного Магматического Куба
+tile.magmastatuet5.name=Статуя из приглушенного Магматического Куба
+
+tile.ghaststatue.name=Декоративная статуя Вурдалака
+tile.ghaststatuet2.name=Звуковая Статуя Ужаса
+tile.ghaststatuet3.name=Функциональная Статуя Вурдалака
+tile.ghaststatuet4.name=Статуя Мирного Призрака
+tile.ghaststatuet5.name=Приглушенная Статуя Призрака
+
+tile.guardianstatue.name=Декоративная Статуя Хранителя
+tile.guardianstatuet2.name=Статуя Хранителя Звука
+tile.guardianstatuet3.name=Функциональная Статуя Хранителя
+tile.guardianstatuet4.name=Статуя Мирного Стража
+tile.guardianstatuet5.name=Приглушенная Статуя Стража
+
+tile.endermanstatue.name=Декоративная статуя Эндермена
+tile.endermanstatuet2.name=Статуя Звукового Эндермена
+tile.endermanstatuet3.name=Функциональная статуя Эндермена
+tile.endermanstatuet4.name=Статуя Мирного Эндермена
+tile.endermanstatuet5.name=Приглушенная статуя Эндермена
+
+tile.pufferfishstatue.name=Декоративная статуя Рыбы-фугу
+tile.pufferfishstatuet2.name=Звуковая статуя Рыбы-фугу
+tile.pufferfishstatuet3.name=Функциональная статуя Рыбы-фугу
+tile.pufferfishstatuet4.name=Мирная статуя Рыбы-фугу
+tile.pufferfishstatuet5.name=Приглушенная статуя Рыбы-фугу
+
+tile.pufferfishmediumstatue.name=Декоративная статуя Рыбы-фугу
+tile.pufferfishmediumstatuet2.name=Звуковая статуя Рыбы-фугу
+tile.pufferfishmediumstatuet3.name=Функциональная статуя Рыбы-фугу
+tile.pufferfishmediumstatuet4.name=Мирная статуя Рыбы-фугу
+tile.pufferfishmediumstatuet5.name=Приглушенная статуя Рыбы-фугу
+
+tile.pufferfishsmallstatue.name=Декоративная статуя Рыбы-фугу
+tile.pufferfishsmallstatuet2.name=Звуковая статуя Рыбы-фугу
+tile.pufferfishsmallstatuet3.name=Функциональная статуя Рыбы-фугу
+tile.pufferfishsmallstatuet4.name=Мирная статуя Рыбы-фугу
+tile.pufferfishsmallstatuet5.name=Приглушенная статуя Рыбы-фугу
+
+tile.evokerstatue.name=Декоративная Статуя Пробуждающего
+tile.evokerstatuet2.name=Статуя Вызывающего Звук
+tile.evokerstatuet3.name=Функциональная Статуя Пробуждающего
+tile.evokerstatuet4.name=Статуя Мирного Пробуждающего
+tile.evokerstatuet5.name=Приглушенная Статуя Пробуждающего
+
+tile.pebble.name=Галька
+tile.displaystand.name=Выставочная стойка
+tile.sombrero.name=Сомбреро
+tile.bumbostatue.name=Статуя Бумбо
+tile.totemofundyingstatue.name=Статуя Бессмертного
+
+tile.wastelandpigstatue.name=Декоративная Статуя Свиньи на Пустыре
+tile.wastelandpigstatuet2.name=Статуя свиньи из Звуковой Пустоши
+tile.wastelandpigstatuet3.name=Функциональная Статуя Свиньи из Пустоши
+tile.wastelandpigstatuet4.name=Статуя Мирной Пустоши Свиньи
+tile.wastelandpigstatuet5.name=Приглушенная Статуя Свиньи из Пустоши
+
+tile.spiderstatue.name=Декоративная статуя Паука
+tile.spiderstatuet2.name=Звуковая статуя Паука
+tile.spiderstatuet3.name=Функциональная статуя Паука
+tile.spiderstatuet4.name=Статуя Мирного Паука
+tile.spiderstatuet5.name=Приглушенная статуя Паука
+
+tile.campfirestatue.name=Декоративная Статуя у Костра
+tile.campfirestatuet2.name=Звуковая Статуя Костра
+tile.campfirestatuet3.name=Функциональная Статуя Костра
+tile.campfirestatuet4.name=Статуя Мирного Костра у костра
+tile.campfirestatuet5.name=Приглушенная Статуя Костра
+
+tile.drownedstatue.name=Декоративная Утонувшая Статуя
+tile.drownedstatuet2.name=Звук Заглушил Статую
+tile.drownedstatuet3.name=Функциональная Утонувшая статуя
+tile.drownedstatuet4.name=Мирная Утонувшая статуя
+tile.drownedstatuet5.name=Приглушенная Утонувшая Статуя
+
+tile.turtlestatue.name=Декоративная Статуя Черепахи
+tile.turtlestatuet2.name=Звуковая Статуя Черепахи
+tile.turtlestatuet3.name=Функциональная Статуя Черепахи
+tile.turtlestatuet4.name=Статуя Мирной Черепахи
+tile.turtlestatuet5.name=Приглушенная Статуя Черепахи
+
+tile.salmonstatue.name=Декоративная статуя Лосося
+tile.salmonstatuet2.name=Звуковая статуя Лосося
+tile.salmonstatuet3.name=Функциональная статуя Лосося
+tile.salmonstatuet4.name=Статуя Мирного Лосося
+tile.salmonstatuet5.name=Статуя приглушенного Лосося
+
+tile.codstatue.name=Декоративная статуя Трески
+tile.codstatuet2.name=Статуя Звукового Треска
+tile.codstatuet3.name=Функциональная статуя Трески
+tile.codstatuet4.name=Статуя Мирной Трески
+tile.codstatuet5.name=Статуя приглушенного Треска
+
+tile.dolphinstatue.name=Декоративная Статуя Дельфина
+tile.dolphinstatuet2.name=Звуковая Статуя Дельфина
+tile.dolphinstatuet3.name=Функциональная Статуя Дельфина
+tile.dolphinstatuet4.name=Статуя Мирного дельфина
+tile.dolphinstatuet5.name=Приглушенная статуя Дельфина
+
+tile.tropicalfishbigbellystatue.name=Декоративная Статуя Тропической Рыбы
+tile.tropicalfishbigbellystatuet2.name=Звуковая Статуя Тропической Рыбы
+tile.tropicalfishbigbellystatuet3.name=Функциональная Статуя Тропической Рыбы
+tile.tropicalfishbigbellystatuet4.name=Статуя Мирной Тропической Рыбы
+tile.tropicalfishbigbellystatuet5.name=Приглушенная Статуя Тропической Рыбы
+
+tile.tropicalfishbigeyestatue.name=Декоративная Статуя Тропической Рыбы
+tile.tropicalfishbigeyestatuet2.name=Звуковая Статуя Тропической Рыбы
+tile.tropicalfishbigeyestatuet3.name=Функциональная Статуя Тропической Рыбы
+tile.tropicalfishbigeyestatuet4.name=Статуя Мирной Тропической Рыбы
+tile.tropicalfishbigeyestatuet5.name=Приглушенная Статуя Тропической Рыбы
+
+tile.tropicalfishbigmouthbigstatue.name=Декоративная Статуя Тропической Рыбы
+tile.tropicalfishbigmouthbigstatuet2.name=Звуковая Статуя Тропической Рыбы
+tile.tropicalfishbigmouthbigstatuet3.name=Функциональная Статуя Тропической Рыбы
+tile.tropicalfishbigmouthbigstatuet4.name=Статуя Мирной Тропической Рыбы
+tile.tropicalfishbigmouthbigstatuet5.name=Приглушенная Статуя Тропической Рыбы
+
+tile.tropicalfishbigmouthsmallstatue.name=Декоративная Статуя Тропической Рыбы
+tile.tropicalfishbigmouthsmallstatuet2.name=Звуковая Статуя Тропической Рыбы
+tile.tropicalfishbigmouthsmallstatuet3.name=Функциональная Статуя Тропической Рыбы
+tile.tropicalfishbigmouthsmallstatuet4.name=Статуя Мирной Тропической Рыбы
+tile.tropicalfishbigmouthsmallstatuet5.name=Приглушенная Статуя Тропической Рыбы
+
+tile.tropicalfishbigstatue.name=Декоративная Статуя Тропической Рыбы
+tile.tropicalfishbigstatuet2.name=Звуковая Статуя Тропической Рыбы
+tile.tropicalfishbigstatuet3.name=Функциональная Статуя Тропической Рыбы
+tile.tropicalfishbigstatuet4.name=Статуя Мирной Тропической Рыбы
+tile.tropicalfishbigstatuet5.name=Приглушенная Статуя Тропической Рыбы
+
+tile.tropicalfishexoticsmallstatue.name=Декоративная Статуя Тропической Рыбы
+tile.tropicalfishexoticsmallstatuet2.name=Звуковая Статуя Тропической Рыбы
+tile.tropicalfishexoticsmallstatuet3.name=Функциональная Статуя Тропической Рыбы
+tile.tropicalfishexoticsmallstatuet4.name=Статуя Мирной Тропической Рыбы
+tile.tropicalfishexoticsmallstatuet5.name=Приглушенная Статуя Тропической Рыбы
+
+tile.tropicalfishexoticstatue.name=Декоративная Статуя Тропической Рыбы
+tile.tropicalfishexoticstatuet2.name=Звуковая Статуя Тропической Рыбы
+tile.tropicalfishexoticstatuet3.name=Функциональная Статуя Тропической Рыбы
+tile.tropicalfishexoticstatuet4.name=Статуя Мирной Тропической Рыбы
+tile.tropicalfishexoticstatuet5.name=Приглушенная Статуя Тропической Рыбы
+
+tile.tropicalfishhorizontalbigstatue.name=Декоративная Статуя Тропической Рыбы
+tile.tropicalfishhorizontalbigstatuet2.name=Звуковая Статуя Тропической Рыбы
+tile.tropicalfishhorizontalbigstatuet3.name=Функциональная Статуя Тропической Рыбы
+tile.tropicalfishhorizontalbigstatuet4.name=Статуя Мирной Тропической Рыбы
+tile.tropicalfishhorizontalbigstatuet5.name=Приглушенная Статуя Тропической Рыбы
+
+tile.tropicalfishsmalldotstatue.name=Декоративная Статуя Тропической Рыбы
+tile.tropicalfishsmalldotstatuet2.name=Звуковая Статуя Тропической Рыбы
+tile.tropicalfishsmalldotstatuet3.name=Функциональная Статуя Тропической Рыбы
+tile.tropicalfishsmalldotstatuet4.name=Статуя Мирной Тропической Рыбы
+tile.tropicalfishsmalldotstatuet5.name=Приглушенная Статуя Тропической Рыбы
+
+tile.tropicalfishsmallstatue.name=Декоративная Статуя Тропической Рыбы
+tile.tropicalfishsmallstatuet2.name=Звуковая Статуя Тропической Рыбы
+tile.tropicalfishsmallstatuet3.name=Функциональная Статуя Тропической Рыбы
+tile.tropicalfishsmallstatuet4.name=Статуя Мирной Тропической Рыбы
+tile.tropicalfishsmallstatuet5.name=Приглушенная Статуя Тропической Рыбы
+
+tile.tropicalfishstripedbigstatue.name=Декоративная Статуя Тропической Рыбы
+tile.tropicalfishstripedbigstatuet2.name=Звуковая Статуя Тропической Рыбы
+tile.tropicalfishstripedbigstatuet3.name=Функциональная Статуя Тропической Рыбы
+tile.tropicalfishstripedbigstatuet4.name=Статуя Мирной Тропической Рыбы
+tile.tropicalfishstripedbigstatuet5.name=Приглушенная Статуя Тропической Рыбы
+
+tile.tropicalfishstripedsmallstatue.name=Декоративная Статуя Тропической Рыбы
+tile.tropicalfishstripedsmallstatuet2.name=Звуковая Статуя Тропической Рыбы
+tile.tropicalfishstripedsmallstatuet3.name=Функциональная Статуя Тропической Рыбы
+tile.tropicalfishstripedsmallstatuet4.name=Статуя Мирной Тропической Рыбы
+tile.tropicalfishstripedsmallstatuet5.name=Приглушенная Статуя Тропической Рыбы
+
+#Item names
+item.statues:royalnugget.name=Королевский самородок
+item.statues:mooshroomsoup.name=Суп из Мусорной комнаты
+item.statues:statuecore.name=Ядро Статуи
+item.statues:tea.name=Чашка Чая
+item.statues:cup.name=Съедобная Чашка
+item.statues:playercompass.name=Компас игрока
+item.statues:marshmallow.name=Зефир 
+item.statues:marshmallowcooked.name=Жареный зефир
+item.statues:marshmallowgolden.name=Золотой Зефир
+item.statues:marshmallowcharred.name=Обугленный Зефир
+
+#Special Lore
+statues:cluckington.info=Также известный как Клакингтон
+statues:royalnugget.info=Сделано для членов королевской семьи и от них
+statues:villager.info=НЗП, Сделки в будущем.
+statues:tea.info=Теперь с меньшим количеством молока.
+statues:cup.info=Я не могу поверить, что это съедобно.
+statues:last.known.location=Отслеживание последнего известного местоположения: %s
+statues:one.thirteen.info=Будет иметь больше пользы в будущем обновлении
+
+#Entity
+entity.statues:StatueBat.name=Статуя Летучей мыши
+
+entity.statues:FakeZombie.name=Зомби
+entity.statues:FakeHusk.name=Шелуха
+entity.statues:FakeSkeleton.name=Скелет
+entity.statues:FakeBlaze.name=Блеск
+entity.statues:FakeFireball.name=Огненный шар
+entity.statues:FakeCreeper.name=Рептилия
+entity.statues:FakeEnderman.name=Эндермен
+entity.statues:FakeGhast.name=Вурдалак
+entity.statues:FakeLargeFireball.name=Большой Огненный шар
+entity.statues:FakeGuardian.name=Опекун
+entity.statues:FakeSlime.name=Слизь
+entity.statues:FakeMagmaCube.name=Магматический куб
+entity.statues:FakeShulker.name=Шулкер
+entity.statues:FakeShulkerBullet.name=Пуля Шулкера
+entity.statues:FakeWitch.name=Ведьма
+entity.statues:FakeSpider.name=Паук
+entity.statues:FakeStray.name=Бездомный
+entity.statues:FakeZombiePigman.name=Зомби-Свиночеловек
+entity.statues:FakeWitherSkeleton.name=Увядающий Скелет
+
+#tileentity
+statue.player=Статуя игрока
+
+#container
+statues:container.shulkerStatue=Статуя Шулкера
+statues:container.shulkerStatue.more=и %s больше...
+
+#messages
+statues:player.compass.dimension.failure=%s находится в другом измерении.
+statues:player.compass.offline=%s не может быть найден, возможно, плеер не подключен к Сети.
+
+#subtitles
+statues:wasteland.hello=Ксисума передает привет
+statues:wasteland.onwards=Ксисума говорит идти дальше
+statues:wasteland.tea=Ксисума говорит о чае
+statues:campfire.bye=Этоо говорит пока
+statues:campfire.cold=Это говорит о холодном огне
+statues:campfire.greetings=Этоо приветствует вас
+statues:campfire.hello=Этоо передает привет
+statues:campfire.snacks=Это говорит о закусках
+statues:campfire.marshmallow=Этоо рассказывает о зефире Spazz'
+
+#waila
+option.statues.player.name=Имя пользователя Статуи игрока?
+option.statues.player.data=UUID статуи игрока?
+option.statues.statue.timer=Информация о таймере Статуи?
+
+tooltip.statues.player.info=Имя пользователя игрока: 
+tooltip.statues.player.info2=Идентификатор пользователя игрока: 
+tooltip.statues.timer=Процент перезарядки: 
+tooldown.statues.timer.finished=Готовы к взаимодействию
+
+#jei
+gui.statue.loot=Добыча статуи
+gui.statue.fill=Заполнение Взаимодействий

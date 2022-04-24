@@ -1,0 +1,1654 @@
+//tile // Yaroslavik Translate
+//Base Classes
+tile.blockCrop.name=Сівба
+tile.blockMachineLV.name=LV машини
+tile.blockMachineLV2.name=LV машини
+tile.blockMachineMV.name=Mv машини
+tile.blockMachineHV.name=HV машини
+tile.blockCompactedGenerator.name=Компактний генератор
+tile.blockChambers.name=Камерні блоки
+tile.blockExplosive.name=Вибухівка
+tile.blockNoUse.name=Не взаємодіяти
+tile.blockUtility.name=Допоміжний блок
+tile.blockMetal.name=Металевий блок
+tile.blockPersonal.name=Персональний блок
+tile.blockCable.name=Провід
+tile.chargePad.name=Зарядна плита
+tile.blockElectric.name=Електричний блок
+tile.blockLuminator.name=Електролампа
+tile.blockLuminatorMultiPart.name=Електролампа (Multi Part)
+tile.advComparator.name=Покращений компаратор
+
+//Rubber
+tile.leaves.name=Листя
+tile.blockRubWood.name=Деревина гевеї
+tile.blockRubSapling.name=Саджанець гевеї
+tile.blockHarz.name=Полімерний лист
+tile.blockRubber.name=Гумовий лист
+
+//Misc
+tile.blockFenceIron.name=Залізний паркан
+tile.blockFoam.name=Будівельна піна
+tile.blockWall.name=Тверда будівельна піна
+tile.blockPixelFoam.name=Піксельна піна
+tile.blockWool.name=Вовняна будівельна піна
+tile.blockWallTextured.name=Текстурована стіна
+tile.blockBarrel.name=Бочка
+tile.blockScaffold.name=Будівельне риштування
+tile.blockIronScaffold.name=Залізні будівельні ліси
+tile.blockDoorAlloy.name=Укріплені двері
+
+//Metals
+tile.blockOreCopper.name=Мідна руда
+tile.blockOreTin.name=Олов'яна руда
+tile.blockOreUran.name=Уранова руда
+tile.blockOreSilver.name=Срібна руда
+tile.blockMetalCopper.name=Мідний блок
+tile.blockMetalTin.name=Олов'яний блок
+tile.blockMetalBronze.name=Бронзовий блок
+tile.blockMetalUranium.name=Урановий блок
+tile.blockMetalSilver.name=Срібний блок
+tile.blockCharcoal.name=Блок деревного вугілля
+
+//Explosive
+tile.blockITNT.name=Промисловий ТНТ
+tile.blockNuke.name=Ядерна бомба
+
+//Utility Block
+tile.blockMiningPipe.name=Бурова труба
+tile.blockMiningTip.name=Бурова труба
+tile.blockAlloy.name=Укріплений камінь
+tile.blockAlloyGlass.name=Укріплене скло
+tile.blockAlloyBrick.name=Посилена цегла
+tile.blockAlloyClearGlass.name=Посилене прозоре скло
+tile.blockAlloyCracked.name=Потрісканий укріплений камінь
+
+//Generator Block
+tile.blockGenerator.name=Генератор
+tile.blockGeoGenerator.name=Геотермальний генератор
+tile.blockWaterGenerator.name=Водяний млин
+tile.blockSolarGenerator.name=Сонячна панель
+tile.blockWindGenerator.name=Вітряк
+tile.blockNuclearReactor.name=Ядерний реактор
+tile.blockSteamReactor.name=Паровий реактор
+tile.basicTurbine.name=Парова турбіна
+tile.blockThermalGenerator.name=Термальний генератор
+tile.blockSolarTurbine.name=Сонячна турбіна
+tile.blockLiquidFuelGenerator.name=Рідкопаливний генератор
+tile.blockSlagGenerator.name=Генератор C накопиченням відпрацювання
+tile.waveGenerator.name=Хвильовий генератор
+tile.oceanGenerator.name=Океанський генератор
+tile.blockBoiler.name=Паливний котел
+
+//Compacted Generator
+tile.blockSolarLV.name=Сонячна панель низької напруги (LV)
+tile.blockSolarMV.name=Сонячна панель середньої напруги (MV)
+tile.blockSolarHV.name=Сонячна панель високої напруги (HV)
+tile.blockWaterMillLV.name=Водяний млин низької напруги (LV)
+tile.blockWaterMillMV.name=Водяний млин середньої напруги (MV)
+tile.blockWaterMillHV.name=Водяний млин високої напруги (HV)
+tile.LVRFProducer.name=Низьковольтний Flux-генератор (LV)
+tile.MVRFProducer.name=Помірний електричний Flux-генератор (MV)
+tile.HVRFProducer.name=Високовольтний Flux-генератор (HV)
+
+
+//Reactor Chambers
+tile.blockReactorChamber.name=Камера реактора
+tile.blockSteamChamber.name=Парова камера реактора
+
+//Electric Block
+tile.blockBatBox.name=Энергохранитель
+tile.blockMFE.name=МФЕ
+tile.blockMFSU.name=МФСУ
+tile.blockBatteryBox.name=Блок батарей
+tile.blockCreativeStorage.name=Творчий энергохранитель
+tile.blockPesu.name=ПЕСУ
+tile.blockTransformerLV.name=LV Трансформатор
+tile.blockTransformerMV.name=Mv Трансформатор
+tile.blockTransformerHV.name=HV Трансформатор
+tile.blockTransformerEV.name=Ev Трансформатор
+tile.blockTransformerIV.name=IV Трансформатор
+tile.blockAdjustableTranformer.name=Регульований трансформатор
+
+//LV Machines
+tile.blockMachine.name=Корпус механізму
+tile.blockIronFurnace.name=Залізна піч
+tile.blockElecFurnace.name=Електропіч
+tile.blockMacerator.name=Подрібнювач
+tile.blockExtractor.name=Екстрактор
+tile.blockCompressor.name=Компресор
+tile.blockCanner.name=Консервна машина
+tile.blockMiner.name=Шахтар
+tile.blockPump.name=Помпа
+tile.blockMagnetizer.name=Намагничиватель
+tile.blockElectrolyzer.name=Електролізер
+tile.blockRecycler.name=Утилізатор
+tile.blockCropmatron.name=Автосадовник
+tile.blockSoundBeacon.name=Звуковий маяк
+tile.blockCropScanner.name=Сканер агрокультур
+tile.blockStoneMacerator.name=Кам'яний дробитель
+tile.blockWoodGasser.name=Деревний газифікатор
+tile.blockElectricWoodGasser.name=Элекстрический деревне газифікатор
+tile.blockRareEarthExtractor.name=Екстрактор рідкоземельних елементів
+tile.blockCropLibrary.name=Сканер насіння
+tile.blockMachineBuffer.name=Буфер
+tile.blockMachineTank.name=Резервуар
+tile.blockIndustrialWorktable.name=Промисловий робочий стіл
+tile.blockSawMill.name=Лісопилка
+
+//MV Machines
+tile.blockAdvMachine.name=Покращений корпус механізму
+tile.blockInduction.name=Індукційна піч
+tile.blockRotary.name=Роторний дробитель
+tile.blockCentrifug.name=Відцентровий екстрактор
+tile.blockSingularity.name=Сингулярний компресор
+tile.blockVacuum.name=Вакуумна консервна машина
+tile.blockCompacting.name=Компактний утилізатор
+tile.blockCharged.name=Заряджений електролізер
+tile.blockOreScanner.name=Сканер руд
+tile.blockTesla.name=Котушка Тесли
+tile.blockReactorPlanner.name=Планувальник реактора
+tile.blockCropHarvester.name=Збирач врожаю
+tile.blockAdvPump.name=Розігнана помпа
+tile.blockRangedPump.name=Розподільна помпа
+
+//HV Machines
+tile.blockTerra.name=Терраформер
+tile.blockMatter.name=Генератор матерії
+tile.blockTeleporter.name=Телепорт
+tile.blockUraniumEnricher.name=Збагачувач урану
+tile.blockElectricEnchanter.name=Электрозачарователь
+tile.blockPlasmafier.name=Плазмофикатор
+tile.blockTeleporterHub.name=Телепортаційний центр
+
+//Charge Pad
+tile.chargePadLV.name=Статична заряджаюча плита
+tile.chargePadMV.name=Кристалізуюча заряджаюча плита
+tile.chargePadHV.name=Лазуротронова заряджаюча плита
+tile.chargePadNuclear.name=Розщеплююча заряджаюча плита
+
+//Personal Blocks
+tile.blockPersonalTrader.name=Торговий апарат
+tile.blockPersonalTraderFluid.name=Рідинний торговий апарат
+tile.blockPersonalTraderEnergy.name=Енергетичний торговий апарат
+tile.blockPersonalChest.name=Особистий сейф
+tile.blockPersonalTank.name=Особистий резервуар
+tile.blockPersonalEnergyStorageunknown.name=Особисте энергохранилище
+tile.blockPersonalEnergyStorageBatbox.name=Особистий охоронець
+tile.blockPersonalEnergyStorageMFE.name=Особистий МФЕ
+tile.blockPersonalEnergyStorageMFSU.name=Особистий МФСУ
+tile.blockPersonalLocalMarket.name=Місцевий ринок
+tile.blockPersonalGlobalMarket.name=Глобальний ринок
+tile.blockIridiumStone.name=Іридієвий камінь
+
+//item
+//Cables
+item.itemCable.name=Неізольований мідний дріт
+item.itemCableI.name=Мідний провід
+item.itemGoldCable.name=Золотий дріт
+item.itemGoldCableI.name=Неізольований Золотий дріт
+item.itemGoldCableII.name=Золотий дріт з подвійною ізоляцією
+item.itemIronCable.name=Високовольтний провід
+item.itemIronCableI.name=Ізольований високовольтний провід
+item.itemIronCableII.name=Високовольтний провід з подвійною ізоляцією
+item.itemIronCableIII.name=Високовольтний провід з четверною ізоляцією
+item.itemTinCable.name=Олов'яний провід (для наднизького струму)
+item.itemGlassCable.name=Скловолоконний дріт
+item.itemDetectorCable.name=Провід-детектор
+item.itemSplitterCable.name=Провід-роз'єднувач
+item.itemBronzeCable.name=Бронзовий дріт
+item.itemBronzeCableI.name=Ізольований бронзовий дріт
+item.itemBronzeCableII.name=Бронзовий дріт з подвійною ізоляцією
+item.itemPlasmaCable.name=Плазмовий провід
+
+//Batteries
+item.itemBatSU.name=Батарейка
+item.itemBatRE.name=Акумулятор
+item.itemBatCrystal.name=Енергетичний кристал
+item.itemBatLamaCrystal.name=Лазуротроновый кристал
+item.itemPESD.name=УХПЭ
+item.quantumAccumulator.name=Квантовий акумулятор
+item.bigQuantumAccumulator.name=Великий квантовий акумулятор
+
+//Crops
+item.itemCropanalyzer.name=Агроанализатор
+item.itemCropSeed.name=Мішки для насіння
+item.cropSeedUn.name=Невідомі насіння
+item.cropSeedInvalid.name=Насінню не вистачає даних-помилка?
+item.cropItem.name=[Насіння] %s
+item.itemCrop.name=Жердинка
+item.itemWeedEx.name=Засіб від бур'янів
+item.itemCellHydrant.name=Зволожуюча капсула
+item.itemTerraWart.name=Земляний наріст
+
+//Coffee
+item.coffee.name=Кава
+item.coffeeCold.name=Холодна кава
+item.coffeeDark.name=Темна кава
+
+//Tea
+item.ItemTeas.name=Чай (Передмет)
+item.itemColdTea.name=Холодний чай
+item.itemBlackTea.name=Чорний чай
+item.itemTea.name=Чай
+item.itemIceTea.name=Чай з льодом
+
+//Misc
+item.itemDynamites.name=Динаміт (Предмет)
+item.itemDynamite.name=Динаміт
+item.itemDynamiteSticky.name=Липкий динаміт
+item.itemToolbox.name=Ящик для інструментів
+item.itemFilledToolbox.name=Ящик з інструментами
+item.itemCarbonBox.name=Вуглепластиковий ящик для інструментів
+item.itemCarbonBoxFilled.name=Вуглепластиковий ящик з інструментами
+item.itemIridiumBox.name=Квантовий ящик для інструментів
+item.itemIridiumBoxFilled.name=Квантовий ящик з інструментами
+item.itemNoUse.name=Не взаємодіяти
+item.itemMisc.name=Misc Item
+item.itemHarz.name=Каучук
+
+//Coins
+item.itemCoins.name=Монета (Предмет)
+item.itemIndustrialCoin.name=Індустріальна монета
+item.itemIndustrialCoinX1.name=Індустріальна монета
+item.itemIndustrialCoinX2.name=Індустріальна монета
+item.itemIndustrialCoinX3.name=Індустріальна монета
+item.itemIndustrialCoinX4.name=Індустріальна монета
+item.itemIndustrialCoinX5.name=Індустріальна монета
+
+//FuelCans
+item.itemFuelCans.name=Каністра (Предмет)
+item.itemFuelCanEmpty.name=(Порожня) Каністра
+item.itemFuelCan.name=Каністра
+item.itemTinCanFilled.name=(Заповнена) Каністра
+
+//Misc Items
+item.itemScrapbox.name=Коробка утильсировини
+item.itemDoorAlloy.name=Укріплені двері
+
+//Cells
+item.itemCellEmpty.name=Капсула
+item.itemCellWater.name=Капсула з водою
+item.itemCellLava.name=Капсула з лавою
+
+//Boats
+item.itemIC2Boats.name=Човен (Предмет)
+item.itemRubberBoat.name=Гумова шлюпка
+item.itemRubberBoatBroken.name=Пошкоджена гумова шлюпка
+item.itemCarbonBoat.name=Вуглепластикове каное
+item.itemElectricBoat.name=Электролодка
+
+//Beer Stuff
+item.itemBarrel.name=Бочонок
+item.barrelEmpty.name=Порожня бочка з під випивки
+item.barrelFilled.name=%sL Бочка випивки
+item.beer.name=Пиво (Приедмет)
+item.beerBuilder.name=%1$s%2$s %3$s
+item.beerBlack.name=Чорна жижа
+item.beerRum.name=Ром
+item.beerZero.name=Zero
+item.beerSolidRatioWatery.name=Watery 
+item.beerSolidRatioClear.name=Clear 
+item.beerSolidRatioLite.name=Lite 
+item.beerSolidRatioStrong.name=Strong 
+item.beerSolidRatioThick.name=Thick 
+item.beerSolidRatioStodge.name=Stodge 
+item.beerHopsRatioSoup.name=Soup 
+item.beerHopsRatioAlcfree.name=Alcfree 
+item.beerHopsRatioWhite.name=White 
+item.beerHopsRatioDark.name=Dark 
+item.beerHopsRatioFull.name=Full 
+item.beerHopsRatioBlack.name=Black 
+item.beerTimeRatioBrew.name=Brew 
+item.beerTimeRatioYoungster.name=Youngster 
+item.beerTimeRatioBeer.name=Beer 
+item.beerTimeRatioAle.name=Ale 
+item.beerTimeRatioDragonblood.name=Dragonblood 
+
+//Tools
+item.itemDebug.name=Пристрій налагодження
+item.itemRemote.name=Радіопульт підриву
+item.itemFreq.name=Визначник частоти
+item.itemMachineTool.name=Механічний інструмент
+item.itemToolCutter.name=Гострозубці
+item.itemFoamSprayer.name=Розпилювач будівельної піни
+item.itemThermometer.name=Термометр
+item.itemTreetap.name=Краник
+item.itemToolWrench.name=Электроключ
+item.itemMemoryStick.name=Карта пам'яті
+item.itemToolBronzeHoe.name=Бронзова мотика
+item.itemToolBronzeSpade.name=Бронзова лопата
+item.itemToolBronzeSword.name=Бронзовий меч
+item.itemToolBronzeAxe.name=Бронзова сокира
+item.itemToolBronzePickaxe.name=Бронзова кирка
+
+//Painter
+item.itemPainters.name=Валик (Предмет)
+item.itemToolPainterBlack.name=Валик з чорною фарбою
+item.itemToolPainterRed.name=Валик з червоною фарбою
+item.itemToolPainterGreen.name=Валик із зеленою фарбою
+item.itemToolPainterBrown.name=Валик з коричневою фарбою
+item.itemToolPainterBlue.name=Валик з синьою фарбою
+item.itemToolPainterPurple.name=Валик з пурпуровою фарбою
+item.itemToolPainterCyan.name=Валик з бірюзовою фарбою
+item.itemToolPainterLightGrey.name=Валик з світло-сірою фарбою
+item.itemToolPainterDarkGrey.name=Валик з темно-сірою фарбою
+item.itemToolPainterPink.name=Валик з рожевою фарбою
+item.itemToolPainterLime.name=Валик з лаймовою фарбою
+item.itemToolPainterYellow.name=Валик з жовтою фарбою
+item.itemToolPainterCloud.name=Валик з світло-синьою фарбою
+item.itemToolPainterMagenta.name=Валик з пурпуровою фарбою
+item.itemToolPainterOrange.name=Валик з помаранчевою фарбою
+item.itemToolPainterWhite.name=Валик з білою фарбою
+
+//Electric Tools
+item.itemToolMiningLaser.name=Шахтарський лазер
+item.itemToolMeter.name=Ватметр
+item.electricSprayer.name=Элекстро-розпилювач будівельної піни
+item.itemObscurator.name=Маскувальник
+item.itemToolChainsaw.name=Ланцюгова пила
+item.itemDrills.name=Бур (Предмет)
+item.itemToolDrill.name=Шахтарський бур
+item.itemToolDDrill.name=Алмазний бур
+item.itemToolJackHammer.name=Пневматичний бур
+item.itemToolHoe.name=Электромотыга
+item.itemTreetapElectric.name=Электрокраник
+item.itemNanoSabers.name=Наносабля (Предмет)
+item.itemNanoSaber.name=Наносабля
+item.itemNanoSaberActive.name=Наносабля (Активована)
+item.itemToolWrenchElectric.name=Электроключ
+item.precisionWrench.name=Акуратний электроключ
+item.itemMowingTool.name=Електрокоса
+item.itemPortableTeleporter.name=Портативний телепортатор
+
+//Scanner Item
+item.itemMetaScanners.name=Сканер (Предмет)
+item.itemScanner.name=Сканер КР
+item.itemScannerAdv.name=Сканер ЦР
+item.rangedScanner.OD.name=Покращений КР сканер
+item.rangedScanner.OV.name=Покращений ЦР сканер
+item.bigRangedScanner.OD.name=КР сканер (великий радіус дії)
+item.bigRangedScanner.OV.name=ЦР сканер (великий радіус дії)
+item.itemLowOreValueScanner.name=Слабкий КлР сканер
+item.itemMedOreValueScanner.name=Середній клр сканер
+item.itemHighOreValueScanner.name=Максимальний клр сканер
+item.itemSettedOreValueScanner.name=Регульований клр сканер
+item.itemQuarryScanner.name=Кар'єрний сканер
+item.itemFilteredScanner.name=Сканер з фільтром
+item.itemFluidScanner.name=Сканер рідин
+item.itemFluidScannerFiltered.name=Сканер рідин з фільтром
+
+//Utility Armor
+item.itemArmorCFPack.name=Ранець з піною
+item.itemArmorJetpack.name=Реактивний ранець
+item.itemStaticBoots.name=Електростатичні черевики
+item.itemNightvisionGoggles.name=Прилад нічного бачення
+item.itemSolarHelmets.name=Сонячний шолом (Предмет)
+item.itemSolarHelmet.name=Сонячний шолом
+item.itemAdvancedSolarHelmet.name=Просунутий сонячний шолом
+item.itemArmorBatpack.name=Акумуляторний ранець
+item.itemArmorLappack.name=Лазуротроновый ранець
+item.itemArmorQuantumPack.name=Квантовий ранець
+item.itemArmorIndustrialBelt.name=Промисловий пояс
+item.itemArmorJetpackElectric.name=Електричний реактивний ранець
+item.itemArmorJetpackNuclear.name=Ядерний реактивний ранець
+item.itemArmorCombinedJetpack.name=Ущільнений реактивний ранець
+item.itemArmorNuclearCombindedJetpack.name=Ущільнений ядерний реактивний ранець
+
+//Electric Armor
+item.itemArmorNanoHelmet.name=Нановолоконный шолом
+item.itemArmorNanoChestplate.name=Нановолоконный жилет
+item.itemArmorNanoLegs.name=Нановолоконные поножі
+item.itemArmorNanoBoots.name=Нановолоконные черевики
+item.itemArmorQuantumHelmet.name=Квантовий шолом
+item.itemArmorQuantumChestplate.name=Квантовий жилет
+item.itemArmorQuantumLegs.name=Квантові поножі
+item.itemArmorQuantumBoots.name=Квантові черевики
+item.itemQuantumArmorJetpack.name=Квантовий жилет (вбудований реактивний ранець)
+item.itemQuantumArmorNuclearJetplate.name=Квантовий жилет (вбудований ядерний реактивний ранець)
+
+//Normal Armor
+item.itemArmorBronzeHelmet.name=Бронзовий шолом
+item.itemArmorBronzeChestplate.name=Бронзова Кріса
+item.itemArmorBronzeLegs.name=Бронзові поножі
+item.itemArmorBronzeBoots.name=Бронзові черевики
+item.itemArmorAlloyHelmet.name=Композитний шолом
+item.itemArmorAlloyChestplate.name=Композитний жилет
+item.itemArmorAlloyLeggings.name=Композитні поножі
+item.itemArmorAlloyBoots.name=Композитні черевики
+item.itemArmorHazmatHelmet.name=Шолом-акваланг
+item.itemArmorHazmatChestplate.name=Захисна куртка
+item.itemArmorHazmatLeggings.name=Захисні штани
+item.itemArmorRubBoots.name=Гумові черевики
+
+//Shields
+item.platedShield.name=Композитний щит
+item.bronzeShield.name=Бронзовий щит
+item.nanoShield.name=Нановолоконный щит
+
+//Machine Upgrades
+item.itemUpgradeBase.name=База для поліпшень
+item.ic2upgrades.name=Поліпшення (Предмет)
+item.overclockerUpgrade.name=Поліпшення «Прискорювач»
+item.transformerUpgrade.name=Поліпшення «Трансформатор»
+item.energyStorageUpgrade.name=Поліпшення «Энергохранитель»
+item.redstoneSensitivityUpgrade.name=Поліпшення «взаємодія з червоним сигналом»
+item.redstoneInverterUpgrade.name=Поліпшення «Інвертивна взаємодія з червоним сигналом»
+item.basicItemImportUpgrade.name=Поліпшення «базовий імпортер»
+item.itemImportUpgrade.name=Поліпшення «Імпорт»
+item.basicItemExportUpgrade.name=Поліпшення «базовий виштовхувач»
+item.itemExportUpgrade.name=Поліпшення «Виштовхувач»
+item.mufflerUpgrade.name=Поліпшення «Глушник»
+item.muteUpgrade.name=Поліпшення «Беззвучний»
+item.expCollectorUpgrade.name=Поліпшення «колектор досвіду»
+item.efficiencyUpgrade.name=Поліпшення «ККД»
+item.energyMultiplierUpgrade.name=Поліпшення «множник енергоємності»
+item.loudnessUpgrade.name=Поліпшення «Гучність»
+item.roundRobinExportUpgrade.name=Поліпшення «Сторона експорту»
+item.slowdownUpgrade.name=Поліпшення «Сповільнювач»
+item.basicFilteredImportUpgrade.name=Поліпшення «базовий фільтр імпорту»
+item.filteredImportUpgrade.name=Поліпшення «фільтр імпорту»
+item.basicFilteredExportUpgrade.name=Поліпшення «базовий фільтр експорту»
+item.filteredExportUpgrade.name=Поліпшення «фільтр експорту»
+item.basicFluidImportUpgrade.name=Поліпшення «базовий імпортер рідини»
+item.fluidImportUpgrade.name=Поліпшення «імпорт рідини»
+item.basicFluidExportUpgrade.name=Поліпшення «базовий експортер рідини»
+item.fluidExportUpgrade.name=Поліпшення «експорт рідини»
+item.basicFilteredFluidImportUpgrade.name=Поліпшення «базовий рідинний фільтр імпорту»
+item.filteredFluidImportUpgrade.name=Поліпшення «рідинний фільтр імпорту»
+item.basicFilteredFluidExportUpgrade.name=Поліпшення «базовий рідинний фільтр експорту»
+item.filteredFluidExportUpgrade.name=Поліпшення «рідинний фільтр експорту»
+item.reactorTrackerUpgrade.name=Поліпшення «модернізація реактора»
+item.cobbleGenUpgrade.name=Поліпшення «Генератор кругляка»
+item.craftingUpgrade.name=Поліпшення «Створення»
+item.quantumOverclockerUpgrade.name=Поліпшення «Квантовий ускориткль»
+item.efficientSawbladeUpgrade.name=Поліпшення «ефективність пильного диска»
+item.durableSawbladeUpgrade.name=Поліпшення «міцність пильного диска»
+item.creativeUpgrade.name=Творче поліпшення
+
+//Chargepad Upgrade
+item.itemChargePadUpgrade.name=Поліпшення заряджаючої плити
+item.upgradeKit.crystalizor.name=Кристалізуючий комплект оновлення
+item.upgradeKit.mfs.name=Модуль оновлення MFS
+item.upgradeKit.lapotronic.name=Лазуротроновий комплект оновлення
+item.upgradeKit.fission.name=Розподіляючий комплект оновлення
+item.padUpgrade.damage.name=Поліпшення «Знищувач»
+item.padUpgrade.drain.name=Поліпшення «Поглинач»
+item.padUpgrade.proximity.name=Поліпшення «Близькість»
+item.padUpgrade.wideband.name=Поліпшення «Розширювач»
+item.padUpgrade.armorPriority.name=Поліпшення «Бронезаряжатель»
+item.padUpgrade.fieldExp1.name=Поліпшення «слабкий дистанційний модуль»
+item.padUpgrade.fieldExp2.name=Поліпшення «середній дистанційний модуль»
+item.padUpgrade.fieldExp3.name=Поліпшення «покращений дистанційний модуль»
+
+//Inventory Upgrade
+item.inventoryUpgrades.name=Інвентар (Предмет)
+item.automationUpgrade.name=Поліпшення «Автоматизація»
+item.sideAccessUpgrade.name=Поліпшення «Доступ»
+item.rotationDisablerUpgrade.name=Поліпшення «заборона повороту»
+item.slotTypeModifierUpgrade.name=Поліпшення «тип слота»
+item.slotAccessModifierUpgrade.name=Поліпшення»доступ слота"
+item.slotSideModifierUpgrade.name=Поліпшення «Сторона слота»
+item.redstoneDeconductorUpgrade.name=Поліпшення «ізолятор червоного сигналу»
+item.slotDiversityUpgrade.name=Поліпшення «модернізація слотів»
+item.stackDiversityUpgrade.name=Поліпшення «поділ стеків»
+item.itemLimiterUpgrade.name=Поліпшення»Огнаеічітель стека"
+item.stackLimiterUpgrade.name=Поліпшення «Вогнаеічітель стека елементів»
+item.itemUpgradeContainer.name=Поліпшення «Місткість»
+
+//TFBP
+item.itemTFBPBase.name=Порожній террачип
+item.itemTFBPMushroom.name=Террачип «Гриби»
+item.itemTFBPCultivation.name=Террачип «Озеленення»
+item.itemTFBPIrrigation.name=Террачип «Зрошення»
+item.itemTFBPChilling.name=Террачип «Охолодження»
+item.itemTFBPDesertification.name=Террачип «Опустелювання»
+item.itemTFBPFlatification.name=Террачип «Вирівнювання»
+item.itemBiomeBPCultivation.name=Биомный террачип - «Культивація»
+item.itemBiomeBPDesertification.name=Биомный террачип - «Опустелювання»
+item.itemBiomeBPForestification.name=Біомний террачип - «озеленення»
+item.itemBiomeBPIrrigation.name=Біомний террачип - «зрошення»
+item.itemBiomeBPMushroom.name=Биомный террачип - «Гриби»
+item.itemBiomeBPUndergrowth.name=Біомний террачип - «Підлісся»
+item.itemBiomeBPChilling.name=Биомный террачип - «Охолодження»
+
+//Reactor Comp
+item.itemReactorRods.name=Уранний стрижень
+item.itemDepletedRods.name=Вичерпаний урановий стрижень
+
+item.reactorUraniumSimple.name=ТВЕЛ
+item.reactorUraniumDual.name=Спарений ТВЕЛ
+item.reactorUraniumQuad.name=Счетверенний ТВЕЛ
+item.itemCellUranEmpty.name=Вичерпаний ТВЕЛ
+item.reactorIsotopeCell.name=Збіднений ТВЕЛ
+item.itemCellUranEnriched.name=Низькозбагачений ТВЕЛ
+
+item.reactorUraniumRedstoneSimple.name=Червоний ТВЕЛ
+item.reactorUraniumRedstoneDual.name=Спарений червоний ТВЕЛ
+item.reactorUraniumRedstoneQuad.name=Счетверенний червоний ТВЕЛ
+item.itemCellRedstoneEnrichedUranEmpty.name=Вичерпаний червоний ТВЕЛ
+item.itemDepletedRedstoneEnrichedUraniumCell.name=Збіднений червоний ТВЕЛ
+item.itemCellRedstoneUranEnriched.name=Низькозбагачений червоний ТВЕЛ
+
+item.reactorUraniumBlazeSimple.name=Ифритовый ТВЕЛ
+item.reactorUraniumBlazeDual.name=Спарений ифритовый ТВЕЛ
+item.reactorUraniumBlazeQuad.name=Счетверенний ифритовый ТВЕЛ
+item.itemCellBlazeEnrichedUranEmpty.name=Вичерпаний ифритовый ТВЕЛ
+item.itemDepletedBlazeEnrichedUraniumCell.name=Збіднений ифритовый ТВЕЛ
+item.itemCellBlazeUranEnriched.name=Низькозбагачений ифритовый ТВЕЛ
+
+item.reactorUraniumEnderPearlSimple.name=Ендер-ТВЕЛ
+item.reactorUraniumEnderPearlDual.name=Спарений Ендер-ТВЕЛ
+item.reactorUraniumEnderPearlQuad.name=Счетверенний Ендер-ТВЕЛ
+item.itemCellEnderPearlEnrichedUranEmpty.name=Вичерпаний Ендер-ТВЕЛ
+item.itemDepletedEnderPearlEnrichedUraniumCell.name=Збіднений Ендер-ТВЕЛ
+item.itemCellEnderPearlUranEnriched.name=Низькозбагачений Ендер-ТВЕЛ
+
+item.reactorUraniumNetherStarSimple.name=ТВЕЛ збагачений пекельною зіркою
+item.reactorUraniumNetherStarDual.name=Спарений ТВЕЛ збагачений пекельною зіркою
+item.reactorUraniumNetherStarQuad.name=Счетверенний ТВЕЛ збагачений пекельною зіркою
+item.itemCellNetherStarEnrichedUranEmpty.name=Вичерпаний ТВЕЛ збагачений пекельною зіркою
+item.itemDepletedNetherStarEnrichedUraniumCell.name=Збіднений ТВЕЛ збагачений пекельною зіркою
+item.itemCellNetherStarUranEnriched.name=Низькозбагачений ТВЕЛ збагачений пекельною зіркою
+
+item.reactorUraniumCharcoalSimple.name=ТВЕЛ збагачений деревним вугіллям
+item.reactorUraniumCharcoalDual.name=Спарений ТВЕЛ збагачений деревним вугіллям
+item.reactorUraniumCharcoalQuad.name=Счетверенний ТВЕЛ збагачений деревним вугіллям
+item.itemCellCharcoalEnrichedUranEmpty.name=Вичерпаний ТВЕЛ збагачений деревним вугіллям
+item.itemDepletedCharcoalEnrichedUraniumCell.name=Збіднений ТВЕЛ збагачений деревним вугіллям
+item.itemCellCharcoalUranEnriched.name=Низькозбагачений ТВЕЛ збагачений деревним вугіллям
+
+item.itemReflectors.name=Відбивач
+item.reactorReflector.name=Нейтронний відбивач
+item.reactorReflectorThick.name=Щільний відбивач нейтронів
+item.reactorReflectorIridium.name=Іридієвий нейтронний відбивач
+
+item.itemCondensators.name=Теплоконденсаторы
+item.reactorCondensator.name=Червоний теплоконденсатор
+item.reactorCondensatorLap.name=Лазуритовий теплоконденсатор
+
+item.itemReactorPlating.name=Обшивка реактора
+item.reactorPlatingHeat.name=Теплоємна обшивка реактора
+item.reactorPlatingExplosive.name=Стримуюча обшивка реактора
+
+item.itemHeatSwtiches.name=Теплообмінник
+item.reactorHeatSwitch.name=Теплообмінник
+item.reactorHeatSwitchCore.name=Теплообмінник реактора
+item.reactorHeatSwitchSpread.name=Теплообмінник компонентів
+item.reactorHeatSwitchDiamond.name=Покращений теплообмінник
+
+item.itemHeatStorage.name=Охолоджуючі капсули
+item.reactorCoolantSimple.name=Охолоджуюча капсула 10K
+item.reactorCoolantTriple.name=Охолоджуюча капсула 30K
+item.reactorCoolantSix.name=Охолоджуюча капсула 60k
+
+item.itemHeatVent.name=Тепловідведення
+item.reactorVent.name=Тепловідведення
+item.reactorVentCore.name=Тепловідвід реактора
+item.reactorVentGold.name=Розігнаний тепловідвід
+item.reactorVentDiamond.name=Покращений тепловідвід
+
+item.reactorSteamVent.name=Паровий тепловідвід
+item.reactorSteamVentCore.name=Паровий тепловідвід реактора
+item.reactorSteamVentGold.name=Розігнаний паровий тепловідвід
+item.reactorSteamVentDiamond.name=Покращений паровий тепловідвід
+
+item.reactorElectricVent.name=Електричний тепловідвід
+item.reactorElectricVentCore.name=Електричний тепловідвід реактора
+item.reactorElectricVentGold.name=Розігнаний електричний тепловідвід
+item.reactorElectricVentDiamond.name=Покращений електричний тепловідвід
+
+item.itemInactiveFuelCell.name=Неактивний паливний елемент
+item.reactorHeatpack.name=Нагріваюча капсула
+item.reactorVentSpread.name=Тепловідвід компонентів
+
+//Misc item
+item.itemDustIron.name=Залізний пил
+item.itemDustGold.name=Золотий пил
+item.itemDustCopper.name=Мідний пил
+item.itemDustTin.name=Олов'яний пил
+item.itemDustBronze.name=Бронзовий пил
+item.itemDustSilver.name=Срібний пил
+item.itemDustCoal.name=Вугільний пил
+item.itemFuelCoalDust.name=Гідратований вугільний пил
+item.itemDustClay.name=Глиняний пил
+item.itemObsidianDust.name=Обсидіановий пил
+item.itemDustIronSmall.name=Купка залізного пилу
+item.itemNetherrackDust.name=Незеритовая пил
+item.itemCharcoalDust.name=Деревний вугільний пил
+item.itemFuelCharcoalDust.name=Гідратований деревний вугільний пил
+item.itemRareEarthDust.name=Рідкоземельний пил
+
+
+item.itemIngotCopper.name=Мідний злиток
+item.itemIngotTin.name=Олов'яний злиток
+item.itemIngotBronze.name=Бронзовий злиток
+item.itemIngotAdvIron.name=Злиток очищеного заліза
+item.itemIngotSilver.name=Срібний злиток
+item.itemIngotUran.name=Збагачений уран
+item.itemIngotAlloy.name=Композитний злиток
+item.itemRedstoneEnrichedUranium.name=Збагачений червоний урановий злиток
+item.itemBlazeEnrichedUranium.name=Збагачений ифритово-урановий злиток
+item.itemEnderPearlEnrichedUranium.name=Збагачений эндеро-урановий злиток
+item.itemNetherStarEnrichedUranium.name=Збагачений пекельною зіркою уран
+item.itemCharcoalEnrichedUranium.name=Збагачений деревним вугіллям урановий злиток
+
+item.itemCellAir.name=Капсула зі стисненим повітрям
+item.itemCellCoal.name=Капсула з гідратованим вугіллям
+item.itemCellCoalRef.name=Капсула з вугільним паливом
+item.itemCellBio.name=Капсула з біомасою
+item.itemCellBioRef.name=Капсула з біопаливом
+item.itemCellWaterElectro.name=Капсула з електролізованою водою
+item.itemCellFuel.name=Капсула з топдовом
+item.itemCellWoodGas.name=Капсула з деревним газом
+item.itemCellPlasma.name=Капсула з плазмою
+
+item.itemGrinPowder.name=Токсичний пил
+item.itemFertilizer.name=Добриво
+item.itemHops.name=Насіння
+item.itemCoffeeBeans.name=Кавові зерна
+item.itemCoffeePowder.name=Мелена кава
+item.itemTeaLeaf.name=Чайний лист
+item.itemFlour.name=Борошно
+item.itemSpecialFertilizer.name=Гіпер-добриво
+item.itemHempSeeds.name=Насіння конопель
+item.itemHemp.name=Коноплі
+item.itemReviveFertilizer.name=Відновлювальне добриво
+
+item.itemOreUran.name=Уранова руда
+item.itemOreIridium.name=Іридієва руда
+
+item.itemScrap.name=Утильсировина
+item.itemScrapMetal.name=Металобрухт
+item.itemMatter.name=Матерія
+
+item.itemPartCoalBall.name=Вугільна кулька
+item.itemPartCoalBlock.name=Стиснутий вугільний кулька
+item.itemPartCoalChunk.name=Вугільна брила
+item.itemPartIndustrialDiamond.name=Штучний алмаз
+item.itemPartCarbonFibre.name=Углеволокно
+item.itemPartCarbonMesh.name=Вуглетканина
+item.itemPartCarbonPlate.name=Вуглепластик
+item.itemPartAlloy.name=Композит
+item.itemPartIridium.name=Іридієвий композит
+item.itemPartDCP.name=Щільна мідна пластина
+item.itemRareEarthChunk.name=Рідкоземельні брила
+item.itemDeadMagnet.name=Розряджений магніт
+item.itemMagnet.name=Магніт
+item.itemPlasmaCore.name=Плазмове ядро
+
+item.scrapMetalChunk.name=Шматок металобрухту
+item.scrapMetalBlade.name=Металеве лезо
+item.itemRawObsidianBlade.name=Необроблене лезо з обсидіану
+item.itemObsidianBlade.name=Лезо з обсидіану
+item.itemTurbineBlade.name=Лопаті турбіни
+
+item.itemFuelPlantBall.name=Біомаса
+item.itemFuelPlantCmpr.name=Стиснута біомаса
+item.itemFuelCoalCmpr.name=Гідратоване вугілля
+item.itemBioMesh.name=Органічна сітка
+item.itemBioBall.name=Ком біомаси
+item.itemRawBioFiber.name=Сире Біо-волокно
+item.itemCompressedBioBall.name=Стиснутий біо-куб
+item.itemBioChunk.name=Біо-шматок
+
+item.itemToolPainter.name=Валик
+item.itemTFBP.name=Порожній террачип
+item.itemTerraformerBiomeBlueprint.name=Порожній біомний террачип
+
+item.itemRubber.name=Гума
+item.itemPartCircuit.name=Електросхема
+item.itemPartCircuitAdv.name=Покращена електросхема
+
+item.itemTinCan.name=Консервна банка
+item.itemMugEmpty.name=Кухоль
+
+item.itemPartPellet.name=Стиснута будівельна піна
+
+//Crops
+ic2.crop.Weed.name=Бур'ян
+ic2.crop.Wheat.name=Пшениця
+ic2.crop.Pumpkin.name=Гарбуз
+ic2.crop.Melon.name=Кавун
+ic2.crop.Dandelion.name=Кульбаба
+ic2.crop.Rose.name=Троянда
+ic2.crop.Blackthorn.name=Терен
+ic2.crop.Tulip.name=Тюльпан
+ic2.crop.Cyazint.name=Гіацинт
+ic2.crop.Venomilia.name=Веномилия
+ic2.crop.Reed.name=Рід
+ic2.crop.Stickreed.name=Гумовий Очерет
+ic2.crop.Cocoa.name=Какао
+ic2.crop.Ferru.name=Железняк (Феррий)
+ic2.crop.Malachite.name=Малахіт
+ic2.crop.Stannum.name=Олово
+ic2.crop.Aurelia.name=Золотница (Аурелія)
+ic2.crop.Argentum.name=Срібло (Аргентум)
+ic2.crop.Redwheat.name=Червона пшениця (Рэдник)
+ic2.crop.NetherWart.name=Пекельний наріст
+ic2.crop.TerraWart.name=Земляний Наріст
+ic2.crop.Coffee.name=Кава
+ic2.crop.Hops.name=Хмелю
+ic2.crop.Carrots.name=Морква
+ic2.crop.Potato.name=Картопля
+ic2.crop.RedMushroom.name=Червоний гриб
+ic2.crop.BrownMushroom.name=Коричневий гриб
+ic2.crop.Cacti.name=Кактус
+ic2.crop.Tea.name=Чай
+ic2.crop.oakSapling.name=Дубовий саджанець
+ic2.crop.spruceSapling.name=Ялиновий саджанець
+ic2.crop.birchSapling.name=Березовий саджанець
+ic2.crop.jungleSapling.name=Тропічний саджанець
+ic2.crop.acaciaSapling.name=Саджанець акації
+ic2.crop.dark_oakSapling.name=Саджанець темного дуба
+ic2.crop.BeetRoots.name=Бурякові коріння
+ic2.crop.BlueWheat.name=Водяна пшениця
+ic2.crop.Hemp.name=Коноплі
+ic2.crop.Lumilia.name=Люмилия
+ic2.crop.GlowShroom.name=Светопыль
+
+//CropSorting
+cropSorter.allStats.name=Всі характеристики
+cropSorter.growth.name=Зростання
+cropSorter.gain.name=Посилення
+cropSorter.resistance.name=Опору
+cropSorter.count.name=Кількість
+
+//Fluids
+fluid.coolant.name=Холодоагент
+fluid.woodgas.name=Деревний газ
+fluid.steam.name=Пар
+
+//DamageSource
+death.electricity=%1$s убитий струмом.
+death.attack.electricity=%1$s убитий струмом.
+death.nuke=% 1$s підірваний ядерною бомбою.
+death.attack.nuke=% 1$s підірваний ядерною бомбою.
+death.radiation=%1$s помер від радіації.
+death.attack.radiation=%1$s був похований радіактивним випромінюванням.
+
+//Potion
+potion.radiation.name=Радіація
+
+//Tabs
+itemGroup.ic2=IndustrialCraft 2
+
+//Container
+container.inventory=Інвентар
+
+//Personal Storage
+container.personalAllowView.name=Дозволити перегляд
+container.personalVoid.name=Видалити всі
+container.personalAllowInjection.name=Дозволити імпорт зі світу
+container.personalAllowExtraction.name=Дозволити експорт у світ
+container.personalVoidExtra.name=Необхідно утримувати Shift і Ctrl
+container.personalAllowTeam.name=Дозволити взаємодію учасникам команди
+
+//Trade-O-Mat
+container.tradeMoneyNeeded.name=Ціна: 
+container.tradeMoneyNeededTrade.name=Ціна: %s монет
+container.tradeTradingCap.name=Торгове з'єднання: 
+container.tradeDelay.name=Затримка обміну: 
+container.tradeNothing.name=Нічого не сталося
+container.tradeStock.name=Наявність: 
+container.tradeCount.name=Угода: 
+container.tradeNeeds.name=Скуповування: 
+container.tradeNeedsEntry.name=%1$s: %2$sx
+container.tradeProvided.name=Продаж:
+container.tradeNotPresent.name=Угода не може бути виконана
+container.tradeNoRoom.name=Відсутній вихідний предмет
+container.tradeEnergyProvided.name=Пропонується EU:
+container.tradeInfinite.name=Нескінченний запас
+container.tradeSupportsOre.name=Підтримує OreDictionary
+container.tradeIgnoresNBT.name=Ігнорує NBTData
+container.tradeHasDelay.name=Має затримку між угодами: %s
+container.tradeHasCap.name=Має обмеження кількості угод на гравця: %s
+container.marketOreDict.name=Використовувати OreDictionary
+container.marketAddEntry.name=Додавши
+container.marketMoneyEntry.name=Значення: %s
+container.marketOreDictMoneyEntry.name=Ore: %1$s, Значення: %2$s
+
+
+//Trade-O-Mat button
+container.tradeDeleteTrade.name=Вилучити угоду
+container.tradeNewTrade.name=Створити угоду
+container.tradeDeleteSubTrade.name=Видалити суб-угоду
+container.tradeAddCustomTrade.name=Створити звичайну угоду
+container.tradeCustomInfo.name=Інформація про угоду
+container.tradeNewSubTrade.name=Нова / наступна суб-угода
+container.tradeCreative.name=Творчий запас
+container.tradeMoney.name=Використовувати гроші
+container.tradeSetDelay.name=Затримка між угодами
+container.tradeSetCap.name=Обмеження кількості угод на гравця
+container.tradeFinalizeTrade.name=Створити угоду
+container.tradeCancelTrade.name=Відмінивши
+container.tradeSupportLocalMarket.name=Використовувати локальний ринок
+container.tradeSupportGlobalMarket.name=Використовувати глобальний ринок
+container.tradeUseOreDict.name=Використовувати OreDictionary
+container.tradeUseNBT.name=Використовувати NBT
+container.tradeLoad.name=Завантаження угод
+container.tradeButton.name=Торгівля
+container.tradeRequirements.name=Торгові вимоги
+container.tradeShowItems.name=Показати елементи наведення (HoverItems)
+
+//Solar Turbine
+container.solarTurbineHeat.name=Темп.:
+container.thermalAmbientHeat.name=Am Темп.
+container.thermalAmbientEU.name=EU / Тік:
+
+//Energy Storage
+container.energyStorageCharge.name=Заряд:
+container.energyStorageOutput.name=Вихід: % 1$s EU / t
+container.redstoneModeNothing.name=Не випускати сигнал
+container.redstoneModeFull.name=Випромінювати сигнал якщо заряджено
+container.redstoneModePartiallyFilled.name=Випромінювати сигнал якщо частково заряджено
+container.redstoneMode50Full.name=Випромінювати сигнал якщо заряджено більше половини
+container.redstoneMode50Empty.name=Випромінювати сигнал якщо заряджено менше половини
+container.redstoneModeEmpty.name=Випромінювати сигнал якщо сховище розряджено
+container.redstoneModeOutputWithoutSignal.name=При подачі червоного сигналу не віддавати енергію
+container.redstoneModeOutputWithoutSignalWhenFull.name=При подачі червоного сигналу віддавати енергію тільки в тому випадку якщо сховище заповнене
+
+container.energyPerPacket.name=EU / Пакет: %s 
+container.packetCountPerTick.name=Макс.пакет/t: %1$sx %2$sEU
+container.packetsPerTick.name=Макс.пакет/t: %1$sx
+
+container.energyIncrease.name=Час зарядки: %s
+container.energyDecrease.name=Час розрядки: %s
+container.energyNothing.name=Немає потоку енергії
+container.energyOutput.name=Out: 
+container.nothingHappend.name=Нічого не сталося
+
+container.stationModeCharging.name=Енергохранитель: режим зарядки батареї
+container.stationModeDischarging.name=Енергохранитель: режим акумуляторної батареї
+container.stationModeBatbox.name=Енергохранитель: стаціонарний режим
+
+container.sendingModeLow.name=Режим енергії: режим низького споживання енергії
+container.sendingModeHigh.name=Режим енергії: режим високого споживання енергії
+container.sendingModePacket.name=Режим енергії: режим пакетної передачі енергії
+
+//AdvMachine
+container.machineSpeed.name=Швидкість:
+container.machinePressure.name=Тиск:
+container.machineVacuum.name=Вакуум:
+container.machineHeat.name=Темп.:
+
+//Sound beacon
+container.soundBeaconTile.name=Блок
+container.soundBeaconItem.name=Предмет
+container.soundBeaconArmor.name=Броня
+container.soundBeaconEffect.name=Ефект: %s
+container.soundBeaconRange.name=Радіус: %s блоків
+
+//Worktable
+container.ignoreDurability.name=Ігноруйте міцність
+container.restock.name=Інвентар для відновлення запасів
+container.recursive.name=Рекурсивне створення
+container.worktableCenterGui.name=Центрувати Gui
+container.worktableError.requiredReqursive.name=Недостатньо %s і рекурсивне створення вимкнено
+container.worktableError.noRecipeFound.name=Не вдалося знайти рецепт для %s
+container.worktableError.toDeepRecipe.name=Рецептом потрібно більше 5 глибоких суб-створінь.
+container.worktableError.recipeToComplex.name=Вихід за кордон суб-створінь: %1$s суб-створінь на рецепт.
+container.worktableError.noSubRecipeFound.name=Не вдалося знайти рецепт створення %1$s, необхідний для створення %2$s
+container.worktableError.subCraftFailed.name=Не вдалося створити предмет %1$s необхідний для створення %2$s
+container.worktableError.subCraftFailedUnknown.name=Суб-створення %s не вдалося. Невідомо чому
+container.worktableError.toMuchOverflow.name=Занадто багато побічних ресурсів для даного рецепта.
+container.onlyCollection.name=Деякі з рецептів не підходять для збору.
+
+//Scanner
+container.scannerReset.name=Скидання
+
+//ReactorPlanner
+//Sorter Buttons
+container.compCategoryButton.name=Сорт.
+container.comCategoryAll.name=Всі компоненти
+container.compCategoryRods.name=Топлеві елементи
+container.compCategoryCoolant.name=Охолоджуючі елементи
+container.compCategoryCondensators.name=Конденсатор
+container.compCategoryHeatPacks.name=Теплові елементи
+container.compCategoryVents.name=Тепловідведення
+container.compCategorySpreadVents.name=Розподільні тепловідводи
+container.compCategorySwitches.name=Теплообмінник
+container.compCategoryPlates.name=Обшивка
+container.compCategoryReflectors.name=Відбивачі нейтронів
+container.compCategoryIsotopics.name=Збіднені ТВЕЛ'И
+
+//Planner Buttons
+container.simulationStart.name=Старт
+container.simulationStop.name=Стоп
+container.simulationPause.name=Пауза
+container.simulationRun.name=Запуск
+container.simulationCompile.name=Зібравши
+container.simulationReset.name=Скидання
+container.simulationBackup.name=Сохр.
+container.simulationRestore.name=Відновл-ить
+container.simulationClear.name=Очистивши
+container.setupExport.name=Експорт
+container.setupImport.name=Імпорт
+container.setupImportFailedNoDecoder.name=Декодер не знайдено
+container.setupImportingFailed.name=Помилка імпорту програми установки
+container.setupImported.name=Програма успішно імпортована
+container.setupExported.name=Програма успішно експортована
+container.setupExportFailed.name=Не вдалося експортувати програму
+container.setupExporterFailed.name=Експортеру не вдалося створити програму встановлення
+container.setupExportFailedNoEncoder.name=Кодувальник не знайдено
+container.componentsReplaced.name=Всього замін: %s
+container.reactorPrediction.name=Прогнозування
+container.reactorSetupInfo.name=Інформація
+container.reactorSetupName.name=Установка імені
+container.reactorComponentInfo.name=Статус компонентів
+container.reactorActiveInfo.name=Інформація про робочий стан
+container.reactorButton.name=Реактор
+container.steamReactorButton.name=Паровий реактор
+container.reactorStartingHeat.name=Старт-я темп.
+container.reactorCustomTime.name=Уст-ка таймера
+container.reactorSimSpeed.name=Скор-ть симуляції
+
+//Simulation Info
+container.expectedSteamProduction.name=Очікувана пара / t: %s
+container.totalSteamProduction.name=Загальна пара :%s mb
+container.expectedEUProduction.name=Очікувана генерація енергії EU/ t: %s
+container.totalEUProduction.name=Згенеровано EU: %s
+container.totalHeatProduction.name=Всього тепла: %s
+container.explosionEffectModifier.name=Ефект вибуху: %s
+container.reactorEfficiency.name=Ефективність (EU): %1$s з %2$s
+container.isBreeder.name=Виробник: %s
+container.expectedHeat.name=Очікуване тепло: %s
+container.expectedHeatPackHeat.name=Тепло (пакетів): %s
+container.expectedVentCooling.name=Охолодження тепловідводами: %s
+container.expectedReactorCooling.name=Охолодження реактора: %s
+container.excessCooling.name=Переохолодження: %s
+container.excessHeating.name=Перегрів: %s
+container.currentEUProduction.name=Генерація EU/ t: %s
+container.currentProducedEU.name=Вироблено EU:%s
+container.activeSteamProduction.name=Вироблений пар/ t :%s mB
+container.currentWaterUsed.name=Використано води: %s mB
+container.currentHeat.name=Температура ядра: %s
+container.currentMaxReactorHeat.name=Температура плавлення: %s
+container.currentHeatEffectMod.name=Шанс перегріву: %s
+container.currentSimulationTime.name=Час симуляції: %s Реактор тиків
+container.currentActiveTime.name=Всього часу пройшло: %1$s з %2$s
+container.noComponentSelected.name=Немає вибраного компонента
+
+//Component Stats
+container.reactorStatHeatProduction.name=Базова Генерація тепла: %s
+container.reactorStatEnergyProduction.name=Базова генерація енергії: %s
+container.reactorStatRodAmount.name=Кол. стрижнів: %s
+container.reactorStatPulseAmount.name=Внутрішні імпульси: %s
+container.reactorStatSelfCooling.name=Самоохолодження: %s
+container.reactorStatPartCooling.name=Охолодження компонентів: %s
+container.reactorStatReactorCooling.name=Поглинається тепла реактором: %s
+container.reactorStatPartChange.name=Теплопередача компонента: %s
+container.reactorStatReactorChange.name=Теплопередача реактора: %s
+container.reactorStatHeatStorage.name=Макс. темп.: %s
+container.reactorStatReactorMaxHeat.name=Доп. темп. реактора: %s
+container.reactorStatReactorEEM.name=Модифікатор вибуху: %s
+container.reactorStatMaxDurability.name=Макс. шкоди: %s
+container.reactorStatEnergyUsage.name=Базове використання енергії: %s
+container.reactorStatWaterConsumtion.name=Споживання води: %s
+container.reactorStatSteamProduction.name=Виробництво пари: %s
+container.reactorStatWaterStorage.name=Зберігання води: %s
+
+//Electric Enchanter
+container.enchantingStart.name=Старт
+container.addXP.name=Додати XP
+container.removeXP.name=Видалити XP
+container.enchLevel.name=Рівень: %s
+container.everything.name=Весь
+
+//MassFab
+container.fabricationProgress.name=Прогрес:
+container.scrapAmplifier.name=Прискорення:
+
+//Uranium Enricher
+container.uranType.name=Тип урану: %s
+container.uranAmount.name=%1$s / %2$s
+container.noUran.name=Нічого
+
+//Machine Buffers
+container.upgradeTick.name=Оновлення по тику
+container.upgradeTickNotify.name=Повідомляти про оновлення
+
+//buttons
+container.buttonCtrl.name=Ctrl: 
+container.buttonAlt.name=Alt: 
+container.buttonShift.name=Shift: 
+
+//Time
+container.day.name=День
+container.hour.name=Година
+container.minute.name=Хвилина
+container.second.name=Секкунда
+
+//FluidTank
+container.fluidTank.name=§f§lЖидкостныйРезервуар§r
+container.fluidStored.name=Рідина: %s
+container.fluidAmount.name=Збережена рідина: %1$s mB / %2$s mB
+container.fluidNone.name=Немає рідини
+container.fluidAmountSingle.name=Кількість рідини: %s
+
+//EU
+container.eu.name=%s EU
+container.euATick.name=%s EU/t
+container.packetEuATick.name=%1$sx %2$s EU/t
+
+//Items
+container.saveButton.name=Зберігши
+container.staticValue.name=Статичне значення
+container.invertedValue.name=Инвертивное значення
+container.byteValue.name=Значення байта
+container.sideInfo.name=Сторона: %s
+container.comparatorInfo.name=Режим: %s
+
+//Crop Analyzer
+container.cropUnknown.name=НЕВІДОМИЙ
+container.cropTier.name=Рівень: %s
+container.cropOwner.name=Виявлений: 
+container.cropGrowth.name=Зростання: 
+container.cropResistance.name=Опірність: 
+container.cropGain.name=Приріст: 
+container.cropCount.name=Кількість: %s
+container.enough.name=Досить!
+container.next.name=Наступний
+container.sort.name=Сортувати
+container.catAll.name=Все насіння
+
+//Inv Upgrades
+container.invUpgradeSlotID.name=ID Слота: %s
+container.invUpgradeSlotType.name=Тип: %s
+container.upgradeInvert.name=Інвертувати
+container.upgradeUseMeta.name=Порівнювати Meta
+container.upgradeUseNBT.name=Порівнювати NBT
+container.upgradeUseOreDict.name=Порівнювати Ore-Dictionary
+
+//Teleporter
+container.teleporterNewName.name=Мета телепортатора: %s
+container.teleporterInvalidTarget.name=Невалидная мета. Видалення позиції
+container.teleporterTargetTypeInvalid.name=Телепортація ускладнена на стороні мети
+container.teleporterTeleport.name=Телепорт
+container.teleporterRename.name=Переим.
+
+//tileInfo
+tileInfo.wrenchCantPick.name=Гайковий ключ не може взаємодіяти поки інвентар заповнений.
+tileInfo.reactorHeat.name=Темп.: %1$s / %2$s
+tileInfo.machineFuel.name=Паливо: %1$s / %2$s
+tileInfo.machineProgress.name=ПРОГРЕС: %1$s / %2$s
+tileInfo.machineNotifies.name=Повідомляє буфери
+tileInfo.secondaryMachineProgress.name=Вторинний ПРОГРЕС: %1$s / %2$s
+tileInfo.machineSpeed.name=Швидкість: %1$s / %2$s
+tileInfo.cableColor.name=Колір кабелю: %1$s
+tileInfo.ampliefier.name=Підсилювач: %1$s / %2$s
+tileInfo.itemTransferTier.name=Швидкість передачі: %s EU
+tileInfo.sinkTier.name=Вхідний рівень: %s
+tileInfo.sourceTier.name=Вихідний рівень: %s
+tileInfo.euTier.name=Рівень енергії: %s
+tileInfo.euStorage.name=Збережена енергія: %1$s / %2$s EU
+tileInfo.euOutput.name=Макс. вхід: %1$s EU
+tileInfo.packetCount.name=Вихідних пакетів в ТВК: %s
+tileInfo.euUsage.name=Використання енергії: %s EU
+
+//Crop info
+tileInfo.cropMaxScan.name=Рівень сканування вже досяг максимуму
+tileInfo.cropScanIncrease.name=Збільшення рівня сканування до: %s
+tileInfo.cropScanIncreaseFailed.name=Недостатньо енергії для збільшення рівня сканування
+tileInfo.cropUnknown.name=%1 $ ѕнеізвестний посів
+tileInfo.cropName.name=Назва посіву:%3$s %1$s (від %2$s)
+tileInfo.cropSize.name=Розмір посіву:%3$s %1$s / %2$s
+tileInfo.cropNutrient.name=Накопичення поживних речовин:%3 $s %1$s / %2$s
+tileInfo.cropWater.name=Зберігання води:%3$s %1$s / %2$s
+tileInfo.cropWeedEx.name=Накопичення засобу від бур'янів:%3$s %1$s / %2$s
+tileInfo.cropNutrientPoints.name=Поживні речовини посіву:%2$s %1$s
+tileInfo.cropHumidityPoints.name=Врожайність:%2$s %1$s
+tileInfo.cropAirPoints.name=Якість повітря для врожаю:%2$s %1$s
+tileInfo.cropGrowthPoints.name=Точки зростання:%3$s %1$s / %2$s
+tileInfo.cropGrowStat.name=Стабільність зростання:%2$s %1$s
+tileInfo.cropGainStat.name=Коефіцієнт приросту:%2$s %1$s
+tileInfo.cropResistanceStat.name=Стабільність опору:%2$s %1$s
+
+//BeerInfo
+tileInfo.beerType.name=Тип: %s
+tileInfo.beerAge.name=Возвраст: %s
+tileInfo.beerWater.name=Літри: %1$s / %2$s
+tileInfo.beerWheat.name=Сухий залишок: %1$s / %2$s
+tileInfo.beerHops.name=Хміль: %1$s / %2$s
+tileInfo.beerRatioWheat.name=Частка пшона: %s
+tileInfo.beerRatioHops.name=Частка хмелю: %s
+tileInfo.beerRatioTime.name=Час бродіння: %s
+tileInfo.beerBeer.name=Пиво
+tileInfo.beerRum.name=Ром
+
+//itemInfo
+itemInfo.electricTransferRate.name=Швидкість передачі: %s EU
+itemInfo.electricTransferRateVariable.name=Змінна
+itemInfo.electricMaxIn.name=Макс. вхід :%s EU
+itemInfo.electricMaxStorage.name=Макс. зберігання :%s EU
+itemInfo.electricTransformer.name=Вхід: %1$s EU, Вихід: %2$s EU 4x
+itemInfo.electricProduction.name=Генерація: %s EU
+itemInfo.updatesSlowly.name=Оновлення виробляються надзвичайно повільно (кожні 5 хв)
+itemInfo.chargePadWrongSide.name=Оновлення необхідно вводити знизу
+itemInfo.treeTapEffect.name=Додає липку смолу безпосередньо у ваш інвентар
+itemInfo.losslessWrenchModeOn.name=Включення режиму "без втрат"
+itemInfo.losslessWrenchModeOff.name=Відключення режиму "Без втрат"
+itemInfo.losslessWrenchUses.name=Режим" без втрат «використовувався: %s разів
+itemInfo.losslessWrenchInfiniteUses.name=Повністю без втрат
+itemInfo.lossChance.name=Шанс вдалого випадання: %s
+itemInfo.enabledMowing.name=Електрокоса відключена
+itemInfo.disabledMowing.name=Електрокоса включена
+itemInfo.disableDrillMode.name=Режим" бруд «відключений
+itemInfo.enableDrillMode.name=Режим" бруд «включений
+itemInfo.drillModeSwitch.name=Перемикання режиму "бруд"
+itemInfo.drillProbing.name=скануйте область перед вами, утримуючи сканер
+itemInfo.drillProbeResult.name=[Бурове сканування]: Значення руд в області 3x%1$sx3 становить: %2$s
+itemInfo.drillRockCutter.name=Добувати шалено швидко тільки камінь
+itemInfo.noTeleportTarget.name=Немає мети для телепортації
+itemInfo.clearedTeleporterTarget.name=Мета видалена
+itemInfo.teleporterTargetSet.name=Мета встановлена
+itemInfo.teleporterTargetName.name=Мета: %s
+
+
+//Jetpack
+itemInfo.jetpackRecipe.name=Броня додає / видаляє рецепт. Примітка: дані інвентаризації будуть видалені!
+itemInfo.jetpackArmor.name=Броня: %s
+itemInfo.jetpackArmorDurability.name=Міцність броні: %1$s / %2$s
+itemInfo.jetpackJumpToFly.name=Полоти
+itemInfo.jetpackModeSwitch.name=Перемикання між режимами польоту
+itemInfo.jetpackToggle.name=Включити / відключити реактивний ранець
+itemInfo.jetpackQuickToggle.name=Швидка зміна режиму ширяння під час його натискання
+itemInfo.jetpackToggleRocket.name=Включити / відключити режим ракети
+itemInfo.jetpackChargeRocket.name=Змінити режим ракети
+itemInfo.jetpackReleaseRocket.name=Вивільнити ракетний заряд
+itemInfo.jetpackNuclearHeat.name=Температура реактора: %1$s / %2$s
+itemInfo.jetpackNuclearCompHeat.name=Середня довговічність реактора: %s
+itemInfo.jetpackOn.name=Реактивний ранець включений
+itemInfo.jetpackOff.name=Реактивний ранець відключений
+itemInfo.jetpackUsage.name=Натисніть клавішу Alt (%1$s) і клавішу перемикання режимів (%2$s) щоб переключити реактивний ранець
+itemInfo.rocketCharge.name=Ракетний заряд: %s
+itemInfo.hoverModeOn.name=Режим» зависання «включений.
+itemInfo.hoverModeAdvOn.name=Режим» повне зависання «включений.
+itemInfo.hoverModeOff.name=Режим» зависання «відключений.
+itemInfo.hoverModeOffForced.name=Відключення режиму»зависання"
+itemInfo.rocketModeOn.name=Режим» Ракета «включений
+itemInfo.rocketModeOff.name=Режим» Ракета «відключений
+itemInfo.rocketModeForcedOff.name=Відключення ражима «Ракета»
+
+//Armor
+itemInfo.qArmorRemovesFire.name=Гасить вас за потребою
+itemInfo.qArmorFeedsYou.name=Годує вас, якщо у вас є заповнена бляшана банку
+itemInfo.qArmorRemovePotions.name=Прибирає з вас эффексты Иссушения / радіації і різних зілля
+itemInfo.qArmorGivesAir.name=Забезпечує вас повітрям, якщо той відсутній
+itemInfo.qArmorHighJump.name=Надає вам дійсно високий стрибок
+itemInfo.qArmorHighSpeed.name=дає велику швидкість. (Працює і з элитрами)
+itemInfo.staticBootsProduceEU.name=Заряджається 0-3EU / t в залежності від швидкості вашого бігу.
+itemInfo.solarHelmetProduction.name=Виробляє %s EU / t поки небо в поле видимості
+itemInfo.nightVisionHudKey.name=Включити / відключити нічний зір
+itemInfo.nightVisionSeeInTheDark.name=Дає вам можливість бачити в темряві
+itemInfo.nightVisionEnabled.name=Нічне бачення включено
+itemInfo.nightVisionDisabled.name=Нічне бачення відключено
+itemInfo.rubberProvidesAir.name=Надає вам повітря, якщо він низький, і якщо є повітряні осередки
+itemInfo.rubberPreventBurn.name=Захищає Вас від вогню і дозволяє плавати в лаві, якщо на вас весь костюм
+
+//Electric ToolTip Info
+itemInfo.chargesItems.name=Заряджає електро-предмети знаходяться в гарячій панелі або в руках
+itemInfo.analyzerModes.name=Перемикання між режимами аналізатора
+itemInfo.miningLaserModes.name=Перемикання між режимами лазера
+itemInfo.euReaderModes.name=Перемикання між режимами ватметра
+itemInfo.euReaderToolTips.name=Перебуваючи в гарячій панелі будуть розблоковані підказки в інших модифікаціях, таких як Waila / OneProbe
+itemInfo.teleportPlayer.name=Телепортує гравця на зазначену позицію
+itemInfo.teleportTargetSet.name=Якщо блок є Телепортером, він встановлює його в якості мети
+itemInfo.rotateLayer.name=Поворот поточного шару текстури
+itemInfo.setLayer.name=Перемикання між текстурними шарами
+itemInfo.takeTexture.name=Скопіювати текстуру з блоку
+itemInfo.putTexture.name=Встановити текстуру на блок затверділої піни
+itemInfo.putTextureAll.name=Встановити текстуру на всіх сторонах блоку затверділої піни
+itemInfo.ScannerAOE.name=Проводить масове сканування з основи до висоти гравця
+itemInfo.ScannerIncreaseRadius.name=Збільшити радіус сканера
+itemInfo.ScannerDecreaseRadius.name=Зменшити радіус сканера
+itemInfo.ScannerRadiusEffect.name=10x вплив зміни радіуса
+itemInfo.ScannerLVLChange.name=Змінити рідкість ресурсів, яких шукає сканер
+itemInfo.electricSprayerRange.name=Змінює кількість розпилюваної піни
+itemInfo.toggleLosslessMode.name=Перемикання режиму «без втрат»
+itemInfo.nanoSaberEffect.name=Може знищити вуглеволоконну і квантову броню
+itemInfo.toggleMachineToolMode.name=Перемикання режиму інструменту
+itemInfo.accessMachineToolData.name=Щоб отримати доступ до слотів поліпшень або параметрам компаратора
+itemInfo.switchAutoRefillMode.name=Перемикання режиму автозаповнення
+itemInfo.painterRangeEffect.name=Для регулювання області дії
+itemInfo.painterAllSides.name=Фарбувати всі сторони відразу
+itemInfo.usbReset.name=Видалити NBTData з карти пам'яті
+itemInfo.isInverted.name=Інвертований
+
+//Boat
+itemInfo.whileInBoat.name=Сидячи в човні
+itemInfo.accessTheBoatInventory.name=Доступ до інвентарю човна
+itemInfo.gainBoatForwardThrust.name=Збільшити тягу двигуна
+itemInfo.gainBoatBackwardsThrust.name=Збільшити зворотну тягу двигуна
+itemInfo.resetEngineThrust.name=Скидання потужності двигуна
+
+//Inv Upgrades
+itemInfo.invUpgradeNeedsBound.name=Требуеться зв'язок з механізмом
+itemInfo.invUpgradeSideInfo.name=Сторона: %1$s, Доступ: %2$s
+itemInfo.invUpgradeSideSet.name=Установка стороні %1$s to Доступ: %2$s
+itemInfo.invUpgradeBoundFailed.name=Не вдалося завантажити з обробника інвентарю. Обробник відключений
+itemInfo.invUpgradeBoundSuccess.name=Налаштування з обробника інвентаризації успішно завантажені
+itemInfo.invUpgradeAddSlotsToAll.name=Додає всі слоти до всіх сторін
+itemInfo.invUpgradeRemoveAllSlots.name=Видаляє всі слоти з усіх боків
+itemInfo.invUpgradeInvertedSettings.name=Інвертовані Налаштування
+itemInfo.invUpgradeStackSize.name=Макс. стек: %s
+itemInfo.invUpgradeTypeStackSize.name=Предмет: %1$s, Макс. стек: %2$s
+itemInfo.automationInvert.name=Інвертує поліпшення
+itemInfo.modifyStacksize.name=Щоб змінити Макс. розмір стека
+itemInfo.modifyInverted.name=Інвертувати значення поліпшень
+itemInfo.modifyBig.name=10x модифікація
+itemInfo.invUpgradeLoadData.name=Завантаження даних з блоку в поліпшення
+itemInfo.invUpgradeModifySide.name=Щоб змінити доступ до сторони блоку клацніть
+itemInfo.invUpgradeSlotAccesses.name=Слот: %1$s: (Низ: %2$s, вгору: %3$s, з: %4$s, Ю: %5$s, З: %6$s, в: %7$s)
+
+//Upgrades
+itemInfo.upgradeCreativeOnly.name=Тільки для творчого режиму
+itemInfo.upgradeLockt.name=Поліпшення заблоковано. Натисніть Alt-клавішу (%s) і клікніть
+itemInfo.upgradeDirection.name=Напрпвление: %s
+itemInfo.upgradeDirectionSet.name=Напрямок встановлено на: %s
+itemInfo.upgradeOwner.name=Власник: %s
+itemInfo.upgradeOwnerSet.name=Власник встановлений: %s
+itemInfo.upgradeInjected.name=Впровадження поліпшення в блок
+itemInfo.upgradeReachedMax.name=Блок досяг максимального рівня енергії
+itemInfo.upgradeXPStored.name=Запасений XP: %s одиниць
+itemInfo.upgradeFilter.name=Натисніть на сторону блоку (%s), щоб відкрити інвентар фільтра
+itemInfo.reactorItemsToTrack.name=%s елементів, знайдених в реакторі для відстеження
+itemInfo.reactorTrackMode.name=Режим відстеження: %s
+itemInfo.trackModeInsert.name=Поміщати
+itemInfo.trackModeExtract.name=Витягати
+itemInfo.reactorTrackType.name=Тип відстеження: %s
+itemInfo.invalidReactor.name=Недійсна або не підтримувана система реакторів
+itemInfo.craftingDelay.name=Затримка між рецептами :%s тиків
+itemInfo.craftingOutput.name=Результат створення: %s
+itemInfo.craftingCause0.name=Недійсний рецепт
+itemInfo.craftingCause1.name=Машина не підтримує це поліпшення
+itemInfo.craftingCause2.name=Не вказано напрямок
+itemInfo.craftingCause3.name=Немає інвентарю для імпорту
+itemInfo.craftingCause4.name=Вимоги рецепта більше, ніж представлені в слотах виведення
+itemInfo.craftingStuffed.name=Елементи, що застрягли у виході: %s
+itemInfo.upgradeStackSize.name=Розмір стека транспортування: %s
+itemInfo.extraDrops.name=Додає %s екс-ресурсів до рецептів з деревом
+itemInfo.durabilityLeft.name=Міцність: %1$s / %2$s
+
+itemInfo.setUpgradeOwner.name=Встановити власника поліпшення
+itemInfo.setUpgradeSideOpposite.name=Встановлює поліпшенню сторону протилежного блоку, на який ви натискаєте.
+itemInfo.setUpgradeSide.name=Встановити поліпшенню сторону блоку, на яку ви натискаєте.
+itemInfo.modifyTargetSlot.name=Змінити встановлений слот, який збереже напрямок.
+itemInfo.cobbleGenInfo.name=Виробляє 1%s в секкунду. Підтримка стеків
+
+//TFBP
+itemInfo.tfbpRange.name=Радіус: %s блоків
+itemInfo.tfbpCost.name=Вартість за одиницю :%s EU
+itemInfo.tfbpBiomeChange.name=Змінює біом на: %s
+itemInfo.tfbpMushroom.name=Перетворює область в грибний біом
+itemInfo.tfbpIrrigation.name=Вирощує ліс і прибирає пісок, дощ так само може піти
+itemInfo.tfbpCultivation.name=Рівнина.
+itemInfo.tfbpChilling.name=Перетворює область в зимову казку
+itemInfo.tfbpDesertification.name=Створює пустелю
+itemInfo.tfbpFlatificator.name=Вирівнює область.
+
+//Upgrade Info
+itemInfo.upgradeRecipeTime.name=Додатковий час рецепта: % тиків
+itemInfo.upgradeRecipeTimeModifier.name=Модифікатор довжини рецепта: %s
+itemInfo.upgradeSpeed.name=Додаткова швидкість машини: %s / t
+itemInfo.upgradeSpeedModifier.name=Модифікатор швидкості машини: %s
+itemInfo.upgradeEnergyStorage.name=Додаткове накопичення :%s EU
+itemInfo.upgradeEnergyStorageModifier.name=Модифікатор зберігання додаткової енергії: %s
+itemInfo.upgradeEnergyConsumtion.name=Додаткове споживання енергії: %s EU / t
+itemInfo.upgradeEnergyConsumtionModifier.name=Модифікатор споживання енергії: %s
+itemInfo.upgradeExtraEnergyTier.name=Модифікатор машинного рівня: %s
+
+//CropAnalyzer
+itemInfo.cropAnalyzeMode.name=Режим аналізатора: сканування
+itemInfo.cropBreedMode.name=Режим аналізатора: Розрахунок розведення
+itemInfo.cropListClear.name=Очистивши
+itemInfo.cropListProcess.name=Процес
+itemInfo.cropEntryPoints.name=Точки: %s
+itemInfo.cropEntryChance.name=Шанс: %s
+
+//misc tools
+itemInfo.layerSwitched.name=Змінено на шар: %s
+itemInfo.layerRotated.name=Шар: %1$s, Поворот: %2$s
+itemInfo.targetSlot.name=Змінено на шар: %s
+itemInfo.slotInfo.name=Слот %1$s: %2$s
+itemInfo.targetSlotChanged.name=Змінено на слот: %s
+itemInfo.cropButton.name=Натисніть Ctrl, щоб краще бачити елементи
+tileInfo.cropDropMode.name=Урожай: %s
+tileInfo.cropSeeds.name=Насіння
+tileInfo.cropGain.name=Вигода
+itemInfo.remoteDynamiteLinks.name=Пов'язаний з %s динамітом
+itemInfo.remoteDynamiteLinkFailed.name=Цей динаміт не пов'язаний з даними пультом, неможливо роз'єднати.
+itemInfo.freqTransmitterClear.name=Частота скинута
+itemInfo.freqTransmitterSetTarget.name=Частота передавача пов'язана з телепортером.
+itemInfo.freqTransmitterSameTarget.name=Неможливо зв'язати телепорт.
+itemInfo.freqTransmitterNothingChanged.name=Телепортаційна частота без змін.
+itemInfo.freqTransmitterUpdatedTarget.name=Телепортаційна частота встановлена.
+itemInfo.freqTransmitterDim.name=Вимірювання: %s
+itemInfo.freqTransmitterX.name=X: %s
+itemInfo.freqTransmitterY.name=Y: %s
+itemInfo.freqTransmitterZ.name=Z: %s
+itemInfo.machineToolComparatorMode.name=Режим компаратора
+itemInfo.machineToolInventoryMode.name=Режим інвентарю
+itemInfo.machineToolSavedData.name=Дані збережені
+itemInfo.painterAutoRefillOn.name=Включено автозаповнення
+itemInfo.painterAutoRefillOff.name=Відключено автозаповнення
+itemInfo.painterRange.name=Радіус фарбування: %s блоків
+itemInfo.sprayerSize.name=Радіус розпилення: %s блоків
+itemInfo.sprayerUses.name=Кількість збереженої піни: %s 
+
+//Misc Items
+itemInfo.badFoodCan.name=Це виглядає погано...
+itemInfo.coinValue.name=Значення монети: %s
+
+//EU Reader
+itemInfo.euReaderMode.name=Поточний режим: %s
+itemInfo.euReaderCantFindPath.name=Нічого не знайдено...
+itemInfo.euReaderStartNewMeasuring.name=Запуск нового вимірювання
+itemInfo.euReaderSourceInfo.name=Віддача енергії буфером :%s EU
+itemInfo.euReaderSinkInfo.name=Межа споживача :%s EU
+itemInfo.euReaderCableLoss.name=Втрати провідника :%s EU
+itemInfo.euReaderCableLimit.name=Межа пропускної здатності провідника: %s EU
+itemInfo.euReaderAverageEU.name=Виміряна потужність [EU / Тік]: вхід:%1$s Вихід:%2$s отримання: %3$s (середн. більше %4$s тиків.)
+itemInfo.euReaderTotalEU.name=Виміряна потужність [всього EU]: Проведено %s EU з моменту його завантаження: 
+itemInfo.euReaderAveragePacket.name=Виміряні пакети [EU / кількість пакетів] більше %s тиків: 
+itemInfo.euReaderTotalPacket.name=Виміряні пакети [EU / кількість пакетів] з моменту його завантаження: 
+itemInfo.euReaderEmittingPacket.name=Витрачання EU: % 1$s всього: %2$s
+itemInfo.euReaderReceivingPacket.name=Споживання EU: % 1$s всього: %2$s
+itemInfo.euReaderTeleporterDistance.name=Дистанція: %s блоків.
+itemInfo.euReaderTeleporterCost.name=Втрат енергії на кабель :%s EU
+itemInfo.euReaderTeleporterEntityWeight.name=Телепортери потребують організації: %1$s %2$s EU для телепортації
+itemInfo.euReaderTeleporterItemWeight.name=100 на кожен повний стек.
+itemInfo.euReaderTeleporterFluidWeight.name=1 за 10 mB рідини
+itemInfo.euReaderTeleporterEnergyWeight.name=Нескінченна енергетика телепортації для дистанційної вартості
+itemInfo.euReaderTeleporterHubTargetCount.name=Цілі телепортера: %s
+itemInfo.euReaderTeleporterHubTarget.name=Мета телепортера: %s
+itemInfo.euReaderTeleporterHubTargetDistance.name=Відстань: %s
+itemInfo.euReaderTeleporterHubTargetCost.name=Вартість :%s EU
+
+//Scanner
+itemInfo.scannerRange.name=Радіус сканування: %s блоків
+itemInfo.scannerAll.name=Видобуток всіх блоків
+itemInfo.scannerFluid.name=Пошук тільки рідин
+itemInfo.scannerTargets.name=Цілі сканера:
+itemInfo.scannerNoTargets.name=Немає цілей
+itemInfo.scannerNextScanLevel.name=[Сканер]: рівень сканування: %s
+itemInfo.scannerOreDensity.name=Результат сканування: всього руди в даній площині %s
+itemInfo.scannerOreValue.name=Результат сканування: всього руди в даній області %s
+
+//Laser
+itemInfo.laserMode.name=Режим лазера: %s
+itemInfo.laserModeMining.name=Видобуток
+itemInfo.laserModeLowFocus.name=Низький фокус
+itemInfo.laserModeLongRange.name=Дальній
+itemInfo.laserModeHorizontal.name=Горизонтальний
+itemInfo.laserModeSuperHeat.name=Супер-тепло
+itemInfo.laserModeScatter.name=Розкид
+itemInfo.laserModeExplosive.name=Вибухонебезпечний
+itemInfo.laserModeTracking.name=Відстеження
+itemInfo.laserWrongAim.name=Кут видобувного лазера занадто великий для авто-прицілювання
+itemInfo.laserNeedsTarget.name=Немає мети. Подивіться на живу істоту і стріляйте
+
+/Reactor Components
+itemInfo.steamVentWater.name=Зберігання води: %s
+itemInfo.steamVentHeat.name=Споживання тепла: %s
+itemInfo.steamVentSteam.name=Виробництво пари / тик: %s
+
+//Boat
+itemInfo.boatForce.name=Швидкість двигуна: %s
+itemInfo.boatCharge.name=Заряд: %s
+
+//Misc info
+miscInfo.northFacing.name=Північ
+miscInfo.southFacing.name=Південь
+miscInfo.eastFacing.name=Сходу
+miscInfo.westFacing.name=Захід
+miscInfo.upFacing.name=Догори
+miscInfo.downFacing.name=Униз
+miscInfo.nullFacing.name=Не вказано
+miscInfo.null.name=None
+miscInfo.nothingHappend.name=Нічого не сталося
+miscInfo.accessNothing.name=Нічого
+miscInfo.accessImport.name=Імпорт
+miscInfo.accessExport.name=Експорт
+miscInfo.accessBoth.name=Обох
+miscInfo.pressCtrl.name=%1$s Ctrl%2$s - інструкцій управління
+miscInfo.pressShift.name=%1$s Shift%2$s - інформація
+miscInfo.pressAlt.name=%1$s Alt%2$s - статистична інформація
+miscInfo.pressTo.name=Натисніть (%1$s) для: %2$s
+miscInfo.pathLoss.name=Packet Loss: %s
+miscInfo.supportedUpgrades.name=Поліпшення поддержіваеться даною машиною.
+miscInfo.onItemRightClick.name=Дії по правому кліку
+miscInfo.onBlockClick.name=Дії по кліку на блок
+miscInfo.openTheItemInventory.name=Доступ до інвентарю
+miscInfo.achievementSaved.name=Досягнення %s збережено. Коли досягнення буде відкрито воно автоматично виконатися
+miscInfo.yes.name=Так
+miscInfo.no.name=Ні
+
+//comparator
+comparatorInfo.compAmplifier.name=Хеш прискорювач
+comparatorInfo.compEuStorage.name=Зберігання EU
+comparatorInfo.compXpStorage.name=Зберігання XP
+comparatorInfo.compEnchanterMode.name=Режим чарівника
+comparatorInfo.compMachineFuel.name=Машинне паливо
+comparatorInfo.compPersonalTank.name=Резервуарне сховище
+comparatorInfo.compMachineProgress.name=Прогрес
+comparatorInfo.compReactorHeat.name=Температура реактора
+comparatorInfo.compHeat.name=Темп.
+comparatorInfo.compMachineSpeed.name=Швидкість машини
+comparatorInfo.compUranEnricherFuel.name=Збагачене паливо
+comparatorInfo.compMachineSecondProgress.name=Вторинний прогрес машини
+comparatorInfo.compWaterGeneratorWater.name=Блоки паливних генераторів
+
+//Tooltip
+tooltip.SinkHudOnly.name=Тільки для споживачів енергії
+tooltip.WireHudOnly.name=Тільки дроти
+tooltip.SourceHudOnly.name=Тільки постачальники енергії
+tooltip.StorageHudOnly.name=Тільки накопичувачі енергії
+tooltip.ContainerHudOnly.name=Тільки енергетичні контейнери
+tooltip.HudAll.name=Весь
+tooltip.HudDisabled.name=Вимкнений
+
+//Measonure mode
+measureMode.averageEU.name=Середнє вимірювання
+measureMode.tileInfo.name=Вимірювання здатності
+measureMode.totalEmitted.name=Вимірювання сумарно пропущеного струму
+measureMode.packetReading.name=Вимірювання пакетів
+measureMode.totalPackets.name=Загальна кількість пакетів
+measureMode.emitPath.name=Вихідний шлях
+measureMode.receivePath.name=Засіб відображення шляху
+measureMode.area.name=Область вихідного шляху
+measureMode.areaReverse.name=Область реверсу
+
+//slotType
+slotType.input.name=Вхідні слоти
+slotType.secondInput.name=Вторинні въодные слоти
+slotType.output.name=Слоти результату
+slotType.fuel.name=Паливні слоти
+slotType.fluidFuel.name=Жидкотоплевные слоти
+slotType.charge.name=Заряджаючі слоти
+slotType.discharge.name=Розряджають слоти
+slotType.reactor.name=Реакторні слоти
+slotType.tools.name=Слоти для інструментів
+slotType.batteryStation.name=Слоти акумуляторної батареї
+slotType.fertilizer.name=Слоти добрив
+slotType.hydration.name=Гидрационные слоти
+slotType.weedEx.name=Слоти засоби від бур'янів
+slotType.books.name=Слоти для книг
+slotType.storage.name=Слоти сховищ
+
+//jei
+jeiInfo.EUNeeded.name=Требуеться %s EU
+jeiInfo.dualRecipe.name=Подвійний рецепт
+jeiInfo.chargeRecipe.name=Рецепт зарядки
+jeiInfo.dischargeRecipe.name=Рецепт зарядки
+jeiInfo.needEUReader.name=Потрібно ватметр для отримання даних
+jeiInfo.switchedShowingMode.name=Режим HUD: %s
+jeiInfo.isFuelable.name=Заправленность
+jeiInfo.isFuelablePoints.name=Заправлено: %s
+jeiInfo.hiddenRecipe.name=Прихований рецепт
+jeiInfo.xpProduction.name=%s XP
+jeiInfo.scrapboxChance.name=Шанс: %s
+jeiInfo.randomAmount.name=Випадковий: %1$s - %2$s
+jeiInfo.randomDrop.name=Випадкове випадання
+jeiInfo.fuelValue.name=Палива: %s
+jeiInfo.fuelMultiplier.name=Паливний множник: %s
+jeiInfo.repairEffect.name=Відновлення: %s
+jeiInfo.burnTime.name=Час згоряння: 
+jeiInfo.ticks.name=%s тиків
+jeiInfo.points.name=Окуляри: %s
+jeiInfo.needed.name=Необхідно: %s~
+
+//Config
+configInfo.configUpdated.name=Конфігурація синхронізована з сервером. Все в порядку
+configInfo.configUpdatedWorld.name=Конфігурація синхронізована з сервером. Для запобігання помилок перезапустіть на сервер.
+configInfo.configUpdatedGame.name=Конфігурація синхронізована з сервером. Перезавантажте гру, щоб запобігти помилкам.
+
+//Achievement
+achievement.acquireMatter=Рожевий згусток
+achievement.acquireMatter.desc=Отримайте матерію
+achievement.acquireRefinedIron=Краще ніж залізо
+achievement.acquireRefinedIron.desc=Выплавьте злиток очищеного заліза.
+achievement.acquireResin=Липка ситуація
+achievement.acquireResin.desc=Зберіть каучук з гевеї за допомогою краника.
+achievement.buildBatBox=Є де зберігати
+achievement.buildBatBox.desc=Зробіть энергохранитель.
+achievement.buildCable=Потік енергії
+achievement.buildCable.desc=Зробіть мідні дроти.
+achievement.buildEUReader=Витратомір
+achievement.buildEUReader.desc=Створіть ватметр.
+achievement.buildMachineTool=Управління механізмом
+achievement.buildMachineTool.desc=Зробіть механічний інструмент.
+achievement.buildChainsaw=Дроворуб-вбивця
+achievement.buildChainsaw.desc=Зробіть ланцюгову пилу.
+achievement.buildCoalDiamond=Блиск
+achievement.buildCoalDiamond.desc=Стисніть вугільну брилу в алмаз.
+achievement.buildCompressor=Епічний тиск
+achievement.buildCompressor.desc=Зробіть компресор.
+achievement.buildCanner=Консервовані продукти
+achievement.buildCanner.desc=Створіть консервну машину.
+achievement.buildVacCanner=Швидке дренажної труби
+achievement.buildVacCanner.desc=Зробіть вакуумну консервну машину.
+achievement.buildSingCompressor=Сингулярне стиснення
+achievement.buildSingCompressor.desc=Зробіть сингулярний компресор.
+achievement.buildRecycler=Грінпіс!
+achievement.buildRecycler.desc=Зробіть утилізатор
+achievement.buildCompRecycler=Світовий перестройщик
+achievement.buildCompRecycler.desc=Зробіть компактний утилізатор.
+achievement.buildDDrill=Цінна обновка
+achievement.buildDDrill.desc=Покращіть ваш Шахтарський бур до алмазного бура.
+achievement.buildDrill=Знайомтеся, Дантист
+achievement.buildDrill.desc=Зробіть Шахтарський бур.
+achievement.buildElecFurnace=Дуже спекотна тема
+achievement.buildElecFurnace.desc=Зробіть електропіч.
+achievement.buildExtractor=Суперкраник
+achievement.buildExtractor.desc=Зробіть екстрактор.
+achievement.buildCentExtractor=Пожирач дерев
+achievement.buildCentExtractor.desc=Зробіть відцентровий екстракор
+achievement.buildGenerator=Переносима енергія
+achievement.buildGenerator.desc=Первввый генератор
+achievement.buildIndFurnace=Гиперскорость
+achievement.buildIndFurnace.desc=Зробіть індукційну піч
+achievement.buildMFE=Поліпшення місткості
+achievement.buildMFE.desc=Зробіть МФЕ
+achievement.buildMFS=Просто занадто
+achievement.buildMFS.desc=Зробіть МФСУ
+achievement.buildMacerator=Подвійні неприємності
+achievement.buildMacerator.desc=Зробіть дробитель
+achievement.buildRotMacerator=Обертається дробарка
+achievement.buildRotMacerator.desc=Зробіть роторний дробитель
+achievement.buildMassFab=Енергія до матерії
+achievement.buildMassFab.desc=Зробіть генератор матерії
+achievement.buildMiningLaser=Пора лазерів
+achievement.buildMiningLaser.desc=Зробіть Шахтарський лазер
+achievement.buildQArmor=Індустріальне диво
+achievement.buildQArmor.desc=Зробіть частину квантового костюма
+achievement.buildTeleporter=Межпространственное переміщення
+achievement.buildTeleporter.desc=Зробіть телепортер
+achievement.buildTerraformer=Змінити світ!
+achievement.buildTerraformer.desc=Зробіть тероформер
+achievement.compressUranium=Радіоактивний
+achievement.compressUranium.desc=Стиснув уран в паливний злиток
+achievement.dieFromOwnNuke=Та ти псих!
+achievement.dieFromOwnNuke.desc=Померти від своєї ядерної бомби
+achievement.killCreeperChainsaw=Криперская різанина бензопилою
+achievement.killCreeperChainsaw.desc=Вбити Кріпера пилкою
+achievement.killDragonMiningLaser=Like A Boss
+achievement.killDragonMiningLaser.desc=Вбити дракона шахтарським лазером
+achievement.mineOre=Добувач нових руд
+achievement.mineOre.desc=Добудьте мідь, олово і уран
+achievement.starveWithQHelmet=Смертельна забудькуватість
+achievement.starveWithQHelmet.desc=Помріть від голоду або потоніть з квантовим шоломом.
+achievement.teleportFarAway=Далеко-далеко
+achievement.teleportFarAway.desc=Телепортуйтеся на відстань не менше 1 кілометра.
+achievement.terraformEndCultivation=Край як рай
+achievement.terraformEndCultivation.desc=Терраформіруйте Край, щоб він став схожий на звичайний світ.
+achievement.buildPESU=Ти збожеволів
+achievement.buildPESU.desc=Створити ПЕСУ
+
+//steam Achievements
+achievement.luckyBastard=Щасливий ублюдок
+achievement.luckyBastard.desc=Вибити джекпот з коробки з утильсырьем
+achievement.Sinner=Грішник
+achievement.Sinner.desc=Звехнутися на Урані
+achievement.scaffolded=Іронічний хмарочос
+achievement.scaffolded.desc=Не сходи в небо
+achievement.killWitherWithNuke=Доказ дурня
+achievement.killWitherWithNuke.desc=Радіація супер-ефективна проти нежиті
+achievement.cropBeginner=Перший урожай
+achievement.cropBeginner.desc=Початок роботи з посівами
+achievement.cropChallenger=Уродженець
+achievement.cropChallenger.desc=Отримати хороший урожай
+achievement.cropExpert=Експерт по рослинництву
+achievement.cropExpert.desc=Отримати звання експерта з РОСЛИННИЦТВА
+achievement.cropGrandMaster=Великий майстер врожаю
+achievement.cropGrandMaster.desc=Стати Грандмастером з РОСЛИННИЦТВА
+achievement.cropBlank=Чистий урожай
+achievement.cropBlank.desc=Станьте "чистим" в рослинництві
+
+//Percent Achievements
+achievement.bitClean=Зелений старт
+achievement.bitClean.desc=Очистіть світ від брудної енергії
+achievement.goGreen=Зеленіше ніж трава
+achievement.goGreen.desc=Використовувати в основному виробники чистої енергії
+achievement.goCoal=Слабкий пальник
+achievement.goCoal.desc=Зробіть більше брудних ніж чистих виробників енергії
+achievement.factoryGiant=Світова топка
+achievement.factoryGiant.desc=використовуйте в основному забруднюючі виробники енергії
+
+//stats
+stat.itemEnergyUsed.name=Використовувана енергія предметом
+stat.itemSmelted.name=Плавлені предмети
+stat.itemAutoSmelted.name=Предмети автоплавки
+stat.itemMacerated.name=Перероблені предмети
+stat.itemAutoMacerated.name=Авто-перероблені предмети
+stat.itemExtracted.name=Витягнуті предмети
+stat.itemAutoExtracted.name=Авто-витягнуті предмети
+stat.itemCompressed.name=Стислі предмети
+stat.itemAutoCompressed.name=Авто-стислі предмети
+stat.itemRecycled.name=Перероблені ресурси
+stat.itemAutoRecycled.name=Авто-перероблені ресурси
+stat.uuMatterProduced.name=Вироблена матерія
+stat.jetpacktimeflown.name=Час польоту на реактивному ранці
+stat.rocketModesUsed.name=Режим ракети реактивного ранця запущений!
+stat.beersBrewed.name=Пивоваріння
+stat.lightDrunk.name=Отримати легке сп'яніння
+stat.medDrunk.name=Отримати звичайне сп'яніння
+stat.badDrunk.name=Отримати сильне сп'яніння
+stat.deadlyDrunk.name=Отримати дійсно сильне сп'яніння
+stat.foodcanEaten.name=Каністри для їжі
+stat.nuclearJetpacksExploded.name=Ядерні реактивні ранці вибухають
+stat.nuclearReactorsExploded.name=Підірвані ядерні реактори
+stat.steamReactorsExploded.name=Побачити як взривається паровий реактор
+stat.nukesIgnited.name=Запуск ядерного вибуху
+stat.texturesStolen.name=Текстури скопійовані
+stat.luckyPerson.name=Стати щасливим за допомогою коробок з утильсырьем
+stat.sinns.name=Гріхи вчинені
+stat.cleanEnergy.name=Пішла Чиста енергія
+stat.dirtyEnergy.name=Пішла брудна енергія
+stat.playersDisliked.name=Інші люди не довіряють
+stat.teaLover.name=Випити чай
+stat.coffeeLover.name=Випити кави
+stat.machineLoser.name=Втрачені механізми
+stat.machineSaver.name=Механізми врятовані
+stat.cropBreeder.name=Виростити урожай
+stat.cableShockDamage.name=Постраждати від удару струмом

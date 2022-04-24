@@ -1,0 +1,31 @@
+tile.researchtable.table.name=Дослідницький стіл
+tile.researchtable.table.tip=Зберігає прогрес після руйнування
+
+researchtable.title.missing=Без назви
+researchtable.description.missing=Без опису.
+researchtable.noPermission=Доступ заборонений.
+
+researchtable.gui.owner=Власник: %s
+researchtable.gui.researching=Дослідження: %s
+researchtable.gui.progress=Прогрес: %s
+researchtable.gui.needStages=Необхідні етапи: %s
+researchtable.gui.needResearches=Необхідні дослідження: %s
+researchtable.gui.needSkill=Необхідний навик: %s Ур. %d %s
+researchtable.gui.needMoney=Потрібно грошей： %s %s
+researchtable.gui.moneyFormat=%d %s
+researchtable.gui.maxCount=Це дослідження може бути проведено тільки %s раз (а)!
+researchtable.gui.researchNoFound=Неможливо знайти дослідження %s.
+researchtable.gui.youHave=(у вас %s)
+researchtable.gui.of=(%d з %d)
+researchtable.gui.fe=Енергія
+researchtable.gui.button.research=Дослідити
+researchtable.gui.button.submit=Передавши
+researchtable.gui.button.complete=Завершать
+researchtable.gui.button.cancel=Скасування
+researchtable.gui.button.shift=Натисніть Shift
+researchtable.gui.unknown_item=Невідомий предмет
+
+commands.researchtable.usage=/researchtable <гравець> <дослідження> [кількість]
+commands.researchtable.researchNotFound=Дослідження не знайдено.
+commands.researchtable.get=%s: %s
+commands.researchtable.set=%s: успішно

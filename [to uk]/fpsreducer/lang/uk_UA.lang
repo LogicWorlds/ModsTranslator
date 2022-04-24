@@ -1,0 +1,30 @@
+FpsReducer.key.guiOpen=Відкрийте графічний інтерфейс конфігурації
+
+key.categories.FpsReducer=Редуктор кадрів в секунду
+
+fpsreducer.config.menu.enableFpsReducer=Редуктор кадрів в секунду
+fpsreducer.config.menu.detectMoving=Виявляти рухомі
+fpsreducer.config.menu.detectMoving.0=геть
+fpsreducer.config.menu.detectMoving.1=Їзда / Політ
+fpsreducer.config.menu.detectMoving.2=Завше
+fpsreducer.config.menu.ignoreHoldButton=Ігнорувати утримання кнопки миші
+fpsreducer.config.menu.reducingInBackground=Зменшіть частоту кадрів в секунду при неактивному режимі
+fpsreducer.config.menu.suppressSound=Придушення звуку, коли він неактивний
+#fpsreducer.config.menu.suppressedVolume=Коефіцієнт придушення гучності
+fpsreducer.config.menu.enableHUD=шкірка
+fpsreducer.config.menu.enableHUD.0=геть
+fpsreducer.config.menu.enableHUD.1=вгорі ліворуч
+fpsreducer.config.menu.enableHUD.2=вгорі праворуч
+fpsreducer.config.menu.enableHUD.3=внизу праворуч
+fpsreducer.config.menu.enableHUD.4=нижній лівий
+fpsreducer.config.menu.hudScale=Шкала HUD
+#fpsreducer.config.menu.waitingTimeMin=Час очікування (хв)
+#fpsreducer.config.menu.waitingTimeSec=Час очікування (сек)
+fpsreducer.config.menu.waitingTime=Час очікування (хв: сек)
+fpsreducer.config.menu.idleFPS=Частота кадрів в секунду в режимі очікування
+fpsreducer.config.menu.returnToGame=Зроблено
+fpsreducer.config.playerConfig=Конфігурація програвача
+fpsreducer.config.globalConfig=Глобальна конфігурація
+fpsreducer.config.ON=ВКЛ
+fpsreducer.config.OFF=геть
+

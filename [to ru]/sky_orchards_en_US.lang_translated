@@ -1,0 +1,11 @@
+#PARSE_ESCAPES
+
+itemGroup.sky_orchards=Небесные сады
+
+tile.sky_orchards.ore_log.name=Древесина %s
+tile.sky_orchards.ore_leaves.name=Листва %s
+tile.sky_orchards.ore_sapling.name=Саженец %s
+tile.sky_orchards.ore_amber.name=Янтарь %s
+item.sky_orchards.ore_acorn.name=%s Желудь
+item.sky_orchards.ore_acorn_roasted.name=%s Желудь обжаренный
+item.sky_orchards.ore_resin.name=%s Смола

@@ -1,0 +1,134 @@
+#
+# §blocks
+#
+tile.deepmoblearning.simulation_chamber.name=Имитационная камера
+tile.deepmoblearning.extraction_chamber.name=Фабрикатор добычи
+tile.deepmoblearning.trial_keystone.name=Пробный краеугольный камень
+tile.deepmoblearning.machine_casing.name=Покрытый сажей Корпус машины
+tile.deepmoblearning.infused_ingot_block.name=Блок, наполненный глюками
+#
+# Single items
+#
+item.deepmoblearning.book.name=Руководство по DeepMobLearning (Установка Пачули)
+item.deepmoblearning.polymer_clay.name=Полимерная глина
+item.deepmoblearning.soot_covered_redstone.name=Покрытый сажей Редстоун
+item.deepmoblearning.soot_covered_plate.name=Покрытая сажей пластина
+item.deepmoblearning.deep_learner.name=§Ученик §bDeep§r
+item.deepmoblearning.creative_model_learner.name=Ученик Творческой Модели
+item.deepmoblearning.trial_key.name=§Предварительный ключ§r
+item.deepmoblearning.glitch_heart.name=§Поврежденное сердце глюка§r
+item.deepmoblearning.glitch_fragment.name=§Фрагмент стабильного сбоя§r
+item.deepmoblearning.glitch_infused_ingot.name=§Слиток, пропитанный §bGlitch§r
+
+item.deepmoblearning.glitch_infused_helmet.name=§Шлем, наполненный §bGlitch§r
+item.deepmoblearning.glitch_infused_chestplate.name=§Нагрудник, пропитанный §bGlitch§r
+item.deepmoblearning.glitch_infused_leggings.name=§Леггинсы с добавлением §bGlitch§r
+item.deepmoblearning.glitch_infused_boots.name=§Поножи с добавлением §bGlitch§r
+item.deepmoblearning.glitch_infused_sword.name=§Меч, наполненный §bGlitch§r
+
+#
+# Data models
+#
+item.deepmoblearning.data_model_blank.name=Пустая Модель Данных
+item.deepmoblearning.data_model_zombie.name=§bМодель данных §bZombie§r
+item.deepmoblearning.data_model_skeleton.name=§bМодель данных §bSkeleton§r
+item.deepmoblearning.data_model_blaze.name=§bМодель данных §bBlaze§r
+item.deepmoblearning.data_model_enderman.name=§bМодель данных Бендермана§r
+item.deepmoblearning.data_model_wither.name=§bWither Модель данных§r
+item.deepmoblearning.data_model_witch.name=§bМодель данных §bWitch§r
+item.deepmoblearning.data_model_spider.name=§bМодель данных §bSpider§r
+item.deepmoblearning.data_model_creeper.name=§bМодель данных §bCreeper§r
+item.deepmoblearning.data_model_guardian.name=§bМодель данных §bGuardian§r
+item.deepmoblearning.data_model_ghast.name=§bМодель данных §bGhast§r
+item.deepmoblearning.data_model_wither_skeleton.name=§bWither Скелет Модели Данных§r
+item.deepmoblearning.data_model_slime.name=§bМодель данных §bSlime§r
+item.deepmoblearning.data_model_dragon.name=§bМодель данных §bEnder Dragon§r
+item.deepmoblearning.data_model_shulker.name=§bМодель данных §bShulker§r
+item.deepmoblearning.data_model_thermal_elemental.name=§B Модель данных о тепловых элементах§r
+item.deepmoblearning.data_model_twilight_forest.name=§bМодель данных §bTwilight Forest§r
+item.deepmoblearning.data_model_twilight_swamp.name=§bМодель данных §bTwilight Swamp§r
+item.deepmoblearning.data_model_twilight_darkwood.name=§bМодель данных §bTwilight Darkwood§r
+item.deepmoblearning.data_model_twilight_glacier.name=§bМодель данных §bTwilight Glacier§r
+item.deepmoblearning.data_model_tinker_slime.name=§bМодель данных §bBlue Slime§r
+item.deepmoblearning.data_model_mo_android.name=§bМодель данных §bRogue Android§r
+#
+# Living matter
+#
+item.deepmoblearning.living_matter_overworldian.name=Сверхземная материя
+item.deepmoblearning.living_matter_hellish.name=Адская материя
+item.deepmoblearning.living_matter_extraterrestrial.name=Внеземная материя
+item.deepmoblearning.living_matter_twilight.name=Сумеречная материя
+
+#
+# Pristine
+#
+item.deepmoblearning.pristine_matter_zombie.name=Первозданная Материя Зомби
+item.deepmoblearning.pristine_matter_skeleton.name=Первозданная Материя Скелета
+item.deepmoblearning.pristine_matter_blaze.name=Первозданное Пламя Материи
+item.deepmoblearning.pristine_matter_enderman.name=Первозданная Материя Эндермена
+item.deepmoblearning.pristine_matter_wither.name=Первозданная Увядающая Материя
+item.deepmoblearning.pristine_matter_witch.name=Первозданная Ведьмовская Материя
+item.deepmoblearning.pristine_matter_spider.name=Первозданная Паучья материя
+item.deepmoblearning.pristine_matter_creeper.name=Нетронутая материя Лианы
+item.deepmoblearning.pristine_matter_ghast.name=Первозданная Ужасная Материя
+item.deepmoblearning.pristine_matter_wither_skeleton.name=Первозданный Увядающий Скелет Материи
+item.deepmoblearning.pristine_matter_slime.name=Нетронутая Слизистая Материя
+item.deepmoblearning.pristine_matter_dragon.name=Первозданная Материя Дракона Эндера
+item.deepmoblearning.pristine_matter_shulker.name=Первозданная материя Шулкера
+item.deepmoblearning.pristine_matter_guardian.name=Первозданная Материя Хранителя
+item.deepmoblearning.pristine_matter_thermal_elemental.name=Первозданная Тепловая Элементарная Материя
+item.deepmoblearning.pristine_matter_twilight_forest.name=Первозданная Материя Сумеречного Леса
+item.deepmoblearning.pristine_matter_twilight_swamp.name=Первозданная Материя Сумеречного болота
+item.deepmoblearning.pristine_matter_twilight_darkwood.name=Первозданная Материя Сумеречного Темного Дерева
+item.deepmoblearning.pristine_matter_twilight_glacier.name=Нетронутая Материя Сумеречного ледника
+item.deepmoblearning.pristine_matter_tinker_slime.name=Нетронутая Голубая Слизь
+item.deepmoblearning.pristine_matter_mo_android.name=Первозданный Мошеннический Андроид Имеет значение
+
+#
+# Creative tab
+#
+itemGroup.deepmoblearning=Глубокое Изучение Существ
+
+#
+# Tooltips etc
+#
+deepmoblearning.data_model.type=§rType: %s§r
+deepmoblearning.data_model.tier=§rTier: %s§r
+deepmoblearning.data_model.data.collected=§rСобранные данные: §7%s/%s§r
+deepmoblearning.data_model.data.killmultiplier=§rData за убийство: §7%s§r
+deepmoblearning.data_model.rfcost=§rСтоимость моделирования: §7%от RF/t§r
+deepmoblearning.living_matter.exp=§7 Опыт по каждому пункту: §a%s§r
+deepmoblearning.trial_key.notattuned=§7 Ключ в данный момент не настроен§r
+deepmoblearning.trial_key.attunement_go_to_jei=§7 Подробнее о настройке читайте в Руководстве§r
+deepmoblearning.trial_key.attuned_type=§r Ключ настроен на: §7%s§r
+deepmoblearning.trial_key.tier=§rУровень: §7%s§r
+deepmoblearning.trial_key.affixes=§rАффиксы: §7%s§r
+deepmoblearning.trial_key.affix_go_to_jei=§7 Подробнее о каждом аффиксе читайте в Руководстве§r
+
+deepmoblearning.trial_key.jei.type=§rТип ключа: §7%s§r
+deepmoblearning.trial_key.jei.tier=§rКлючевой уровень: §7%s§r
+
+#
+# JEI
+#
+deepmoblearning.jei.category.trial_keystone.type=§b%s§r
+deepmoblearning.jei.category.trial_keystone.tier=§r%s§r
+
+
+#
+# GUI
+#
+deepmoblearning.holdshift=§7- удерживайте §r§oSHIFT§r§7 для получения дополнительной информации§r
+
+#
+# Entity
+#
+entity.deepmoblearning.glitch.name=Системный сбой
+entity.deepmoblearning.glitch_orb.name=Сфера страдающего ИИ
+entity.deepmoblearning.trial_enderman.name=Судебный Эндермен
+entity.deepmoblearning.trial_spider.name=Пробный паук
+entity.deepmoblearning.trial_cave_spider.name=Испытание Пещерного паука
+entity.deepmoblearning.trial_slime.name=Пробная Слизь
+
+# Dev only strings
+deepmoblearning.devonly.holdcontrol=§7- удержание §r§oCTRL§r§7 для данных dev§r

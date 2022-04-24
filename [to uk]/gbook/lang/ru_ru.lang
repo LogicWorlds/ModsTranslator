@@ -1,0 +1,9 @@
+item.gbook.guidebook.name=Путеводитель
+
+itemGroup.gbook=Путеводитель
+
+text.copyToClipboard.line1=Книга хочет поместить текст в ваш буфер обмена.
+text.copyToClipboard.line2=Вы уверены, что хотите это разрешить?
+text.copyToClipboard.success=Текст успешно скопирован.
+
+cmd.gbook.guide.done=Перезагрузка завершена

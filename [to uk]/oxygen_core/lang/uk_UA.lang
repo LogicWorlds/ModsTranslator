@@ -1,0 +1,255 @@
+key.oxygen_core.notifications=Відкрити Меню Повідомлень
+key.oxygen_core.accept=Прийняти Запит
+key.oxygen_core.reject=Обклеїти Запит
+key.oxygen_core.interact=Взаємодіючи
+
+oxygen_core.sender.sys=Система
+
+oxygen_core.request.accept=Прийняти
+oxygen_core.request.reject=Відхиливши
+
+oxygen_core.currency.money=Гроші
+oxygen_core.currency.coins=Монета
+oxygen_core.currency.shards=Друзки
+oxygen_core.currency.vouchers=Ваучер
+
+oxygen_core.gui.callback.settings=Настройка
+
+oxygen_core.gui.notifications.title=Повідомлення
+oxygen_core.gui.notifications.empty=У вас немає активних повідомлень.
+
+oxygen_core.gui.privileges.privileges=Привілей
+oxygen_core.gui.privileges.players=Гравець
+oxygen_core.gui.privileges.roles=Роль
+oxygen_core.gui.privileges.defaultPrivileges=Привілеї за замовчуванням
+oxygen_core.gui.privileges.disabled=Привілеї відключені.
+oxygen_core.gui.privileges.chatFormattingDisabled=Форматування чату відключено.
+oxygen_core.gui.privileges.chatFormatting=Форматування Чату
+oxygen_core.gui.privileges.defaultFormatting=Без Форматування
+oxygen_core.gui.privileges.testMessage=Тест
+
+oxygen_core.gui.privileges.information.playerRoles=Ваші Ролі
+
+oxygen_core.gui.privileges.management.title=Управління Привілеями
+oxygen_core.gui.privileges.management.defaultPrivileges=базові привілеї
+oxygen_core.gui.privileges.management.players=Гравець
+oxygen_core.gui.privileges.management.edit=Редагувати
+oxygen_core.gui.privileges.management.remove=Видалити
+oxygen_core.gui.privileges.management.addPrivilege=Доб. Привілей
+oxygen_core.gui.privileges.management.removePrivilege=Удалой. Привілей
+oxygen_core.gui.privileges.management.addRoleToPlayer=Додати Роль
+oxygen_core.gui.privileges.management.removeRoleFromPlayer=Прибрати Роль
+
+oxygen_core.gui.privileges.management.button.createRole=Створити Роль
+oxygen_core.gui.privileges.management.button.addDefaultPrivilege=Додати Привілей
+
+oxygen_core.gui.privileges.management.callback.value=Значення:
+oxygen_core.gui.privileges.management.callback.privilegeId=Ідентифікатор Привілею:
+oxygen_core.gui.privileges.management.callback.roleName=Назва
+oxygen_core.gui.privileges.management.callback.roleId=Ідентифікатор (Пріоритет)
+oxygen_core.gui.privileges.management.callback.prefix=Префікс
+oxygen_core.gui.privileges.management.callback.roleNameColor=Колір Назви Ролі
+oxygen_core.gui.privileges.management.callback.prefixColor=Колір Префікса
+oxygen_core.gui.privileges.management.callback.usernameColor=Колір Ніка
+oxygen_core.gui.privileges.management.callback.chatColor=Колір повідомлень в чаті
+
+oxygen_core.gui.privileges.management.callback.roleCreation=Створення Ролі
+oxygen_core.gui.privileges.management.callback.editRole=Редагування Ролі
+oxygen_core.gui.privileges.management.callback.addPrivilege=Додавання Привілею
+oxygen_core.gui.privileges.management.callback.addDefaultPrivilege=Додавання Базової Привілеї
+oxygen_core.gui.privileges.management.callback.removeRole=Видалення Ролі
+oxygen_core.gui.privileges.management.callback.removeRole.request=Роль буде видалена.
+oxygen_core.gui.privileges.management.callback.removePrivilege=Видалення Привілею
+oxygen_core.gui.privileges.management.callback.removeDefaultPrivilege=Видалення Базової Привілеї
+oxygen_core.gui.privileges.management.callback.removePrivilege.request=Привілей буде видалена.
+oxygen_core.gui.privileges.management.callback.addPlayerRole=Додавання Ролі Гравцеві 
+oxygen_core.gui.privileges.management.callback.removePlayerRole=Видалення Ролі Гравця
+oxygen_core.gui.privileges.management.callback.removePlayerRole.request=Гравець позбудеться ролі.
+
+oxygen_core.gui.settings.title=Настройка
+oxygen_core.gui.settings.common=Загальний
+oxygen_core.gui.settings.gui=Інтерфейс
+
+oxygen_core.gui.settings.button.resetSettings=Скинути Налаштування Модуля
+
+oxygen_core.gui.settings.module.base=Базовий
+
+oxygen_core.gui.settings.option.hideOverlay=Приховати Оверлей Запитів
+oxygen_core.gui.settings.option.interactWithRMB=Взаємодія ПКМ
+oxygen_core.gui.settings.option.enableSoundEffects=Звукові Ефекти
+oxygen_core.gui.settings.option.enableRarityColors=Кольори Якості
+oxygen_core.gui.settings.option.enableItemsDurabilityBar=Смужка Стану Предметів
+oxygen_core.gui.settings.option.enableStatusMessages=Повідомлення про статус операції
+
+oxygen_core.gui.settings.callback.setColor=Настройка Кольору
+oxygen_core.gui.settings.callback.setScale=Настройка Розміру
+oxygen_core.gui.settings.callback.setOffset=Налаштування Зміщення
+oxygen_core.gui.settings.callback.setKey=Настоянка Клавіші
+oxygen_core.gui.settings.argbColor=Колір у форматі ARGB
+oxygen_core.gui.settings.elementScale=Розмір Елемента
+oxygen_core.gui.settings.offset=Зміщення
+oxygen_core.gui.settings.keyboardKey=Клавіш
+oxygen_core.gui.settings.scale=Тест
+oxygen_core.gui.settings.tooltip.screen=Екран
+oxygen_core.gui.settings.tooltip.callback=Спливаюче Вікно
+oxygen_core.gui.settings.tooltip.base=Базовий
+oxygen_core.gui.settings.tooltip.background=Фон
+oxygen_core.gui.settings.tooltip.text=Текст
+oxygen_core.gui.settings.tooltip.element=Елемент
+oxygen_core.gui.settings.tooltip.additional=Додатковий
+oxygen_core.gui.settings.tooltip.enabled=Активний
+oxygen_core.gui.settings.tooltip.disabled=Неактивний
+oxygen_core.gui.settings.tooltip.hovered=Вибраний
+
+oxygen_core.gui.settings.option.color=Колір
+oxygen_core.gui.settings.option.scale=Розмір
+oxygen_core.gui.settings.option.misc=Різне
+oxygen_core.gui.settings.option.alignment=Вирівнювання
+oxygen_core.gui.settings.option.offset=Зміщення
+oxygen_core.gui.settings.option.oxygenMenu=Oxygen Menu
+
+oxygen_core.gui.settings.option.screenFill=Заливка Екрану
+oxygen_core.gui.settings.option.guiBackground=Фон Інтерфейсу
+oxygen_core.gui.settings.option.button=Кнопка
+oxygen_core.gui.settings.option.element=Елемент
+oxygen_core.gui.settings.option.slider=Слайдер
+oxygen_core.gui.settings.option.text=Текст
+oxygen_core.gui.settings.option.textDark=Затемнений Текст
+oxygen_core.gui.settings.option.textfield=Поле Введення
+oxygen_core.gui.settings.option.overlayText=Оверлей
+oxygen_core.gui.settings.option.tooltip=Тултип
+oxygen_core.gui.settings.option.inactiveElement=Неактивний Елемент
+oxygen_core.gui.settings.option.activeElement=Активний Елемент
+oxygen_core.gui.settings.option.statusElement=Статус
+
+oxygen_core.gui.settings.option.subText=Доп. Текст
+oxygen_core.gui.settings.option.titleText=Заголовок
+oxygen_core.gui.settings.option.panelText=Текст Панелі
+oxygen_core.gui.settings.option.buttonText=Текст Кнопок
+oxygen_core.gui.settings.option.tooltipText=Текст Зринаючі Підказки
+oxygen_core.gui.settings.option.overlay=Оверлей
+
+oxygen_core.gui.settings.option.verticalGradient=Вертикальний Градієнт
+
+oxygen_core.gui.settings.option.alignmentNotificationsMenu=Меню Сповіщень
+oxygen_core.gui.settings.option.alignmentSettingsMenu=Меню Налаштувань
+oxygen_core.gui.settings.option.alignmentPrivilegesMenu=Меню Привілеїв
+
+oxygen_core.gui.settings.option.offsetRequestOverlay=Вертикальне Зміщення Оверлея Запитів
+
+oxygen_core.gui.settings.option.addNotificationsMenu=Меню Сповіщень
+oxygen_core.gui.settings.option.addSettingsMenu=Меню Налаштувань
+oxygen_core.gui.settings.option.addPrivilegesMenu=Меню Привілеїв
+
+oxygen_core.alignment.left=Зліва
+oxygen_core.alignment.center=По Центру
+oxygen_core.alignment.right=Праворуч
+
+oxygen_core.request.friendRequest=%s надіслав Вам запит до друзів.
+
+oxygen_core.status.online=В мережі
+oxygen_core.status.away=Немає на місці
+oxygen_core.status.notDisturb=Не Турбувати
+oxygen_core.status.offline=Не в мережі
+
+oxygen_core.rarity.normal=Нормальний
+oxygen_core.rarity.fine=Хороший
+oxygen_core.rarity.superior=Відмінний
+oxygen_core.rarity.epic=Епічний
+oxygen_core.rarity.legendary=Легендарний
+
+oxygen_core.gui.minute=%s хвилина
+oxygen_core.gui.minutes=%s хвилин
+oxygen_core.gui.hour=%s годину
+oxygen_core.gui.hours=%s годин
+oxygen_core.gui.day=%s день
+oxygen_core.gui.days=%s днів
+oxygen_core.gui.undef=невідомий
+oxygen_core.gui.expired=витекти
+
+oxygen_core.gui.inventoryLoad=Інвентар
+oxygen_core.gui.lastActivityTime=активність %s назад
+
+oxygen_core.gui.online=В мережі
+oxygen_core.gui.download=Завантаження
+oxygen_core.gui.settings=Настройка
+oxygen_core.gui.search=Пошук
+oxygen_core.gui.refresh=Оновити
+oxygen_core.gui.create=Утворити
+oxygen_core.gui.reset=Скинувши
+oxygen_core.gui.apply=Застосовувати
+oxygen_core.gui.remove=Видалити
+oxygen_core.gui.edit=Редагувати
+oxygen_core.gui.hide=Сховавши
+oxygen_core.gui.sort=Сортувати
+oxygen_core.gui.priority=Пріоритет
+oxygen_core.gui.name=Назва
+oxygen_core.gui.username=Ім'я Користувача
+oxygen_core.gui.time=Час
+oxygen_core.gui.status=Статус
+oxygen_core.gui.dimension=Вимірювання
+oxygen_core.gui.description=Опис
+oxygen_core.gui.note=Замітка
+oxygen_core.gui.confirm=Прийняти
+oxygen_core.gui.cancel=Скасування
+oxygen_core.gui.close=Заплющити
+oxygen_core.gui.add=Додавши
+oxygen_core.gui.player=Гравець
+oxygen_core.gui.offer=Запропонувавши
+oxygen_core.gui.take=Забирати
+oxygen_core.gui.pay=Оплатити
+oxygen_core.gui.price=Вартість
+oxygen_core.gui.rank=Ранг
+oxygen_core.gui.flag=Прапор
+
+oxygen_core.message.command.oxygenop.currency.balance=Запас валюти гравця <%s> під індексом <%s > становить <%s>.
+oxygen_core.message.command.oxygenop.currency.set=Гравцеві < %s> встановлено <%s> одиниць валюти з індексом <%s>.
+oxygen_core.message.command.oxygenop.currency.add=Гравець < %s> отримав < %s> одиниць валюти з індексом <%s>.
+oxygen_core.message.command.oxygenop.currency.remove=Гравець <%s> отерял <%s> одиниць валюти з індексом <%s>.
+oxygen_core.message.command.oxygenop.role.add=Додана роль < %s> гравцеві <%s>.
+oxygen_core.message.command.oxygenop.role.remove=Прибрана роль <%s> у гравця <%s>.
+oxygen_core.message.command.oxygenop.notification.sentTo=Надіслано повідомлення <%s>: %s
+
+oxygen_core.command.exception.wrongArg=Невірний аргумент: %s.
+
+oxygen_core.command.oxygenc.reloadSettings=Настоянки клієнта перезавантажені.
+oxygen_core.command.oxygenc.reloadProperties=Додаткові налаштування (властивості) перезавантажені.
+oxygen_core.command.oxygenc.currency.balance=Клієнтський баланс валюти < %s> дорівнює %s
+oxygen_core.command.oxygenc.privileges.getValue=Клієнтське значення привілею <%s (%s)> дорівнює: %s
+oxygen_core.command.oxygenc.itemStackSerialized=Предмет < %s> успішно серіалізований.
+
+oxygen_core.status.message.activityStatusChanged=Статус активності змінено
+oxygen_core.status.message.requestSent=Запит відправлений
+oxygen_core.status.message.requestReset=Запит скинуто
+oxygen_core.status.message.roleCreated=Роль створена
+oxygen_core.status.message.roleEdited=Роль Відредагована
+oxygen_core.status.message.roleRemoved=Роль видалена
+oxygen_core.status.message.privilegeAdded=Привілей додана
+oxygen_core.status.message.privilegeRemoved=Привілей видалено
+oxygen_core.status.message.defaultPrivilegeAdded=Базовий привілей додано
+oxygen_core.status.message.defaultPrivilegeRemoved=Базовий привілей видалено
+oxygen_core.status.message.roleAddedToPlayer=Роль додана гравцеві
+oxygen_core.status.message.roleRemovedFromPlayer=Роль прибрана у гравця
+
+oxygen_core.status.message.actionTimeOut=Час виконання минув
+oxygen_core.status.message.inventoryFull=Інвентар заповнений
+oxygen_core.status.message.mailboxFull=Поштова скринька заповнена
+
+oxygen_core.category.common=Весь
+oxygen_core.category.blocks=Блок
+oxygen_core.category.blocks.building=Будівництво
+oxygen_core.category.blocks.decoration=Декорація
+oxygen_core.category.blocks.transportation=Транспортування
+oxygen_core.category.blocks.redstone=Редстоун
+oxygen_core.category.items=Предмет
+oxygen_core.category.items.misc=Різне
+oxygen_core.category.items.food=Їжа
+oxygen_core.category.items.tools=Інструмент
+oxygen_core.category.items.combat=Екіпірування
+oxygen_core.category.items.brewing=Алхімія
+oxygen_core.category.items.enchanting=Зачаровування
+
+oxygen_core.dimension.unknown=Невідомий
+Overworld=Верхній Світ
+Nether=Нижній Світ
+The End=Край

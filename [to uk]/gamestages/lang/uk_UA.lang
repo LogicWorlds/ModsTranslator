@@ -1,0 +1,19 @@
+#Commands
+
+commands.gamestage.add.sender=Етап %s розблоковано для %s!
+commands.gamestage.add.target=Ви розблокували етап %s!
+
+commands.gamestage.remove.sender=Етап %s був видалений у %s!
+commands.gamestage.remove.target=Ви втратили доступ до етапу %s!
+
+commands.gamestage.check.failure=У %s немає етапу %s
+commands.gamestage.check.success=У %s є етап %s
+
+commands.gamestage.info.empty=У Вас немає розблокованих етапів!
+commands.gamestage.info.noplayer=Не знайдено жодного гравця!
+
+commands.gamestage.clear.sender=%d етапів було видалено у %s
+commands.gamestage.clear.target=Ви втратили %d етапів!
+
+commands.gamestage.playeronly=Вибачте, тільки для гравців!
+

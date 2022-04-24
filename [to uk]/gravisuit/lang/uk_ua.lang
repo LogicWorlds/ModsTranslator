@@ -1,0 +1,83 @@
+item.gravisuit.name=Гравітаційний нагрудник
+item.advancedNanoChestplate.name=Покращений нановолоконний жилет
+item.advancedElectricJetpack.name=Покращений реактивний ранець
+item.nuclearGravisuit.name=Ядерний гравітаційний нагрудник
+item.advancedNuclearNanoChestplate.name=Покращений ядерно-нановолоконний нагрудник
+item.advancedNuclearJetpack.name=Покращений ядерний реактивний ранець
+item.advancedLappack.name=Покращений мультиранец
+item.ultimateLappack.name=Досконалий мультиранец
+item.gravitool.name=Гравитул
+item.advancedDrill.name=Покращений алмазний бур
+item.advancedChainsaw.name=Покращена ланцюгова пила
+item.advancedDiamondChainsaw.name=Покращена Алмазна ланцюгова пила
+item.vajra.name=Ваджра
+item.relocator.name=Релокатор
+item.superConductorCover.name=Ізоляція надпровідника
+item.superConductor.name=Надпровідник
+item.coolingCore.name=Охолоджуючий елемент
+item.gravitationEngine.name=Гравітаційний двигун
+item.magnetron.name=Магнетрон
+item.vajraCore.name=Ядро ваджри
+item.engineBoost.name=Прискорювач двигуна
+
+tooltip.gravisuit.wip=Work in progress
+
+
+itemInfo.toolMode.name=Режим: %1$s
+itemInfo.multiModes.name=Циклічне перемикання між різними режимами
+itemInfo.silkMode.name=Режим шовкового дотику: %1$s
+itenInfo.craftingGravitool.name=Примітка: за замовчуванням режим гайкового ключа "без втрат"
+itemInfo.wrench.name=Гайковий ключ
+itemInfo.hoe.name=Мотика
+itemInfo.treetap.name=Краник
+itemInfo.screwdriver.name=Викрутка
+itemInfo.advancedChainsawTreeCuttingToggle.name=Вкл / викл Рубку дерева
+itemInfo.advancedChainsawShearToggle.name=Вкл / Викл Стрижку
+itemInfo.advancedDrillNormal.name=Нормальний
+itemInfo.advancedDrillLowPower.name=Малопотужний
+itemInfo.advancedDrillFine.name=Точний
+itemInfo.advancedDrillBigHoles.name=Великі отвори
+itemInfo.advancedDrillMediumHoles.name=Середні отвори
+itemInfo.advancedDrillTunnelHoles.name=Тунельні отвори
+itemInfo.relocatorPersonal.name=Особистий
+itemInfo.relocatorPortal.name=Портал
+itemInfo.relocatorTranslocator.name=у транслокаторе
+itemInfo.vajraSilktouchToggle.name=Вкл / викл Шовковий дотик
+itemInfo.vajraSilktouchOn.name=Включений
+itemInfo.vajraSilktouchOff.name=Вимкнений
+
+message.advancedChainsawTreeCuttingOn.name=Включена рубка дерева
+message.advancedChainsawTreeCuttingOff.name=Відключена рубка дерева
+message.advancedChainsawNormal.name=Включена стрижка
+message.advancedChainsawNoShear.name=Відключена стрижка
+message.advancedDrillNormal.name=Встановлено нормальний режим
+message.advancedDrillLowPower.name=Встановлено режим низького споживання
+message.advancedDrillFine.name=Встановлено режим "точний"
+message.advancedDrillBigHoles.name=Встановлено режим великих отворів
+message.advancedDrillMediumHoles.name=Встановлено режим середніх отворів
+message.advancedDrillTunnelHoles.name=Встановлено режим тунельних отворів
+message.relocatorPersonal.name=Встановлено режим "особистий"
+message.relocatorPortal.name=Встановлено режим "портал"
+message.relocatorTranslocator.name=Встановлено режим "транслокатор"
+message.wrench.name=Встановлено режим гайкового ключа
+message.hoe.name=Встановлено режим Мотики
+message.treetap.name=Встановлено режим краника
+message.screwdriver.name=Встановлено режим Викрутки
+message.graviEngineOn.name=Гравітаційний двигун включений
+message.graviEngineOff.name=Гравітаційний двигун відключений
+message.silkTouchOn.name=Шовковий дотик включено
+message.silkTouchOff.name=Шовковий дотик вимкнено
+
+panelInfo.energyLevel=Заряд
+panelInfo.jetpackEngineOn=Реактивний ранець включений
+panelInfo.jetpackHoverMode=Режим зависання
+panelInfo.jetpackExtremeHoverMode=Екстремальний режим зависання
+panelInfo.gravitationEngineOn=Граві-двигун включений
+
+itemInfo.graviEngineOnInfo.name=Коли гравітаційний двигун увімкнено,
+itemInfo.graviEngineOffInfo.name=Коли гравітаційний двигун вимкнений,
+itemInfo.gravisuitToggleCombo.name=%1$s & %2$s
+miscInfo.doubleJump.name=Double %1$s
+itemInfo.jetpackJumpToCreativeFly.name=Політ як у креативі
+itemInfo.graviEngineToggle.name=Вкл / викл гравітаційний двигун
+

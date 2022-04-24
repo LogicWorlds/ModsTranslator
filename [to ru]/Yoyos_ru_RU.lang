@@ -1,0 +1,127 @@
+itemGroup.yoyos=Йойос
+
+item.yoyos.wooden_yoyo.name=Деревянный Йо-йо
+item.yoyos.stone_yoyo.name=Каменный Йо-йо
+item.yoyos.iron_yoyo.name=Железный Йо-йо
+item.yoyos.diamond_yoyo.name=Алмазный Йо-йо
+item.yoyos.gold_yoyo.name=Золотой Йо-йо
+item.yoyos.shear_yoyo.name=Стричь Йо-йо
+item.yoyos.hoe_yoyo.name=Йохо
+item.yoyos.sticky_yoyo.name=Липкий Йо-йо
+item.yoyos.creative_yoyo.name=Радужное небо
+
+item.yoyos.mana_cord.name=Шнур, наполненный Маной
+item.yoyos.manasteel_yoyo.name=Манастил Йо-йо
+item.yoyos.elementium_yoyo.name=Элементум Йо-йо
+item.yoyos.terrasteel_yoyo.name=Охотник за Террой
+
+item.yoyos.cord.name=Шнур
+
+entity.yoyo.throw.subtitle=Йо-йо, брошенный
+entity.yoyo.stick.subtitle=Палочки йо-йо
+entity.yoyo.chase.subtitle=позвал Йойо
+
+enchantment.yoyos.collecting=Сбор
+enchantment.yoyos.collecting.desc=Йо-йо забирают предметы и возвращают их, когда йо-йо убирается
+
+yoyos.config.vanilla=Ванильные Йойо
+yoyos.config.enable=Включить
+yoyos.config.tinkers=Йо-йо лудильщиков
+yoyos.config.swing=Йо-йо Раскачивается
+yoyos.config.replanting=Фермерские Йойо Пересаживают Посевы
+
+yoyos.config.materials=Настраиваемая Статистика материалов
+
+yoyos.config.tinkers.tool_station=Изготовление инструментальной станции
+
+yoyos.config.botania=Ботанические Йойо
+yoyos.config.botania.hackery=Страницы инструментов слияния Лексикона
+
+yoyos.config.damage=Ущерб
+yoyos.config.weight=Вес
+yoyos.config.length=Длина
+yoyos.config.duration=Продолжительность
+yoyos.config.collecting_base=Собирающий множитель
+
+yoyos.display.prefix=Йоу-
+
+yoyos.info.weight.name=Вес: %s
+yoyos.info.duration.name=Продолжительность: %s секунд
+yoyos.info.length.name=Длина: %s блоков
+
+yoyos.info.sticky.name=Прилипает к блокам и действует как веревочные качели.
+yoyos.info.sticky.retraction.name=Удерживайте [%s], чтобы намотать строку.
+yoyos.info.sticky.release.name=Удерживайте [%s], чтобы выпустить слабину.
+
+item.yoyos.book.name=Йойос и Ты
+item.yoyos.book.tooltip=Как стать мастером метания с помощью Jozufozu
+
+item.yoyos.yoyo.name=Йо-йо
+item.yoyos.yoyo_axle.name=Ось
+item.yoyos.yoyo_body.name=Тело
+item.yoyos.yoyo_cord.name=Шнур
+
+item.yoyos.yoyo.desc=Йо-йо - это оружие ближнего боя дальнего боя, позволяющее вам разрывать своих противников в клочья.Это тоже детская игрушка. Поди разберись.
+
+stat.axle.name=Ось
+stat.body.name=Тело
+stat.cord.name=Шнур
+
+stat.yoyo.duration.name=Продолжительность
+stat.yoyo.duration.suffix=Секунд
+stat.yoyo.infinite.name=Бесконечный
+
+stat.body.weight.name=Вес
+stat.body.weight.desc=Базовое значение для расчета скорости движения.\Конечное значение - это сумма всех весов.
+
+stat.axle.friction.name=Разногласие
+stat.axle.friction.desc=Значение, используемое для расчета того, как долго может прослужить йо-йо.\ Если какая-либо деталь имеет 0 трения, йо-йо может длиться вечно.
+
+stat.cord.length.name=Длина
+stat.cord.length.desc=Как далеко йо-йо уйдет от вас.
+
+modifier.extension.name=Расширение
+modifier.extension.desc=В§Размер имеет значение!В§r\n Увеличивает длину шнура.
+
+modifier.lubricated.name=Смазанный
+modifier.lubricated.desc=В§oРуны похожи на сон.В§r\nУменьшает трение между частями йо-йо, удлиняя его продолжительность.
+
+modifier.floating.name=Плавающий
+modifier.floating.desc=В§Посмотрите на маленького парня!В §r\nРыба-фугу действует как воздушный шарик и делает йо-йо легче.
+
+modifier.gardening.name=Сдвиг
+modifier.gardening.desc=§oОно больше не безопасно для детей.В§r\nИ вырубает траву, цветы и тому подобное. Тоже овцы. Он стрижет овец.
+
+modifier.farming.name=Сельское хозяйство
+modifier.farming.desc=Это немного, но это честная работа. р\Н Собирает урожай, пересаживает семена. Также обрабатывает почву. Базовая функциональность мотыги.
+
+modifier.sticky.name=Липкий
+modifier.sticky.desc=В§Ой... Я не могу его снять.В §r\nпривязывается к блокам и позволяет вам намотать себя.
+
+modifier.gluey.name=Клейкий
+modifier.gluey.desc=В § Безопасный, нетоксичный, прилипает к блокам и позволяет вам наматывать себя, ценой ущерба.
+
+modifier.collecting.name=Сбор
+modifier.collecting.desc=В§оГотта лови их всех!В§r\nИ подбирает предметы.
+
+gui.error.not_a_yoyo=%s может быть применен только к йо-йо!
+gui.error.too_light=Весит слишком мало!
+gui.error.frictionless=Уже без трения!
+
+yoyos.lexicon.entry.mana_yoyo=Манастил Йо-йо
+yoyos.lexicon.tagline.mana_yoyo=Йо-йо железного уровня, который восстанавливается с помощью маны
+yoyos.lexicon.page.mana_yoyo0=Смотрите &oManasteel Equipment&0.
+yoyos.lexicon.page.mana_yoyo1=The &1Manasteel Yoyo&0
+
+yoyos.lexicon.entry.elf_yoyo=Элементум Йо-йо
+yoyos.lexicon.tagline.elf_yoyo=Человекоподобный йо-йо, обладающий способностью подбирать предметы
+yoyos.lexicon.page.elf_yoyo00=&1Elementium Yoyo &0 будет подбирать любые предметы, к которым прикасается, возвращая их пользователю, когда он наматывается.<br> Объединение &1Elementium Yoyo &0 с &1Terra Chaser &0 в квадрате крафта позволяет последнему также получить эту силу. Это не может быть отменено.
+yoyos.lexicon.page.elf_yoyo0=См. &2Элементное оборудование&0.<br> &1Elementium Yoyo &0 будет подбирать любые предметы, к которым прикасается, возвращая их пользователю, когда он наматывается.<br> Объединение &1Elementium Yoyo &0 с &1Terra Chaser &0 в квадрате крафта позволяет последнему также получить эту силу. Это не может быть отменено.
+yoyos.lexicon.page.elf_yoyo1=The &1элемент Йо-йо&0
+
+yoyos.lexicon.entry.terra_chaser=Охотник за Террой
+yoyos.lexicon.tagline.terra_chaser=Йо-йо, который гоняется за своей добычей
+yoyos.lexicon.page.terra_chaser0=&1Terra Chaser &0 - это вооруженная игрушка с большой силой, приданной ей &1Terrasteel &0, из которой она была сделана. Его сила равна &1Diamond Yoyo &0, с добавленной способностью потреблять &4Mana & 0 вместо получения урона.<br> Когда на него направляют свистом и взмахом кулака, брошенный йо-йо будет искать что-нибудь для атаки. Это происходит при небольшой стоимости &4Mana &0.
+yoyos.lexicon.page.terra_chaser1=Привести.
+
+yoyos.lexicon.page.terra_chasere=Наконец, инструмент получает урон за каждый разбитый блок, поэтому хороший запас & 4Mana & 0 в инвентаре владельца является обязательным для более высоких рангов, так как инструмент функционирует как обычные & 1Manasteel Tools & 0, в том смысле, что он будет использовать & 4Mana & 0 вместо того, чтобы фактически брать урон, учитывая, что он сделан из &1Terrasteel&0.<br> Он также не будет исчезать, как обычные упавшие предметы.

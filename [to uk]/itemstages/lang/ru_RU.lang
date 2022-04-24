@@ -1,0 +1,10 @@
+#English ItemStages Translation
+tooltip.itemstages.name.default=Незнакомый Предмет
+tooltip.itemstages.description=Вы еще не знаете, как это использовать.
+tooltip.itemstages.info=Сначала вам нужен этап %s.
+tooltip.itemstages.stage=Этап:
+tooltip.itemstages.enchant=Вы не можете использовать это, не поняв сначала чары.
+
+message.itemstages.drop=Ты уронил %s.
+
+message.itemstages.attack=Вы не можете наносить урон с помощью %s, не понимая заклинания.

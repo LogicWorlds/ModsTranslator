@@ -1,0 +1,21 @@
+tile.chickenchunks:chunk_loader|0.name=Завантажувач чанков
+tile.chickenchunks:chunk_loader|1.name=Завантажувач чанка
+
+chickenchunks.gui.name=Завантажувач чанков
+chickenchunks.gui.showlasers=Показати лазери
+chickenchunks.gui.hidelasers=Приховати Лазери
+chickenchunks.gui.chunk=%d чанк
+chickenchunks.gui.chunks=%d чанки
+chickenchunks.gui.radius=Радіус
+
+chickenchunks.shape.square=Квадрат
+chickenchunks.shape.circle=Коло
+chickenchunks.shape.linex=Line X
+chickenchunks.shape.linez=Line Z
+
+chickenchunks.accessdenied=Цей завантажувач не належить вам.
+command.ccdebug=/ccdebug [dimension]
+command.chunkloaders=/chunkloaders
+command.chunkloaders.denied=Вам не дозволено користуватися переглядом чанків.
+command.chunkloaders.alreadyopen=Перегляд чанків вже відкритий
+

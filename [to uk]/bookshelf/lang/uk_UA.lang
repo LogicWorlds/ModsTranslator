@@ -1,0 +1,34 @@
+#Russian Language File 
+
+#Moon Phases
+moon.phase.full.name=Повний місяць
+moon.phase.waxing.gibbous.name=Прибуває місяць
+moon.phase.first.quarter.name=Перша чверть
+moon.phase.waxing.crescent.name=Молодий місяць
+moon.phase.new.name=Новомісяччя
+moon.phase.waning.crescent.name=Спадний місяць
+moon.phase.last.quarter.name=Остання чверть
+moon.phase.waning.gibbous.name=Старий місяць
+
+#Months
+time.bookshelf.month.january.name=Січень
+time.bookshelf.month.february.name=Лютий
+time.bookshelf.month.march.name=Березень
+time.bookshelf.month.april.name=Квітень
+time.bookshelf.month.may.name=Травень
+time.bookshelf.month.june.name=Червень
+time.bookshelf.month.july.name=Липень
+time.bookshelf.month.august.name=Серпень
+time.bookshelf.month.september.name=Вересень
+time.bookshelf.month.october.name=Жовтень
+time.bookshelf.month.november.name=Листопад
+time.bookshelf.month.december.name=Грудень
+
+#Days
+time.bookshelf.day.sunday.name=Неділя
+time.bookshelf.day.monday.name=Понеділок
+time.bookshelf.day.tuesday.name=Вівторок
+time.bookshelf.day.wednesday.name=Середовище
+time.bookshelf.day.thursday.name=Четвер
+time.bookshelf.day.friday.name=П'ятниця
+time.bookshelf.day.saturday.name=Субота

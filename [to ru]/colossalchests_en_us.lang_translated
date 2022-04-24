@@ -1,0 +1,108 @@
+# General
+itemGroup.colossalchests=Колоссальные Сундуки
+general.colossalchests.description=Для тех случаев, когда обычные сундуки слишком малы.
+general.colossalchests.colossalchest.name=%s Колоссальная грудь (%s)
+general.colossalchests.uncolossalchest.name=Неколос Сундук
+
+# Advancements
+advancement.colossalchests.wood=Деревянный Колоссальный Сундук
+advancement.colossalchests.wood.desc=Сформируйте деревянный Колоссальный Сундук
+advancement.colossalchests.copper=Медный Колоссальный Сундук
+advancement.colossalchests.copper.desc=Образуют медный Колоссальный Сундук
+advancement.colossalchests.iron=Железный Колоссальный Сундук
+advancement.colossalchests.iron.desc=Сформируйте железный Колоссальный Сундук
+advancement.colossalchests.silver=Серебряный Колоссальный Сундук
+advancement.colossalchests.silver.desc=Образуют серебристый Колоссальный Сундук
+advancement.colossalchests.gold=Золотой Колоссальный Сундук
+advancement.colossalchests.gold.desc=Образуют золотой Колоссальный Сундук
+advancement.colossalchests.diamond=Бриллиантовый Колоссальный Сундук
+advancement.colossalchests.diamond.desc=Образуют бриллиантовый Колоссальный Сундук
+advancement.colossalchests.obsidian=Обсидиановый Колоссальный Сундук
+advancement.colossalchests.obsidian.desc=Сформируйте Колоссальный обсидиановый сундук
+advancement.colossalchests.uncolossal=Самый колоссальный из всех!
+advancement.colossalchests.uncolossal.desc=Получить Неколос сундук
+advancement.colossalchests.large.wood=Эпический Деревянный Колоссальный Сундук
+advancement.colossalchests.large.wood.desc=Сформируйте деревянный Колоссальный сундук размером не менее 10х10х10
+advancement.colossalchests.large.copper=Эпический Медный Колоссальный Сундук
+advancement.colossalchests.large.copper.desc=Сформируйте медный Колоссальный сундук размером не менее 10х10х10
+advancement.colossalchests.large.iron=Эпический Железный Колоссальный Сундук
+advancement.colossalchests.large.iron.desc=Сформируйте железный Колоссальный сундук размером не менее 10х10х10
+advancement.colossalchests.large.silver=Эпический Серебряный Колоссальный Сундук
+advancement.colossalchests.large.silver.desc=Сформируйте серебряный Колоссальный сундук размером не менее 10х10х10
+advancement.colossalchests.large.gold=Эпический Золотой Колоссальный Сундук
+advancement.colossalchests.large.gold.desc=Сформируйте золотой Колоссальный сундук размером не менее 10х10х10
+advancement.colossalchests.large.diamond=Эпический Бриллиантовый Колоссальный Сундук
+advancement.colossalchests.large.diamond.desc=Сформируйте алмазный Колоссальный сундук размером не менее 10x10x10
+advancement.colossalchests.large.obsidian=Эпический Обсидиановый Колоссальный Сундук
+advancement.colossalchests.large.obsidian.desc=Сформируйте Колоссальный обсидиановый сундук размером не менее 10х10х10
+
+# Blocks
+tile.blocks.colossalchests.colossal_chest.name=Колоссальное Ядро Грудной клетки
+tile.blocks.colossalchests.colossal_chest.info=Ровно один, необходимый для создания Колоссальной конструкции Грудной клетки
+tile.blocks.colossalchests.chest_wall.name=Колоссальная Грудная стенка
+tile.blocks.colossalchests.chest_wall.info=Используется для создания Колоссальной конструкции Грудной клетки
+tile.blocks.colossalchests.interface.name=Колоссальный Интерфейс сундука
+tile.blocks.colossalchests.interface.info=Для взаимодействия с трубами и бункерами
+tile.blocks.colossalchests.uncolossal_chest.name=Неколос Сундук
+tile.blocks.colossalchests.uncolossal_chest.info=Самый колоссальный из всех!
+
+# Items
+item.items.colossalchests.upgrade_tool.name=Инструмент для обновления Сундука
+item.items.colossalchests.upgrade_tool.info=Обновите Колоссальный сундук до следующего уровня, если в вашем инвентаре есть все необходимые предметы.
+item.items.colossalchests.upgrade_tool.reverse.name=Инструмент для понижения рейтинга груди
+item.items.colossalchests.upgrade_tool.reverse.info=Понизьте уровень Колоссального сундука до предыдущего уровня, если в вашем инвентаре есть все необходимые предметы. ПРЕДУПРЕЖДЕНИЕ: предметы могут выскочить, если сундук станет слишком мал для содержимого.
+
+# Materials
+material.colossalchests.wood=Дерево
+material.colossalchests.copper=Медь
+material.colossalchests.iron=Железо
+material.colossalchests.silver=Серебро
+material.colossalchests.gold=Золото
+material.colossalchests.diamond=Бриллиант
+material.colossalchests.obsidian=Обсидиан
+
+# Multiblock
+multiblock.colossalchests.error.prefix=Колоссальные сундуки
+multiblock.colossalchests.error.prefix.info=Ошибка в многоблочной структуре колоссального сундука
+multiblock.colossalchests.error.unexpected=Неожиданная колоссальная ошибка в структуре грудной клетки.
+multiblock.colossalchests.error.material=Найден блок материала %s в %s, в то время как ожидалось %s.
+multiblock.colossalchests.error.upgrade=Недостаточно предметов для обновления этого сундука, вам нужны %s ядра, %s интерфейсы и %s стены, по крайней мере, из материала %s.
+multiblock.colossalchests.error.upgradeLimit=Вы больше не можете трансформировать этот сундук.
+
+# Configuration
+config.colossalchests=конфигурация %s
+
+## Config categories
+config.colossalchests.block=Настройки блокировки
+config.colossalchests.block.tooltip=Настройки блокировки
+config.colossalchests.general=Общие настройки
+config.colossalchests.general.tooltip=Общие настройки
+config.colossalchests.machine=Настройки машины
+config.colossalchests.machine.tooltip=Настройки машины
+config.colossalchests.core=Основные настройки
+config.colossalchests.core.tooltip=Основные настройки
+config.colossalchests.modcompat=Настройки совместимости модов
+config.colossalchests.modcompat.tooltip=Настройки совместимости модов
+
+## General settings
+config.colossalchests.colossalChest.chestAnimation=Анимация груди
+config.colossalchests.general.ejectItemsOnDestroy=Извлекайте предметы при уничтожении
+config.colossalchests.general.metalVariants=Варианты из металла
+config.colossalchests.general.alwaysShowInterfaceOverlay=Наложение интерфейса рендеринга
+config.colossalchests.general.creativeChests=Сундуки в творческом режиме
+
+## Machine settings
+config.colossalchests.colossalChest.maxSize=Максимальный колоссальный диаметр грудной клетки
+
+## Core settings
+config.colossalchests.general.analytics=Отправка анонимной аналитики
+config.colossalchests.general.crashOnInvalidRecipe=Сбой при неправильном рецепте
+config.colossalchests.general.crashOnModCompatCrash=Сбой из-за проблемы с совместимостью
+config.colossalchests.general.debug=Режим разработки
+config.colossalchests.general.maxPacketBufferSize=Максимальный размер буфера пакетов
+config.colossalchests.general.version=Версия
+config.colossalchests.general.versionChecker=Проверка версии
+
+## Mod compatibility settings
+config.colossalchests.ironchest=Железные Сундуки
+

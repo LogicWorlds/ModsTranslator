@@ -1,0 +1,33 @@
+# Russian Language File
+# Tabs
+itemGroup.advancedelectrictools=Advanced Electric Tools
+item.icon.name=icon
+item.quantumsaber.name=Квантова шабля
+item.nanobow.name=Нано-цибуля
+item.quantumbow.name=Квантовий лук
+item.pocketrefrigerant.name=Кишеньковий холодоагент
+item.electriclighter.name=Електрична запальничка
+item.quantumshield.name=Квантовий щит
+item.electricmagnet.name=Електромагніт
+item.nanodrill.name=Нано-бур
+item.thunderengine.name=Громовий двигун
+item.nanochainsaw.name=Нано-пила
+item.quantumcore.name=Квантове ядро
+item.quantumdrill.name=Квантовий бур
+item.quantumchainsaw.name=Квантова пила
+item.heatlance.name=Розпечений спис
+item.electricfishingrod.name=Електровудочка
+item.plasmaaircannon.name=Плазмова повітряна гармата
+item.electricsubmachinegun.name=Електричний підводний пістолет
+item.advelectricsubmachinegun.name=Просунутий електричний підводний пістолет
+item.tlelectricsubmachinegun.name=Тактичний лазерний дротовий пістолет
+item.electricforcefieldgenerator.name=Електро-генератор силового поля
+item.quantumlifesupport.name=Квантовий пристрій першої допомоги
+item.electricrocketlauncher.name=Електрична ракетна установка 
+item.missile.name=Ракета
+item.fireextinguishingbow.name=Електричний лук пожежогасіння
+item.agitomk1.name=AGITO Mk.1
+item.agitomk2.name=AGITO Mk.2
+item.railgununitmk2.name=AGITO Mk.2 юніт рельсотрона
+item.vajra.name=Ваджара
+item.electricrockcutter.name=Електричний каменеріз

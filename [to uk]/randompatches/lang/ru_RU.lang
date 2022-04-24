@@ -1,0 +1,64 @@
+randompatches.config.boats=Лодки
+randompatches.config.boats.patchEntityBoat=Патч EntityBoat
+randompatches.config.boats.preventUnderwaterBoatPassengerEjection=Предотвращение катапультирования пассажиров подводной лодки
+randompatches.config.boats.underwaterBoatBuoyancy=Плавучесть подводной лодки
+
+randompatches.config.client=На стороне клиента
+randompatches.config.client.dismountKeybind=Демонтировать связку ключей
+randompatches.config.client.fastLanguageSwitch=Быстрое переключение языка
+randompatches.config.client.forceTitleScreenOnDisconnect=Принудительно включить экран заголовка при отключении
+randompatches.config.client.framerateLimitSliderStepSize=Размер шага ползунка ограничения частоты кадров
+randompatches.config.client.invisiblePlayerModelFix=Исправление модели невидимого игрока
+randompatches.config.client.narratorKeybind=Переключить связку клавиш диктора
+randompatches.config.client.patchMinecraftClass=Патч класса Minecraft
+randompatches.config.client.patchTitleScreenOnDisconnect=Экран заголовка исправления при отключении
+randompatches.config.client.patchPotionGlint=Блеск патч-зелья
+randompatches.config.client.removePotionGlint=Убрать отблеск зелья
+randompatches.config.client.patchSmoothEyeLevelChanges=Патч плавно меняет уровень глаз
+randompatches.config.client.smoothEyeLevelChanges=Плавное изменение уровня глаз
+randompatches.config.client.rpreloadclient=/rpreloadclient
+
+randompatches.config.client.window=Окно
+randompatches.config.client.window.icon16=Значок окна (16x16)
+randompatches.config.client.window.icon32=Значок окна (32x32)
+randompatches.config.client.window.icon256=Значок окна (256x256)
+randompatches.config.client.window.title=Заголовок окна
+
+randompatches.config.misc=Разнообразный
+randompatches.config.misc.disableObserverSignalOnPlace=Отключить сигнал наблюдателя на месте
+randompatches.config.misc.dismountPositionFix=Фиксация положения демонтажа
+randompatches.config.misc.endPortalTweaks=Конечные настройки портала
+randompatches.config.misc.fixTickNextTickListOutOfSynch=Попытка исправить исключение IllegalStateException "Список галочек не синхронизирован"
+randompatches.config.misc.mc2025Fix=Исправление MC-2025
+randompatches.config.misc.minecartAIFix=Исправление искусственного интеллекта в мини-картах
+randompatches.config.misc.miningGhostBlocksFix=Исправление призрачных блоков майнинга
+randompatches.config.misc.particleFixes=Исправления частиц
+randompatches.config.misc.patchNetHandlerPlayServer=Исправьте NetHandlerPlayServer
+randompatches.config.misc.patchPacketSizeLimit=Ограничение размера пакета исправлений
+randompatches.config.misc.packetSizeLimit=Ограничение по размеру пакета
+randompatches.config.misc.pistonGhostBlocksFix=Исправление призрачных блоков поршня
+randompatches.config.misc.portalBucketReplacementFix=Исправление замены портального ковша
+randompatches.config.misc.portalBucketReplacementFixForNetherPortals=Исправление замены ковша портала для нижних порталов
+randompatches.config.misc.recipeBookNBTFix=Книга рецептов NBT fix
+randompatches.config.misc.rpreload=/rpreload
+randompatches.config.misc.skullStackingFix=Исправление укладки черепа
+randompatches.config.misc.skullStackingRequiresSameTextures=Укладка черепа требует одинаковых текстур
+
+randompatches.config.speedLimits=Ограничения скорости
+randompatches.config.speedLimits.maxPlayerSpeed=Максимальная скорость игрока
+randompatches.config.speedLimits.maxPlayerElytraSpeed=Максимальная скорость надкрылий игрока
+randompatches.config.speedLimits.maxPlayerVehicleSpeed=Максимальная скорость транспортного средства игрока
+
+randompatches.config.timeouts=Тайм-ауты отключения
+randompatches.config.timeouts.keepAlivePacketInterval=Интервал сохранения пакетов
+randompatches.config.timeouts.loginTimeout=Время ожидания входа в систему
+randompatches.config.timeouts.patchLoginTimeout=Исправление тайм-аута входа в систему
+randompatches.config.timeouts.readTimeout=Тайм-аут чтения
+randompatches.config.timeouts.patchNetworkManager=Исправьте NetworkManager
+
+commands.rpreloadclient.usage=/rpreloadclient
+commands.rpreloadclient.success=Перезагрузка конфигурации на стороне клиента случайных сопоставлений!
+
+key.dismount=Спешиться
+key.narrator=Переключить диктора
+

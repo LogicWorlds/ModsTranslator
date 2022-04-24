@@ -1,0 +1,28 @@
+tile.advancedSolarPanel.name=Покращена сонячна панель
+tile.hybridSolarPanel.name=Гібридна сонячна панель
+tile.ultimateSolarPanel.name=Ультимейтна сонячна панель
+
+item.sunnarium.name=Саннариум
+item.sunnariumAlloy.name=Сплав саннариума
+item.irradiantUranium.name=Випромінюючий уран
+item.enrichedSunnarium.name=Збагачений саннариум
+item.enrichedSunnariumAlloy.name=Сплав збагаченого саннаріума
+item.irradiantGlassPane.name=Випромінююча скляна панель
+item.iridiumIronPlate.name=Іридієва-залізна пластина
+item.reinforcedIridiumIronPlate.name=Укріплена іридієва-залізна пластина
+item.irradiantReinforcedPlate.name=Випромінююча укріплена пластина
+item.sunnariumPart.name=Частина саннариума
+item.iridiumIngot.name=Злиток іридію
+item.advancedSolarHelmet.name=Покращений сонячний шолом
+item.hybridSolarHelmet.name=Гібридний Сонячний шолом
+item.ultimateHybridSolarHelmet.name=Ультимейтный сонячний шолом
+
+tileInfo.storage.name=Ємність: %1$s
+tileInfo.maxOutput.name=Макс. вихід:
+tileInfo.generating.name=Генерація:
+
+itemInfo.solarPanelTier.name=Вихідний рівень: %s
+itemInfo.helmetProduction.name=Генерує %s EU / t поки видно ясне небо;
+itemInfo.helmetLowerProduction.name=Інакше генерує %s EU / t під місяцем і при дощі
+itemInfo.electricLowerProduction.name=Нижній поріг генерації :%s EU
+

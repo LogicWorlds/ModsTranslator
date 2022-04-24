@@ -1,0 +1,147 @@
+screen.button.modules=Модуль
+screen.label.scale=Розмір
+screen.label.dragtuto=Тягніть інтерфейс, щоб змінити позицію.
+
+screen.button.default=За замовчуванням
+screen.button.cancel=Скасування
+screen.button.yes=Так
+screen.button.no=Ні
+screen.button.back=Назад
+screen.button.hidden=Приховувати
+screen.button.visible=Показувати
+screen.button.maintained=При натиснутій клавіші
+screen.button.toggled=Вкл./ Викл. Гора. клавіш
+
+choice.showhidewaila=Показувати / Приховувати Waila
+choice.showhideidmeta=Показувати ID: метадані
+choice.toggledmaintained=Переключ./ Натиснута клав.
+choice.showliquids=Рідина
+choice.shifttoggledblock=Присідання показує блоки
+choice.shifttoggledents=Присідання показує сутностей
+screen.button.configureaspect=Налаштувати зовнішній вигляд...
+
+enchant.title.name=Назва
+enchant.title.minlvl=Мін. рівень
+enchant.title.maxlvl=Макс. рівень
+enchant.title.weight=Вага
+enchant.label.enchantability=Зачаровування
+
+waila.keybind.wailaconfig=[Waila] меню налаштувань
+waila.keybind.wailadisplay=[Waila] Показати / Приховати
+waila.keybind.liquid=[Waila] показати рідини
+waila.keybind.recipe=[Waila] показати рецепт
+waila.keybind.usage=[Waila] показати застосування
+waila.keybind.testing=[Waila] Тестувати
+
+client.msg.norecipe=Рецептів не знайдено.
+client.msg.nousage=Застосувань не знайдено.
+
+hud.msg.none=<Нічого>
+hud.msg.empty=<Порожньо>
+hud.msg.output=Висновок
+hud.msg.input=Уведення
+hud.msg.out=Із
+hud.msg.in=В
+hud.msg.power=Енергія
+hud.msg.storage=Сховище
+hud.msg.stored=Зберігатися
+hud.msg.any=Весь
+hud.msg.mode=Режим
+hud.msg.maxpower=Макс. енергія
+hud.msg.trigger=Триґер
+hud.msg.maxio=Макс. введення / виведення
+
+hud.msg.send=Передача
+hud.msg.recv=Приймання
+hud.msg.item=Предмет
+hud.msg.fluid=Рідина
+hud.msg.energ=Енергія
+hud.msg.frequency=Частота
+
+hud.msg.owner=Власник
+hud.msg.public=Публічний
+hud.msg.restricted=Обмежений
+hud.msg.private=Приватний
+
+hud.msg.white=Білий
+hud.msg.orange=Оранжевий
+hud.msg.magenta=Бузковий
+hud.msg.lblue=Світло-синій
+hud.msg.yellow=Жовтий
+hud.msg.lime=Світло-зелений
+hud.msg.pink=Трояндовий
+hud.msg.gray=Сірий
+hud.msg.lgray=Світло-сірий
+hud.msg.cyan=Бірюзовий
+hud.msg.purple=Фіолетовий
+hud.msg.blue=Синій
+hud.msg.brown=Коричневий
+hud.msg.green=Зелений
+hud.msg.red=Червоний
+hud.msg.black=Чорний
+
+hud.msg.growth=Зростання
+hud.msg.mature=Вирости
+hud.msg.off=Викл.
+hud.msg.on=Вкл.
+hud.msg.state=Статус
+hud.msg.delay=Затримка
+hud.msg.comparator=Компаратор
+hud.msg.substractor=Віднімач
+hud.msg.record=Платівка
+
+hud.msg.offers=Пропозиція
+hud.msg.demands=Запит
+
+option.appeng.monitorcontent=Вміст монітора
+option.bb.content=Вміст бочки
+option.bc.tankamount=Кількість рідини
+option.bc.tanktype=Тип рідини
+option.enderstorage.colors=Колір
+option.ic2.inputeumach=Макс. вхід EU [механізми]
+option.ic2.inputeuother=Макс. вхід EU [Інше]
+option.ic2.inputeu=Макс. вхід EU
+option.ic2.outputeu=Макс. вихід EU
+option.ic2.storage=Зберігається енергії
+option.ic2.consump=Показувати споживання
+option.ic2.tradeomat=Показувати запит ресурсообменника
+option.thaumcraft.storedvis=Заряд конденсатора
+option.thermalexpansion.energyhandler=Показувати заряд RF
+option.thermalexpansion.energycell=Показувати введення / виведення батареї
+option.thermalexpansion.fluidtype=Показувати Тип рідини
+option.thermalexpansion.fluidamount=Показувати кількість рідини
+option.thermalexpansion.tankmode=Показувати режим цистерни
+option.thermalexpansion.tesssendrecv=Режим тессеракта
+option.thermalexpansion.tessfreq=Частота тессеракта
+option.thermalexpansion.owner=Показувати власника
+option.thermalexpansion.conditemmode=Показувати режим предметних труб
+option.vanilla.spawntype=Тип спаунера
+option.vanilla.growthvalue=Стадія росту
+option.vanilla.leverstate=Положення важеля
+option.vanilla.repeater=Затримка повторювача
+option.vanilla.comparator=Режим компаратора
+option.vanilla.redstone=Сила червоного каменю
+option.vanilla.jukebox=Платівка в програвачі
+option.vanilla.silverfish=Сховати чешуйницу
+option.etb.displaydata=Показувати інф. про сокети
+option.enderio.inout=Показувати введення / виведення
+option.enderio.storage=Показувати заряд MJ
+option.enderio.owner=Показувати власника блоку
+option.enderio.channel=Показувати канал гіперкуба
+option.bcapi.storage=Показувати заряд MJ
+option.bcapi.consump=Показувати макс. енергію
+option.bcapi.trigger=Показувати енергію активації
+option.pr.showio=Показувати введення / виведення схем
+option.pr.showdata=Показувати дані про схеми
+option.extrautilities.fluidamount=Показувати кількість рідини
+option.openblocks.fluidamount=Показувати кількість рідини
+option.railcraft.fluidamount=Показувати кількість рідини
+option.secretrooms.hide=Сховати камуфляжні блоки
+option.carpenters.hide=Сховати камуфляжні блоки
+option.stevescarts.showall=Показувати дані
+option.stevescarts.colorblind=Режим кольорокорекції
+option.stevescarts.shifttoggle=Присідання показує
+option.general.showhp=Показувати здоров'я сутностей
+option.general.showcrop=Показувати ріст рослин
+option.thaumcraft.aspects=Показувати аспекти
+
