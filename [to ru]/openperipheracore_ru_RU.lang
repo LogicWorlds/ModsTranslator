@@ -1,0 +1,10 @@
+openperipheralcore.dump.done=Готово! Создан файл %s за %s (%s мс)
+openperipheralcore.dump.fail=Не удалось выполнить! Проверить журналы
+
+openperipheralcore.config.miscConfig=Разное конфигурация
+openperipheralcore.config.miscConfig.tooltip=Разное конфигурация
+openperipheralcore.config.featureGroupConfig=Группы функций
+openperipheralcore.config.featureGroupConfig.tooltip=Включите или отключите функции для разных компьютерных модов.
+openperipheralcore.config.architectureConfig.tooltip=Включение или отключение функций для этой архитектуры
+openperipheralcore.config.featureGroupToggle.tooltip=Если false, функция будет отключена для выбранной архитектуры.
+

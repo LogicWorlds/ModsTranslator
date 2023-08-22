@@ -1,0 +1,76 @@
+tile.openperipheral.glassesbridge.name=Терминальный мост для очков
+tile.openperipheral.peripheralproxy.name=Периферийный прокси
+tile.openperipheral.playerinventory.name=PIM
+tile.openperipheral.ticketmachine.name=Автомат по продаже билетов
+tile.openperipheral.sensor.name=Датчик
+tile.openperipheral.selector.name=Селектор предметов
+tile.openperipheral.robot.name=Контроллер робота
+
+item.openperipheraladdons.duckantenna.name=Утиная антенна
+
+item.openperipheral.keyboard.name=Беспроводная клавиатура
+item.openperipheral.glasses.name=Терминальные очки
+item.openperipheral.remote.name=Удаленный
+item.openperipheral.capacitor.name=Конденсатор
+item.openperipheral.carbon.name=Углерод
+item.openperipheral.coiledwire.name=Спиральная проволока
+item.openperipheral.electrode.name=Электрод
+item.openperipheral.lcdscreen.name=ЖК-экран
+item.openperipheral.led.name=LED
+item.openperipheral.microcontroller.name=Микроконтроллер
+item.openperipheral.optoisolator.name=Оптоизолятор
+item.openperipheral.pcb.name=Печатная плата
+item.openperipheral.plasticcasing.name=Пластиковый корпус
+item.openperipheral.preparedboard.name=Подготовленная плата
+item.openperipheral.resistor.name=Резистор
+item.openperipheral.ribboncable.name=Ленточный кабель
+item.openperipheral.silislimerubber.name=Силислаймовая резина
+item.openperipheral.solarcell.name=Солнечная батарея
+item.openperipheral.thinwire.name=Тонкая проволока
+item.openperipheral.transistor.name=Транзистор
+item.openperipheral.lightenergycell.name=Световая энергетическая ячейка
+item.openperipheral.mediumenergycell.name=Ячейка средней энергии
+item.openperipheral.heavyenergycell.name=Тяжелая энергетическая ячейка
+item.openperipheral.opticallense.name=Оптическая линза
+item.openperipheral.lasersight.name=Лазерный прицел
+item.openperipheral.focuslense.name=Фокусная линза
+item.openperipheral.scanningsensor.name=Сканирующий датчик
+item.openperipheral.targetassessmentunit.name=Группа целевой оценки
+item.openperipheral.infrasoundemitter.name=Инфразвуковой излучатель
+item.openperipheral.combatprocessor.name=Боевой процессор
+item.openperipheral.advancedcombatprocessor.name=Усовершенствованный боевой процессор
+item.openperipheral.heatsinks.name=Радиаторы
+item.openperipheral.mechanostabilizer.name=Механо-стабилизатор
+item.openperipheral.rationalizer.name=Рационализатор
+item.openperipheral.nanogps.name=Нано GPS
+item.openperipheral.matrixcomponent.name=Матричный компонент
+item.openperipheral.datalink.name=Канал передачи данных
+item.openperipheral.tier1targeting.name=Единица прицеливания уровня 1
+item.openperipheral.tier2targeting.name=Целевой отряд 2-го уровня
+item.openperipheral.tier3targeting.name=Целевой отряд 3-го уровня
+item.openperipheral.tier1sensor.name=Сенсорный блок уровня 1
+item.openperipheral.tier2sensor.name=Сенсорный блок уровня 2
+item.openperipheral.tier3sensor.name=Сенсорный блок уровня 3
+item.openperipheral.tier1laser.name=Лазерный блок 1-го уровня
+item.openperipheral.tier2laser.name=Лазерный блок 2-го уровня
+item.openperipheral.tier3laser.name=Лазерный блок 3-го уровня
+item.openperipheral.tier1movement.name=Движение 1-го уровня
+item.openperipheral.tier2movement.name=Движение 2-го уровня
+item.openperipheral.tier3movement.name=Движение 3-го уровня
+item.openperipheral.tier1inventory.name=Единица инвентаря уровня 1
+item.openperipheral.tier2inventory.name=Единица инвентаря уровня 2
+item.openperipheral.tier3inventory.name=Единица инвентаря уровня 3
+item.openperipheral.robot.name=ОпенМех: Воин
+
+itemGroup.tabOpenPeripheralAddons=Открытая периферия
+
+openperipheral.gui.ticketmachine=Автомат по продаже билетов
+openperipheral.gui.selector=Селектор предметов
+openperipheral.turtle.sensor.adjective=Датчик
+openperipheral.turtle.narcissistic.adjective=Нарцистичный
+
+openperipheral.misc.key=Ключ: %s
+openperipheral.misc.no_glasses=Этот предмет можно использовать только с переплетенными очками-терминалами!
+openperipheral.terminal.unbound=§aНет ключа терминала!§r
+openperipheral.terminal.key=§aКлюч терминала: %s§r
+

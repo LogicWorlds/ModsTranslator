@@ -1,0 +1,526 @@
+tile.AccioFarmland.name=Accio Farmland
+tile.CrucioFarmland.name=Crucio Farmland
+tile.ImperioFarmland.name=Imperio Farmland
+tile.ZivicioFarmland.name=Zivicio Farmland
+
+tile.MinicioOre.name=Minicio Ore
+tile.MinicioOreNether.name=Nether Minicio Ore
+tile.MinicioOreEnd.name=End Minicio Ore
+
+tile.CropBooster.name=Growth Pulser
+tile.EssenceStone.name=Essence Stone
+tile.WitherProof.name=Wither Proof Block
+tile.WitherProofGlass.name=Wither Proof Glass
+
+tile.EssenceStorage.minicio.name=Minicio Block
+tile.EssenceStorage.accio.name=Accio Block
+tile.EssenceStorage.crucio.name=Crucio Block
+tile.EssenceStorage.imperio.name=Imperio Block
+tile.EssenceStorage.zivicio.name=Zivicio Block
+tile.EssenceStorage.ultimate.name=Mass Zivicio Block
+
+tile.EssenceBlock.coal.name=Black Essence Block
+tile.EssenceBlock.earth.name=Brown Essence Block
+tile.EssenceBlock.emerald.name=Green Essence Block
+tile.EssenceBlock.fire.name=Orange Essence Block
+tile.EssenceBlock.gold.name=Yellow Essence Block
+tile.EssenceBlock.lapis.name=Blue Essence Block
+tile.EssenceBlock.obsidian.name=Purple Essence Block
+tile.EssenceBlock.redstone.name=Red Essence Block
+
+tile.EssenceBrick.coal.name=Black Essence Brick
+tile.EssenceBrick.earth.name=Brown Essence Brick
+tile.EssenceBrick.emerald.name=Green Essence Brick
+tile.EssenceBrick.fire.name=Orange Essence Brick
+tile.EssenceBrick.gold.name=Yellow Essence Brick
+tile.EssenceBrick.lapis.name=Blue Essence Brick
+tile.EssenceBrick.obsidian.name=Purple Essence Brick
+tile.EssenceBrick.redstone.name=Red Essence Brick
+
+tile.EssenceBrick2.coal.name=Black Essence Brick
+tile.EssenceBrick2.earth.name=Brown Essence Brick
+tile.EssenceBrick2.emerald.name=Green Essence Brick
+tile.EssenceBrick2.fire.name=Orange Essence Brick
+tile.EssenceBrick2.gold.name=Yellow Essence Brick
+tile.EssenceBrick2.lapis.name=Blue Essence Brick
+tile.EssenceBrick2.obsidian.name=Purple Essence Brick
+tile.EssenceBrick2.redstone.name=Red Essence Brick
+
+tile.EssenceLamp.coal.name=Black Essence Lamp
+tile.EssenceLamp.earth.name=Brown Essence Lamp
+tile.EssenceLamp.emerald.name=Green Essence Lamp
+tile.EssenceLamp.fire.name=Orange Essence Lamp
+tile.EssenceLamp.gold.name=Yellow Essence Lamp
+tile.EssenceLamp.lapis.name=Blue Essence Lamp
+tile.EssenceLamp.obsidian.name=Purple Essence Lamp
+tile.EssenceLamp.redstone.name=Red Essence Lamp
+
+tile.EssenceSquare.coal.name=Black Essence Square Brick
+tile.EssenceSquare.earth.name=Brown Essence Square Brick
+tile.EssenceSquare.emerald.name=Green Essence Square Brick
+tile.EssenceSquare.fire.name=Orange Essence Square Brick
+tile.EssenceSquare.gold.name=Yellow Essence Square Brick
+tile.EssenceSquare.lapis.name=Blue Essence Square Brick
+tile.EssenceSquare.obsidian.name=Purple Essence Square Brick
+tile.EssenceSquare.redstone.name=Red Essence Square Brick
+
+tile.AirCrop.name=Air Crop
+tile.CoalCrop.name=Coal Crop
+tile.DiamondCrop.name=Diamond Crop
+tile.DyeCrop.name=Dye Crop
+tile.EarthCrop.name=Earth Crop
+tile.EmeraldCrop.name=Emerald Crop
+tile.ExperienceCrop.name=Experience Crop
+tile.FireCrop.name=Fire Crop
+tile.GlowstoneCrop.name=Glowstone Crop
+tile.GoldCrop.name=Gold Crop
+tile.IronCrop.name=Iron Crop
+tile.LapisCrop.name=Lapis Lazuli Crop
+tile.MinicioCrop.name=Minicio Crop
+tile.ObsidianCrop.name=Obsidian Crop
+tile.QuartzCrop.name=Quartz Crop
+tile.RedstoneCrop.name=Redstone Crop
+tile.WaterCrop.name=Water Crop
+tile.NetherCrop.name=Nether Crop
+tile.NatureCrop.name=Nature Crop
+
+tile.BlazeCrop.name=Blaze Crop
+tile.ChickenCrop.name=Chicken Crop
+tile.CowCrop.name=Cow Crop
+tile.CreeperCrop.name=Creeper Crop
+tile.EndermanCrop.name=Enderman Crop
+tile.GhastCrop.name=Ghast Crop
+tile.PigCrop.name=Pig Crop
+tile.SheepCrop.name=Sheep Crop
+tile.SkeletonCrop.name=Skeleton Crop
+tile.SlimeCrop.name=Slime Crop
+tile.SpiderCrop.name=Spider Crop
+tile.WitherCrop.name=Wither Skeleton Crop
+
+tile.AluminiumCrop.name=Aluminium Crop
+tile.ArditeCrop.name=Ardite Crop
+tile.CertusQuartzCrop.name=Certus Quartz Crop
+tile.CobaltCrop.name=Cobalt Crop
+tile.CopperCrop.name=Copper Crop
+tile.LeadCrop.name=Lead Crop
+tile.NickelCrop.name=Nickel Crop
+tile.OsmiumCrop.name=Osmium Crop
+tile.PeridotCrop.name=Peridot Crop
+tile.PlatinumCrop.name=Platinum Crop
+tile.RubberCrop.name=Rubber Crop
+tile.RubyCrop.name=Ruby Crop
+tile.SapphireCrop.name=Sapphire Crop
+tile.SilverCrop.name=Silver Crop
+tile.SulfurCrop.name=Sulfur Crop
+tile.TinCrop.name=Tin Crop
+tile.YelloriteCrop.name=Yellorite Crop
+tile.AlumiteCrop.name=Alumite Crop
+tile.BlizzCrop.name=Blizz Crop
+tile.BronzeCrop.name=Bronze Crop
+tile.ElectrumCrop.name=Electrum Crop
+tile.EnderiumCrop.name=Enderium Crop
+tile.FluixCrop.name=Fluix Crop
+tile.InvarCrop.name=Invar Crop
+tile.LumiumCrop.name=Lumium Crop
+tile.ManasteelCrop.name=Manasteel Crop
+tile.ManyullynCrop.name=Manyullyn Crop
+tile.SaltpeterCrop.name=Saltpeter Crop
+tile.SignalumCrop.name=Signalum Crop
+tile.SteelCrop.name=Steel Crop
+tile.TerrasteelCrop.name=Terrasteel Crop
+
+tile.CropAbsorption.name=Absorption Crop
+tile.CropFireResistance.name=Fire Resistance Crop
+tile.CropHaste.name=Haste Crop
+tile.CropNightVision.name=Night Vision Crop
+tile.CropRegeneration.name=Regeneration Crop
+tile.CropResistance.name=Resistance Crop
+tile.CropStrength.name=Strength Crop
+tile.CropWaterBreathing.name=Water Breathing Crop
+
+tile.CrystalTorch.name=Crystal Torch
+
+tile.AccioFurnace.name=Accio Furnace
+tile.AccioFurnaceActive.name=Active Accio Furnace
+tile.CrucioFurnace.name=Crucio Furnace
+tile.CrucioFurnaceActive.name=Active Crucio Furnace
+tile.ImperioFurnace.name=Imperio Furnace
+tile.ImperioFurnaceActive.name=Active Imperio Furnace
+tile.ZivicioFurnace.name=Zivicio Furnace
+tile.ZivicioFurnaceActive.name=Active Zivicio Furnace
+tile.UltimateFurnace.name=Ultimate Furnace
+tile.UltimateFurnaceActive.name=Active Ultimate Furnace
+
+item.1MinicioEssence.name=Minicio Essence
+item.2AccioEssence.name=Accio Essence
+item.3CrucioEssence.name=Crucio Essence
+item.4ImperioEssence.name=Imperio Essence
+item.5ZivicioEssence.name=Zivicio Essence
+
+item.AirEssence.name=Air Essence
+item.CoalEssence.name=Coal Essence
+item.DyeEssence.name=Technicolor Essence
+item.EarthEssence.name=Earth Essence
+item.FireEssence.name=Fire Essence
+item.WaterEssence.name=Water Essence
+item.NatureEssence.name=Nature Essence
+
+item.RedstoneEssence.name=Redstone Essence
+item.GlowstoneEssence.name=Glowstone Essence
+item.ObsidianEssence.name=Obsidian Essence
+item.NetherEssence.name=Nether Essence
+
+item.IronEssence.name=Iron Essence
+item.GoldEssence.name=Gold Essence
+item.LapisEssence.name=Lapis Lazuli Essence
+item.ExperienceEssence.name=Experience Essence
+item.QuartzEssence.name=Quartz Essence
+
+item.DiamondEssence.name=Diamond Essence
+item.EmeraldEssence.name=Emerald Essence
+
+item.TaintedEssence.name=Tainted Essence
+
+item.MagicalFood.name=Magical Food
+item.UltimateDiamondApple.name=Ultimate Diamond Apple
+item.EmeraldApple.name=Emerald Apple
+item.UltimateEmeraldApple.name=Ultimate Emerald Apple
+
+item.ExperienceBook.level1.name=Experience Book
+item.ExperienceBook.level2.name=Experience Book
+item.ExperienceBook.level3.name=Experience Book
+item.ExperienceBook.level4.name=Experience Book
+item.ExperienceBook.level5.name=Experience Book
+
+item.CowEssence.name=Cow Essence
+item.SheepEssence.name=Sheep Essence
+item.PigEssence.name=Pig Essence
+item.ChickenEssence.name=Chicken Essence
+
+item.BlazeEssence.name=Blaze Essence
+item.CreeperEssence.name=Creeper Essence
+item.EndermanEssence.name=Enderman Essence
+item.GhastEssence.name=Ghast Essence
+item.SkeletonEssence.name=Skeleton Essence
+item.SlimeEssence.name=Slime Essence
+item.SpiderEssence.name=Spider Essence
+item.WitherEssence.name=Wither Essence
+
+item.AluminiumEssence.name=Aluminium Essence
+item.ArditeEssence.name=Ardite Essence
+item.CertusQuartzEssence.name=Certus Quartz Essence
+item.CobaltEssence.name=Cobalt Essence
+item.CopperEssence.name=Copper Essence
+item.LeadEssence.name=Lead Essence
+item.NickelEssence.name=Nickel Essence
+item.OsmiumEssence.name=Osmium Essence
+item.PeridotEssence.name=Peridot Essence
+item.PlatinumEssence.name=Platinum Essence
+item.RubberEssence.name=Rubber Essence
+item.RubyEssence.name=Ruby Essence
+item.SapphireEssence.name=Sapphire Essence
+item.SilverEssence.name=Silver Essence
+item.SulfurEssence.name=Sulfur Essence
+item.TinEssence.name=Tin Essence
+item.YelloriteEssence.name=Yellorite Essence
+item.AlumiteEssence.name=Alumite Essence
+item.BlizzEssence.name=Blizz Essence
+item.BronzeEssence.name=Bronze Essence
+item.ElectrumEssence.name=Electrum Essence
+item.EnderiumEssence.name=Enderium Essence
+item.FluixEssence.name=Fluix Essence
+item.InvarEssence.name=Invar Essence
+item.LumiumEssence.name=Lumium Essence
+item.ManasteelEssence.name=Manasteel Essence
+item.ManyullynEssence.name=Manyullyn Essence
+item.SaltpeterEssence.name=Saltpeter Essence
+item.SignalumEssence.name=Signalum Essence
+item.SteelEssence.name=Steel Essence
+item.TerrasteelEssence.name=Terrasteel Essence
+
+item.InfusionStoneWeak.name=Weak Infusion Stone
+item.InfusionStoneRegular.name=Regular Infusion Stone
+item.InfusionStoneStrong.name=Strong Infusion Stone
+item.InfusionStoneExtreme.name=Extreme Infusion Stone
+item.InfusionStoneMaster.name=Master Infusion Stone
+
+item.MagicalFertilizer.name=Magical Fertilizer
+item.ExperienceDrop.name=Experience Drop
+
+item.AirSeeds.name=Air Seeds
+item.CoalSeeds.name=Coal Seeds
+item.DiamondSeeds.name=Diamond Seeds
+item.DyeSeeds.name=Dye Seeds
+item.EarthSeeds.name=Earth Seeds
+item.EmeraldSeeds.name=Emerald Seeds
+item.ExperienceSeeds.name=Experience Seeds
+item.FireSeeds.name=Fire Seeds
+item.GlowstoneSeeds.name=Glowstone Seeds
+item.GoldSeeds.name=Gold Seeds
+item.IronSeeds.name=Iron Seeds
+item.LapisSeeds.name=Lapis Lazuli Seeds
+item.ObsidianSeeds.name=Obsidian Seeds
+item.QuartzSeeds.name=Quartz Seeds
+item.RedstoneSeeds.name=Redstone Seeds
+item.WaterSeeds.name=Water Seeds
+item.MinicioSeeds.name=Minicio Seeds
+item.NatureSeeds.name=Nature Seeds
+item.NetherSeeds.name=Nether Seeds
+
+item.AluminiumSeeds.name=Aluminium Seeds
+item.ArditeSeeds.name=Ardite Seeds
+item.CertusQuartzSeeds.name=Certus Quartz Seeds
+item.CobaltSeeds.name=Cobalt Seeds
+item.CopperSeeds.name=Copper Seeds
+item.LeadSeeds.name=Lead Seeds
+item.NickelSeeds.name=Nickel Seeds
+item.OsmiumSeeds.name=Osmium Seeds
+item.PeridotSeeds.name=Peridot Seeds
+item.PlatinumSeeds.name=Platinum Seeds
+item.RubberSeeds.name=Rubber Seeds
+item.RubySeeds.name=Ruby Seeds
+item.SapphireSeeds.name=Sapphire Seeds
+item.SilverSeeds.name=Silver Seeds
+item.SulfurSeeds.name=Sulfur Seeds
+item.TinSeeds.name=Tin Seeds
+item.YelloriteSeeds.name=Yellorite Seeds
+item.AlumiteSeeds.name=Alumite Seeds
+item.BlizzSeeds.name=Blizz Seeds
+item.BronzeSeeds.name=Bronze Seeds
+item.ElectrumSeeds.name=Electrum Seeds
+item.EnderiumSeeds.name=Enderium Seeds
+item.FluixSeeds.name=Fluix Seeds
+item.InvarSeeds.name=Invar Seeds
+item.LumiumSeeds.name=Lumium Seeds
+item.ManasteelSeeds.name=Manasteel Seeds
+item.ManyullynSeeds.name=Manyullyn Seeds
+item.SaltpeterSeeds.name=Saltpeter Seeds
+item.SignalumSeeds.name=Signalum Seeds
+item.SteelSeeds.name=Steel Seeds
+item.TerrasteelSeeds.name=Terrasteel Seeds
+
+item.BlazeSeeds.name=Blaze Seeds
+item.ChickenSeeds.name=Chicken Seeds
+item.CowSeeds.name=Cow Seeds
+item.CreeperSeeds.name=Creeper Seeds
+item.EndermanSeeds.name=Enderman Seeds
+item.GhastSeeds.name=Ghast Seeds
+item.PigSeeds.name=Pig Seeds
+item.SheepSeeds.name=Sheep Seeds
+item.SkeletonSeeds.name=Skeleton Seeds
+item.SlimeSeeds.name=Slime Seeds
+item.SpiderSeeds.name=Spider Seeds
+item.WitherSeeds.name=Wither Skeleton Seeds
+
+item.SeedsAbsorption.name=Absorption Seeds
+item.SeedsFireResistance.name=Fire Resistance Seeds
+item.SeedsHaste.name=Haste Seeds
+item.SeedsNightVision.name=Night Vision Seeds
+item.SeedsRegeneration.name=Regeneration Seeds
+item.SeedsResistance.name=Resistance Seeds
+item.SeedsStrength.name=Strength Seeds
+item.SeedsWaterBreathing.name=Water Breathing Seeds
+
+item.SeedsProtection.name=Protection Seeds
+item.SeedsGrowth.name=Natures Kiss Seeds
+
+item.SeedBagAccio.name=Accio Seed Bag
+item.SeedBagCrucio.name=Crucio Seed Bag
+item.SeedBagImperio.name=Imperio Seed Bag
+item.SeedBagZivicio.name=Zivicio Seed Bag
+
+item.Materials.seedBag.name=Seed Bag
+item.Materials.baseCharm.name=Base Charm
+
+item.AccioArmourHelmet.name=Accio Helmet
+item.AccioArmourChestplate.name=Accio Chestplate
+item.AccioArmourLeggings.name=Accio Leggings
+item.AccioArmourBoots.name=Accio Boots
+
+item.CrucioArmourHelmet.name=Crucio Helmet
+item.CrucioArmourChestplate.name=Crucio Chestplate
+item.CrucioArmourLeggings.name=Crucio Leggings
+item.CrucioArmourBoots.name=Crucio Boots
+
+item.ImperioArmourHelmet.name=Imperio Helmet
+item.ImperioArmourChestplate.name=Imperio Chestplate
+item.ImperioArmourLeggings.name=Imperio Leggings
+item.ImperioArmourBoots.name=Imperio Boots
+
+item.ZivicioArmourHelmet.name=Zivicio Helmet
+item.ZivicioArmourChestplate.name=Zivicio Chestplate
+item.ZivicioArmourLeggings.name=Zivicio Leggings
+item.ZivicioArmourBoots.name=Zivicio Boots
+
+item.ZivicioArmourHelmetFeed.name=Zivicio Helmet
+item.ZivicioArmourHelmetNight.name=Zivicio Helmet
+item.ZivicioArmourHelmetWater.name=Zivicio Helmet
+
+item.ZivicioArmourChestplateFire.name=Zivicio Chestplate
+item.ZivicioArmourChestplateWither.name=Zivicio Chestplate
+item.ZivicioArmourChestplatePoison.name=Zivicio Chestplate
+item.ZivicioArmourChestplateBlast.name=Zivicio Chestplate
+
+item.ZivicioArmourLeggingsBlind.name=Zivicio Leggings
+item.ZivicioArmourLeggingsWeak.name=Zivicio Leggings
+item.ZivicioArmourLeggingsConfusion.name=Zivicio Leggings
+
+item.ZivicioArmourBootsSpeed.name=Zivicio Boots
+item.ZivicioArmourBootsStep.name=Zivicio Boots
+item.ZivicioArmourBootsJump.name=Zivicio Boots
+
+item.Charm.absorp.name=Absorption Gem
+item.Charm.falldamage.name=N/A
+item.Charm.fire.name=Fire Protection Gem
+item.Charm.hillassist.name=N/A
+item.Charm.night.name=Night Vision Gem
+item.Charm.nightskip.name=Night Skip Gem
+item.Charm.poison.name=Poison Gem
+item.Charm.saturation.name=Saturation Gem
+item.Charm.speed.name=Speed Gem
+item.Charm.stoprain.name=Rain Dance Gem
+item.Charm.strength.name=Strength Gem
+item.Charm.water.name=N/A
+item.Charm.wither.name=Wither Protection Gem
+item.Charm.strength2.name=Extreme Strength Gem
+item.Charm.strength4.name=Ultimate Strength Gem
+
+item.AccioSword.name=Accio Sword
+item.AccioPickaxe.name=Accio Pickaxe
+item.AccioShovel.name=Accio Shovel
+item.AccioAxe.name=Accio Axe
+item.AccioHoe.name=Accio Hoe
+
+item.CrucioSword.name=Crucio Sword
+item.CrucioPickaxe.name=Crucio Pickaxe
+item.CrucioShovel.name=Crucio Shovel
+item.CrucioAxe.name=Crucio Axe
+item.CrucioHoe.name=Crucio Hoe
+
+item.ImperioSword.name=Imperio Sword
+item.ImperioPickaxe.name=Imperio Pickaxe
+item.ImperioShovel.name=Imperio Shovel
+item.ImperioAxe.name=Imperio Axe
+item.ImperioHoe.name=Imperio Hoe
+
+item.ZivicioSword.name=Zivicio Sword
+item.ZivicioPickaxe.name=Zivicio Pickaxe
+item.ZivicioShovel.name=Zivicio Shovel
+item.ZivicioAxe.name=Zivicio Axe
+item.ZivicioHoe.name=Zivicio Hoe
+item.ZivicioBow.name=Zivicio Bow
+item.ZivicioSwordStrength.name=Zivicio Sword
+item.ZivicioSwordStrength2.name=Zivicio Sword
+item.ZivicioSwordLife.name=Zivicio Sword
+item.ZivicioBowQuick.name=Zivicio Bow
+item.ZivicioBowTri.name=Zivicio Bow
+item.ZivicioPickaxeLight.name=Zivicio Pickaxe
+item.ZivicioPickaxeSmelt.name=Zivicio Pickaxe
+item.ZivicioSwordQuick.name=Zivicio Sword
+
+item.PotionRegeneration.1A.name=Regeneration Potion
+item.PotionRegeneration.1C.name=Regeneration Potion
+item.PotionRegeneration.1I.name=Regeneration Potion
+item.PotionRegeneration.1Z.name=Regeneration Potion
+item.PotionRegeneration.2A.name=Regeneration Potion
+item.PotionRegeneration.2C.name=Regeneration Potion
+item.PotionRegeneration.2I.name=Regeneration Potion
+item.PotionRegeneration.2Z.name=Regeneration Potion
+
+item.PotionStrength.1A.name=Strength Potion
+item.PotionStrength.1C.name=Strength Potion
+item.PotionStrength.1I.name=Strength Potion
+item.PotionStrength.1Z.name=Strength Potion
+item.PotionStrength.2A.name=Strength Potion
+item.PotionStrength.2C.name=Strength Potion
+item.PotionStrength.2I.name=Strength Potion
+item.PotionStrength.2Z.name=Strength Potion
+
+item.PotionAbsorption.1A.name=Absorption Potion
+item.PotionAbsorption.1C.name=Absorption Potion
+item.PotionAbsorption.1I.name=Absorption Potion
+item.PotionAbsorption.1Z.name=Absorption Potion
+item.PotionAbsorption.2A.name=Absorption Potion
+item.PotionAbsorption.2C.name=Absorption Potion
+item.PotionAbsorption.2I.name=Absorption Potion
+item.PotionAbsorption.2Z.name=Absorption Potion
+
+item.PotionHaste.1A.name=Haste Potion
+item.PotionHaste.1C.name=Haste Potion
+item.PotionHaste.1I.name=Haste Potion
+item.PotionHaste.1Z.name=Haste Potion
+item.PotionHaste.2A.name=Haste Potion
+item.PotionHaste.2C.name=Haste Potion
+item.PotionHaste.2I.name=Haste Potion
+item.PotionHaste.2Z.name=Haste Potion
+
+item.PotionResistance.1A.name=Resistance Potion
+item.PotionResistance.1C.name=Resistance Potion
+item.PotionResistance.1I.name=Resistance Potion
+item.PotionResistance.1Z.name=Resistance Potion
+item.PotionResistance.2A.name=Resistance Potion
+item.PotionResistance.2C.name=Resistance Potion
+item.PotionResistance.2I.name=Resistance Potion
+item.PotionResistance.2Z.name=Resistance Potion
+
+item.PotionNightVision.1A.name=Night Vision Potion
+item.PotionNightVision.1C.name=Night Vision Potion
+item.PotionNightVision.1I.name=Night Vision Potion
+item.PotionNightVision.1Z.name=Night Vision Potion
+
+item.PotionFireResistance.1A.name=Fire Resistance Potion
+item.PotionFireResistance.1C.name=Fire Resistance Potion
+item.PotionFireResistance.1I.name=Fire Resistance Potion
+item.PotionFireResistance.1Z.name=Fire Resistance Potion
+
+item.PotionWaterBreathing.1A.name=Water Breathing Potion
+item.PotionWaterBreathing.1C.name=Water Breathing Potion
+item.PotionWaterBreathing.1I.name=Water Breathing Potion
+item.PotionWaterBreathing.1Z.name=Water Breathing Potion
+
+item.PotionEmpty.name=Empty Vial
+item.PotionFilled.name=Water Filled Vial
+
+item.PotionPetals.absorption.name=Absorption Petal
+item.PotionPetals.fireres.name=Fire Resistance Petal
+item.PotionPetals.haste.name=Haste Petal
+item.PotionPetals.nightvision.name=Night Vision Petal
+item.PotionPetals.regen.name=Regeneration Petal
+item.PotionPetals.resistance.name=Resistance Petal
+item.PotionPetals.strength.name=Strength Petal
+item.PotionPetals.water.name=Water Breathing Petal
+
+item.PotionMagic1.1Magic1.name=Magical Potion
+item.PotionMagic1.1Magic2.name=Magical Potion
+item.PotionMagic1.1Magic3.name=Magical Potion
+item.PotionMagic1.1Magic4.name=Magical Potion
+item.PotionMagic1.1Magic5.name=Magical Potion
+item.PotionMagic1.1Magic6.name=Magical Potion
+
+item.CounterCharms.blindness.name=Blindess Counter Charm
+item.CounterCharms.mining.name=Mining Counter Charm
+item.CounterCharms.nausea.name=Nausea Counter Charm
+item.CounterCharms.poison.name=Poison Counter Charm
+item.CounterCharms.slowness.name=Slowness Counter Charm
+item.CounterCharms.weakness.name=Weakness Counter Charm
+item.CounterCharms.wither.name=Wither Counter Charm
+item.CounterCharms.ultimate.name=Ultimate Counter Charm
+
+tile.CropBacon.name=Bacon Crop
+item.SeedsBacon.name=Bacon Seeds
+item.FoodBacon.name=Bacon
+
+item.EssenceFertilizer.accio.name=Accio Soil Fertilizer
+item.EssenceFertilizer.crucio.name=Crucio Soil Fertilizer
+item.EssenceFertilizer.imperio.name=Imperio Soil Fertilizer
+item.EssenceFertilizer.zivicio.name=Zivicio Soil Fertilizer
+
+item.ClothMaterial.accio.name=Accio Cloth
+item.ClothMaterial.crucio.name=Crucio Cloth
+item.ClothMaterial.imperio.name=Imperio Cloth
+item.ClothMaterial.zivicio.name=Zivicio Cloth
+
+item.EssenceIngots.accio.name=Accio Ingot
+item.EssenceIngots.crucio.name=Crucio Ingot
+item.EssenceIngots.imperio.name=Imperio Ingot
+item.EssenceIngots.zivicio.name=Zivicio Ingot

@@ -1,0 +1,526 @@
+tile.AccioFarmland.name=Сельскохозяйственная земля Акцио
+tile.CrucioFarmland.name=Фермерские угодья Круцио
+tile.ImperioFarmland.name=Империо Фармленд
+tile.ZivicioFarmland.name=Сельскохозяйственная земля Живичио
+
+tile.MinicioOre.name=Minicio руда
+tile.MinicioOreNether.name=Minicio руда Ада
+tile.MinicioOreEnd.name=Minicio руда Края
+
+tile.CropBooster.name=Пульсатор роста
+tile.EssenceStone.name=Эссенциальный камень
+tile.WitherProof.name=Блок доказательства увядания
+tile.WitherProofGlass.name=Увядающее стекло
+
+tile.EssenceStorage.minicio.name=Минисио Блок
+tile.EssenceStorage.accio.name=Акцио Блок
+tile.EssenceStorage.crucio.name=Круцио Блок
+tile.EssenceStorage.imperio.name=Империо Блок
+tile.EssenceStorage.zivicio.name=Живичио Блок
+tile.EssenceStorage.ultimate.name=Массовый блок Зивичио
+
+tile.EssenceBlock.coal.name=Блок черной сущности
+tile.EssenceBlock.earth.name=Блок коричневой эссенции
+tile.EssenceBlock.emerald.name=Блок зеленой эссенции
+tile.EssenceBlock.fire.name=Блок оранжевой эссенции
+tile.EssenceBlock.gold.name=Желтый блок эссенции
+tile.EssenceBlock.lapis.name=Блок синей эссенции
+tile.EssenceBlock.obsidian.name=Блок фиолетовой эссенции
+tile.EssenceBlock.redstone.name=Блок Красной Эссенции
+
+tile.EssenceBrick.coal.name=Черный кирпич сущности
+tile.EssenceBrick.earth.name=Коричневый кирпич сущности
+tile.EssenceBrick.emerald.name=Зеленый кирпич сущности
+tile.EssenceBrick.fire.name=Кирпич оранжевой эссенции
+tile.EssenceBrick.gold.name=Желтый кирпич сущности
+tile.EssenceBrick.lapis.name=Синий кирпич сущности
+tile.EssenceBrick.obsidian.name=Фиолетовый кирпич сущности
+tile.EssenceBrick.redstone.name=Красный кирпич сущности
+
+tile.EssenceBrick2.coal.name=Черный кирпич сущности
+tile.EssenceBrick2.earth.name=Коричневый кирпич сущности
+tile.EssenceBrick2.emerald.name=Зеленый кирпич сущности
+tile.EssenceBrick2.fire.name=Кирпич оранжевой эссенции
+tile.EssenceBrick2.gold.name=Желтый кирпич сущности
+tile.EssenceBrick2.lapis.name=Синий кирпич сущности
+tile.EssenceBrick2.obsidian.name=Фиолетовый кирпич сущности
+tile.EssenceBrick2.redstone.name=Красный кирпич сущности
+
+tile.EssenceLamp.coal.name=Черная лампа сущности
+tile.EssenceLamp.earth.name=Коричневая лампа эссенции
+tile.EssenceLamp.emerald.name=Зеленая лампа сущности
+tile.EssenceLamp.fire.name=Оранжевая лампа эссенции
+tile.EssenceLamp.gold.name=Желтая лампа сущности
+tile.EssenceLamp.lapis.name=Синяя лампа сущности
+tile.EssenceLamp.obsidian.name=Фиолетовая лампа сущности
+tile.EssenceLamp.redstone.name=Красная лампа сущности
+
+tile.EssenceSquare.coal.name=Квадратный кирпич Black Essence
+tile.EssenceSquare.earth.name=Квадратный кирпич Brown Essence
+tile.EssenceSquare.emerald.name=Квадратный кирпич Green Essence
+tile.EssenceSquare.fire.name=Квадратный кирпич Orange Essence
+tile.EssenceSquare.gold.name=Квадратный кирпич Желтой сущности
+tile.EssenceSquare.lapis.name=Квадратный кирпич Blue Essence
+tile.EssenceSquare.obsidian.name=Квадратный кирпич Purple Essence
+tile.EssenceSquare.redstone.name=Квадратный кирпич Red Essence
+
+tile.AirCrop.name=Воздушная культура
+tile.CoalCrop.name=Росток угля
+tile.DiamondCrop.name=Алмазный росток
+tile.DyeCrop.name=Краситель
+tile.EarthCrop.name=Земляной росток
+tile.EmeraldCrop.name=Изумрудный росток
+tile.ExperienceCrop.name=Опыт урожая
+tile.FireCrop.name=Огненный росток
+tile.GlowstoneCrop.name=Росток светящегося камня
+tile.GoldCrop.name=Золотой росток
+tile.IronCrop.name=Железный росток
+tile.LapisCrop.name=Росток лазурита
+tile.MinicioCrop.name=Минисио Росток
+tile.ObsidianCrop.name=Обсидиановый росток
+tile.QuartzCrop.name=Кварцевый росток
+tile.RedstoneCrop.name=Редстоун Росток
+tile.WaterCrop.name=Водный росток
+tile.NetherCrop.name=Росток Пустоты
+tile.NatureCrop.name=Природный росток
+
+tile.BlazeCrop.name=Пылающий росток
+tile.ChickenCrop.name=Куриный росток
+tile.CowCrop.name=Коровьего урожая
+tile.CreeperCrop.name=Росток крипера
+tile.EndermanCrop.name=Росток Эндермана
+tile.GhastCrop.name=Гаст-росток
+tile.PigCrop.name=Свинья
+tile.SheepCrop.name=Росток овец
+tile.SkeletonCrop.name=Скелетный росток
+tile.SlimeCrop.name=Росток слизи
+tile.SpiderCrop.name=Росток паука
+tile.WitherCrop.name=Росток скелета-иссушителя
+
+tile.AluminiumCrop.name=Алюминиевый росток
+tile.ArditeCrop.name=Ардитовый росток
+tile.CertusQuartzCrop.name=Цертус Кварц
+tile.CobaltCrop.name=Кобальт Росток
+tile.CopperCrop.name=Медный росток
+tile.LeadCrop.name=Свинцовый росток
+tile.NickelCrop.name=Никель
+tile.OsmiumCrop.name=Росток Осмия
+tile.PeridotCrop.name=Росток перидота
+tile.PlatinumCrop.name=Платиновый росток
+tile.RubberCrop.name=Каучуковая культура
+tile.RubyCrop.name=Рубиновый росток
+tile.SapphireCrop.name=Сапфировый росток
+tile.SilverCrop.name=Серебряный росток
+tile.SulfurCrop.name=Росток серы
+tile.TinCrop.name=Оловянный росток
+tile.YelloriteCrop.name=Йеллоритовая культура
+tile.AlumiteCrop.name=Алюмитовый росток
+tile.BlizzCrop.name=Росток метели
+tile.BronzeCrop.name=Бронзовый росток
+tile.ElectrumCrop.name=Электрумный росток
+tile.EnderiumCrop.name=Росток Эндериума
+tile.FluixCrop.name=Флюикс Кроп
+tile.InvarCrop.name=Инвар Кроп
+tile.LumiumCrop.name=Люмиумный росток
+tile.ManasteelCrop.name=Росток манастали
+tile.ManyullynCrop.name=Манюллин Кроп
+tile.SaltpeterCrop.name=Росток селитры
+tile.SignalumCrop.name=Сигнальный росток
+tile.SteelCrop.name=Стальной росток
+tile.TerrasteelCrop.name=Террасталевой росток
+
+tile.CropAbsorption.name=Поглощающий росток
+tile.CropFireResistance.name=Огнестойкий росток
+tile.CropHaste.name=Ускоренный росток
+tile.CropNightVision.name=Росток ночного видения
+tile.CropRegeneration.name=Регенерирующий росток
+tile.CropResistance.name=Росток сопротивления
+tile.CropStrength.name=Силовой росток
+tile.CropWaterBreathing.name=Вододышащая культура
+
+tile.CrystalTorch.name=Хрустальный факел
+
+tile.AccioFurnace.name=Акцио Печь
+tile.AccioFurnaceActive.name=Активная печь Accio
+tile.CrucioFurnace.name=Круцио Печь
+tile.CrucioFurnaceActive.name=Активная печь Круцио
+tile.ImperioFurnace.name=Империо Печь
+tile.ImperioFurnaceActive.name=Активная печь Империо
+tile.ZivicioFurnace.name=Печь Живичио
+tile.ZivicioFurnaceActive.name=Активная печь Зивичио
+tile.UltimateFurnace.name=Конечная печь
+tile.UltimateFurnaceActive.name=Активная конечная печь
+
+item.1MinicioEssence.name=Минисио Эссенция
+item.2AccioEssence.name=Акцио Эссенция
+item.3CrucioEssence.name=Эссенция Круцио
+item.4ImperioEssence.name=Империо Эссенция
+item.5ZivicioEssence.name=Зивичио Эссенция
+
+item.AirEssence.name=Эссенция воздуха
+item.CoalEssence.name=Угольная эссенция
+item.DyeEssence.name=Техниколор Эссенция
+item.EarthEssence.name=Эссенция Земли
+item.FireEssence.name=Эссенция огня
+item.WaterEssence.name=Эссенция воды
+item.NatureEssence.name=Природная эссенция
+
+item.RedstoneEssence.name=Сущность красного камня
+item.GlowstoneEssence.name=Светящаяся эссенция
+item.ObsidianEssence.name=Обсидиановая сущность
+item.NetherEssence.name=Сущность Пустоты
+
+item.IronEssence.name=Железная эссенция
+item.GoldEssence.name=Золотая эссенция
+item.LapisEssence.name=Эссенция ляпис-лазури
+item.ExperienceEssence.name=Опыт сущности
+item.QuartzEssence.name=Кварцевая эссенция
+
+item.DiamondEssence.name=Алмазная эссенция
+item.EmeraldEssence.name=Изумрудная эссенция
+
+item.TaintedEssence.name=Испорченная сущность
+
+item.MagicalFood.name=Волшебная еда
+item.UltimateDiamondApple.name=Абсолютное бриллиантовое яблоко
+item.EmeraldApple.name=Изумрудное яблоко
+item.UltimateEmeraldApple.name=Абсолютное Изумрудное Яблоко
+
+item.ExperienceBook.level1.name=Книга опыта
+item.ExperienceBook.level2.name=Книга опыта
+item.ExperienceBook.level3.name=Книга опыта
+item.ExperienceBook.level4.name=Книга опыта
+item.ExperienceBook.level5.name=Книга опыта
+
+item.CowEssence.name=Коровья эссенция
+item.SheepEssence.name=Овечья эссенция
+item.PigEssence.name=Свиная эссенция
+item.ChickenEssence.name=Куриная эссенция
+
+item.BlazeEssence.name=Пламенная эссенция
+item.CreeperEssence.name=Эссенция крипера
+item.EndermanEssence.name=Эссенция Эндермана
+item.GhastEssence.name=Призрачная эссенция
+item.SkeletonEssence.name=Скелетная эссенция
+item.SlimeEssence.name=Эссенция слизи
+item.SpiderEssence.name=Эссенция паука
+item.WitherEssence.name=Сущность увядания
+
+item.AluminiumEssence.name=Алюминиевая эссенция
+item.ArditeEssence.name=Ардитская эссенция
+item.CertusQuartzEssence.name=Цертус Кварц Эссенция
+item.CobaltEssence.name=Кобальтовая эссенция
+item.CopperEssence.name=Медная эссенция
+item.LeadEssence.name=Свинцовая эссенция
+item.NickelEssence.name=Никель Эссенция
+item.OsmiumEssence.name=Осмий Эссенция
+item.PeridotEssence.name=Эссенция перидота
+item.PlatinumEssence.name=Платиновая эссенция
+item.RubberEssence.name=Резиновая эссенция
+item.RubyEssence.name=Рубиновая эссенция
+item.SapphireEssence.name=Сапфировая эссенция
+item.SilverEssence.name=Серебряная эссенция
+item.SulfurEssence.name=Эссенция серы
+item.TinEssence.name=Оловянная эссенция
+item.YelloriteEssence.name=Йеллоритовая эссенция
+item.AlumiteEssence.name=Алюмитовая эссенция
+item.BlizzEssence.name=Сущность метели
+item.BronzeEssence.name=Бронзовая эссенция
+item.ElectrumEssence.name=Электрумная эссенция
+item.EnderiumEssence.name=Эссенция Эндериума
+item.FluixEssence.name=Флюикс Эссенция
+item.InvarEssence.name=Инварная эссенция
+item.LumiumEssence.name=Люмиевая эссенция
+item.ManasteelEssence.name=Эссенция манастали
+item.ManyullynEssence.name=Манюллин Эссенция
+item.SaltpeterEssence.name=Эссенция селитры
+item.SignalumEssence.name=Сигнальная эссенция
+item.SteelEssence.name=Стальная эссенция
+item.TerrasteelEssence.name=Террасталевая эссенция
+
+item.InfusionStoneWeak.name=Слабый инфузионный камень
+item.InfusionStoneRegular.name=Обычный инфузионный камень
+item.InfusionStoneStrong.name=Сильный настойчивый камень
+item.InfusionStoneExtreme.name=Экстремальный инфузионный камень
+item.InfusionStoneMaster.name=Мастер-инфузионный камень
+
+item.MagicalFertilizer.name=Волшебное удобрение
+item.ExperienceDrop.name=Падение опыта
+
+item.AirSeeds.name=Воздушные семена
+item.CoalSeeds.name=Угольные семена
+item.DiamondSeeds.name=Алмазные семена
+item.DyeSeeds.name=Красящие семена
+item.EarthSeeds.name=Земляные семена
+item.EmeraldSeeds.name=Изумрудные семена
+item.ExperienceSeeds.name=Семена опыта
+item.FireSeeds.name=Огненные семена
+item.GlowstoneSeeds.name=Светящиеся семена
+item.GoldSeeds.name=Золотые семена
+item.IronSeeds.name=Железные семена
+item.LapisSeeds.name=Лазуритовые семена
+item.ObsidianSeeds.name=Обсидиановые семена
+item.QuartzSeeds.name=Кварцевые семена
+item.RedstoneSeeds.name=Краснокаменные семена
+item.WaterSeeds.name=Водные семена
+item.MinicioSeeds.name=Семена Minicio
+item.NatureSeeds.name=Семена природы
+item.NetherSeeds.name=Семена Ада
+
+item.AluminiumSeeds.name=Алюминиевые семена
+item.ArditeSeeds.name=Семена Ардита
+item.CertusQuartzSeeds.name=Семена цертусового кварца
+item.CobaltSeeds.name=Семена кобальта
+item.CopperSeeds.name=Медные семена
+item.LeadSeeds.name=Свинцовые семена
+item.NickelSeeds.name=Никель Семена
+item.OsmiumSeeds.name=Семена осмия
+item.PeridotSeeds.name=Семена перидота
+item.PlatinumSeeds.name=Платиновые семена
+item.RubberSeeds.name=Резиновые семена
+item.RubySeeds.name=Рубиновые семена
+item.SapphireSeeds.name=Сапфировые семена
+item.SilverSeeds.name=Серебряные семена
+item.SulfurSeeds.name=Семена серы
+item.TinSeeds.name=Оловянные семена
+item.YelloriteSeeds.name=Йеллорит Семена
+item.AlumiteSeeds.name=Алюмитовые семена
+item.BlizzSeeds.name=Семена метели
+item.BronzeSeeds.name=Бронзовые семена
+item.ElectrumSeeds.name=Семена Электрума
+item.EnderiumSeeds.name=Семена Эндериума
+item.FluixSeeds.name=Семена флюкса
+item.InvarSeeds.name=Инварные Семена
+item.LumiumSeeds.name=Семена Люмиума
+item.ManasteelSeeds.name=Семена манастали
+item.ManyullynSeeds.name=Манюллин Семена
+item.SaltpeterSeeds.name=Семена селитры
+item.SignalumSeeds.name=Семена сигналума
+item.SteelSeeds.name=Стальные семена
+item.TerrasteelSeeds.name=Семена террастали
+
+item.BlazeSeeds.name=Семена цветка Ифрита
+item.ChickenSeeds.name=Семена Куриного цветка
+item.CowSeeds.name=Семена Коровьего цветка
+item.CreeperSeeds.name=Семена цветка Крипера
+item.EndermanSeeds.name=Семена цветка Странника Края
+item.GhastSeeds.name=Семена цветка Гаста
+item.PigSeeds.name=Семена Свиного цветка
+item.SheepSeeds.name=Семена Овечьего цветка
+item.SkeletonSeeds.name=Семена цветка Скелета
+item.SlimeSeeds.name=Семена Слизневого цветка
+item.SpiderSeeds.name=Семена Паучьего цветка
+item.WitherSeeds.name=Семена Скелета-иссушителя
+
+item.SeedsAbsorption.name=Поглощающие семена
+item.SeedsFireResistance.name=Семена огнестойкости
+item.SeedsHaste.name=Семена Ускорения
+item.SeedsNightVision.name=Семена ночного видения
+item.SeedsRegeneration.name=Семена регенерации
+item.SeedsResistance.name=Семена сопротивления
+item.SeedsStrength.name=Семена силы
+item.SeedsWaterBreathing.name=Вододышащие семена
+
+item.SeedsProtection.name=Защитные семена
+item.SeedsGrowth.name=Семена Natures Kiss
+
+item.SeedBagAccio.name=Мешочек для семян Акцио
+item.SeedBagCrucio.name=Сумка с семенами Круцио
+item.SeedBagImperio.name=Мешочек с семенами Империо
+item.SeedBagZivicio.name=Мешок с семенами Живичио
+
+item.Materials.seedBag.name=Мешок для семян
+item.Materials.baseCharm.name=Базовое очарование
+
+item.AccioArmourHelmet.name=Акцио Шлем
+item.AccioArmourChestplate.name=Нагрудник Акцио
+item.AccioArmourLeggings.name=Поножи Акцио
+item.AccioArmourBoots.name=Ботинки Акцио
+
+item.CrucioArmourHelmet.name=Круцио Шлем
+item.CrucioArmourChestplate.name=Нагрудник Круцио
+item.CrucioArmourLeggings.name=Поножи Круцио
+item.CrucioArmourBoots.name=Круцио Сапоги
+
+item.ImperioArmourHelmet.name=Империо Шлем
+item.ImperioArmourChestplate.name=Кираса Империо
+item.ImperioArmourLeggings.name=Поножи Империо
+item.ImperioArmourBoots.name=Империо Сапоги
+
+item.ZivicioArmourHelmet.name=Зивичио Шлем
+item.ZivicioArmourChestplate.name=Нагрудник Зивисио
+item.ZivicioArmourLeggings.name=Поножи Зивичио
+item.ZivicioArmourBoots.name=Сапоги Зивичио
+
+item.ZivicioArmourHelmetFeed.name=Зивичио Шлем
+item.ZivicioArmourHelmetNight.name=Зивичио Шлем
+item.ZivicioArmourHelmetWater.name=Зивичио Шлем
+
+item.ZivicioArmourChestplateFire.name=Нагрудник Зивисио
+item.ZivicioArmourChestplateWither.name=Нагрудник Зивисио
+item.ZivicioArmourChestplatePoison.name=Нагрудник Зивисио
+item.ZivicioArmourChestplateBlast.name=Нагрудник Зивисио
+
+item.ZivicioArmourLeggingsBlind.name=Поножи Зивичио
+item.ZivicioArmourLeggingsWeak.name=Поножи Зивичио
+item.ZivicioArmourLeggingsConfusion.name=Поножи Зивичио
+
+item.ZivicioArmourBootsSpeed.name=Сапоги Зивичио
+item.ZivicioArmourBootsStep.name=Сапоги Зивичио
+item.ZivicioArmourBootsJump.name=Сапоги Зивичио
+
+item.Charm.absorp.name=Поглощающий камень
+item.Charm.falldamage.name=Н/Д
+item.Charm.fire.name=Камень огнезащиты
+item.Charm.hillassist.name=Н/Д
+item.Charm.night.name=Камень ночного видения
+item.Charm.nightskip.name=Камень ночного пропуска
+item.Charm.poison.name=Ядовитый камень
+item.Charm.saturation.name=Камень насыщенности
+item.Charm.speed.name=Самоцвет скорости
+item.Charm.stoprain.name=Самоцвет танца дождя
+item.Charm.strength.name=Камень силы
+item.Charm.water.name=Н/Д
+item.Charm.wither.name=Камень защиты от увядания
+item.Charm.strength2.name=Камень невероятной силы
+item.Charm.strength4.name=Камень абсолютной силы
+
+item.AccioSword.name=Меч Акцио
+item.AccioPickaxe.name=Кирка Акцио
+item.AccioShovel.name=Акцио Лопата
+item.AccioAxe.name=Топор Акцио
+item.AccioHoe.name=Акцио Хо
+
+item.CrucioSword.name=Круцио Меч
+item.CrucioPickaxe.name=Кирка Круцио
+item.CrucioShovel.name=Круцио Лопата
+item.CrucioAxe.name=Круцио Топор
+item.CrucioHoe.name=Круцио Хо
+
+item.ImperioSword.name=Меч Империо
+item.ImperioPickaxe.name=Империо Кирка
+item.ImperioShovel.name=Империо Лопата
+item.ImperioAxe.name=Империо Топор
+item.ImperioHoe.name=Империо Хоэ
+
+item.ZivicioSword.name=Меч Зивисио
+item.ZivicioPickaxe.name=Кирка Зивисио
+item.ZivicioShovel.name=Живичио Лопата
+item.ZivicioAxe.name=Живичио Топор
+item.ZivicioHoe.name=Живичио Хоэ
+item.ZivicioBow.name=Зивичио Лук
+item.ZivicioSwordStrength.name=Меч Зивисио
+item.ZivicioSwordStrength2.name=Меч Зивисио
+item.ZivicioSwordLife.name=Меч Зивисио
+item.ZivicioBowQuick.name=Зивичио Лук
+item.ZivicioBowTri.name=Зивичио Лук
+item.ZivicioPickaxeLight.name=Кирка Зивисио
+item.ZivicioPickaxeSmelt.name=Кирка Зивисио
+item.ZivicioSwordQuick.name=Меч Зивисио
+
+item.PotionRegeneration.1A.name=Зелье регенерации
+item.PotionRegeneration.1C.name=Зелье регенерации
+item.PotionRegeneration.1I.name=Зелье регенерации
+item.PotionRegeneration.1Z.name=Зелье регенерации
+item.PotionRegeneration.2A.name=Зелье регенерации
+item.PotionRegeneration.2C.name=Зелье регенерации
+item.PotionRegeneration.2I.name=Зелье регенерации
+item.PotionRegeneration.2Z.name=Зелье регенерации
+
+item.PotionStrength.1A.name=Зелье силы
+item.PotionStrength.1C.name=Зелье силы
+item.PotionStrength.1I.name=Зелье силы
+item.PotionStrength.1Z.name=Зелье силы
+item.PotionStrength.2A.name=Зелье силы
+item.PotionStrength.2C.name=Зелье силы
+item.PotionStrength.2I.name=Зелье силы
+item.PotionStrength.2Z.name=Зелье силы
+
+item.PotionAbsorption.1A.name=Зелье поглощения
+item.PotionAbsorption.1C.name=Зелье поглощения
+item.PotionAbsorption.1I.name=Зелье поглощения
+item.PotionAbsorption.1Z.name=Зелье поглощения
+item.PotionAbsorption.2A.name=Зелье поглощения
+item.PotionAbsorption.2C.name=Зелье поглощения
+item.PotionAbsorption.2I.name=Зелье поглощения
+item.PotionAbsorption.2Z.name=Зелье поглощения
+
+item.PotionHaste.1A.name=Зелье ускорения
+item.PotionHaste.1C.name=Зелье ускорения
+item.PotionHaste.1I.name=Зелье ускорения
+item.PotionHaste.1Z.name=Зелье ускорения
+item.PotionHaste.2A.name=Зелье ускорения
+item.PotionHaste.2C.name=Зелье ускорения
+item.PotionHaste.2I.name=Зелье ускорения
+item.PotionHaste.2Z.name=Зелье ускорения
+
+item.PotionResistance.1A.name=Зелье сопротивления
+item.PotionResistance.1C.name=Зелье сопротивления
+item.PotionResistance.1I.name=Зелье сопротивления
+item.PotionResistance.1Z.name=Зелье сопротивления
+item.PotionResistance.2A.name=Зелье сопротивления
+item.PotionResistance.2C.name=Зелье сопротивления
+item.PotionResistance.2I.name=Зелье сопротивления
+item.PotionResistance.2Z.name=Зелье сопротивления
+
+item.PotionNightVision.1A.name=Зелье ночного видения
+item.PotionNightVision.1C.name=Зелье ночного видения
+item.PotionNightVision.1I.name=Зелье ночного видения
+item.PotionNightVision.1Z.name=Зелье ночного видения
+
+item.PotionFireResistance.1A.name=Зелье огнестойкости
+item.PotionFireResistance.1C.name=Зелье огнестойкости
+item.PotionFireResistance.1I.name=Зелье огнестойкости
+item.PotionFireResistance.1Z.name=Зелье огнестойкости
+
+item.PotionWaterBreathing.1A.name=Зелье водного дыхания
+item.PotionWaterBreathing.1C.name=Зелье водного дыхания
+item.PotionWaterBreathing.1I.name=Зелье водного дыхания
+item.PotionWaterBreathing.1Z.name=Зелье водного дыхания
+
+item.PotionEmpty.name=Пустой флакон
+item.PotionFilled.name=Флакон, наполненный водой
+
+item.PotionPetals.absorption.name=Лепесток поглощения
+item.PotionPetals.fireres.name=Лепесток огнестойкости
+item.PotionPetals.haste.name=Лепесток ускорения
+item.PotionPetals.nightvision.name=Лепесток ночного видения
+item.PotionPetals.regen.name=Лепесток регенерации
+item.PotionPetals.resistance.name=Лепесток сопротивления
+item.PotionPetals.strength.name=Лепесток силы
+item.PotionPetals.water.name=Водяной дышащий лепесток
+
+item.PotionMagic1.1Magic1.name=Волшебное зелье
+item.PotionMagic1.1Magic2.name=Волшебное зелье
+item.PotionMagic1.1Magic3.name=Волшебное зелье
+item.PotionMagic1.1Magic4.name=Волшебное зелье
+item.PotionMagic1.1Magic5.name=Волшебное зелье
+item.PotionMagic1.1Magic6.name=Волшебное зелье
+
+item.CounterCharms.blindness.name=Противодействующее заклинание слепоты
+item.CounterCharms.mining.name=Оберег противодействия горному делу
+item.CounterCharms.nausea.name=Оберег от тошноты
+item.CounterCharms.poison.name=Заклинание противодействия яду
+item.CounterCharms.slowness.name=Очарование противодействия медлительности
+item.CounterCharms.weakness.name=Очарование противодействия слабости
+item.CounterCharms.wither.name=Противодействие Увяданию
+item.CounterCharms.ultimate.name=Абсолютное контр-заклинание
+
+tile.CropBacon.name=Росток бекона
+item.SeedsBacon.name=Семена бекона
+item.FoodBacon.name=Бекон
+
+item.EssenceFertilizer.accio.name=Удобрение для почвы Accio
+item.EssenceFertilizer.crucio.name=Удобрение для почвы Crucio
+item.EssenceFertilizer.imperio.name=Империо Почвенное Удобрение
+item.EssenceFertilizer.zivicio.name=Удобрения для почвы Живичио
+
+item.ClothMaterial.accio.name=Ткань Акцио
+item.ClothMaterial.crucio.name=Круцио Ткань
+item.ClothMaterial.imperio.name=Ткань Империо
+item.ClothMaterial.zivicio.name=Ткань Живичио
+
+item.EssenceIngots.accio.name=Слиток Акцио
+item.EssenceIngots.crucio.name=Слиток Круцио
+item.EssenceIngots.imperio.name=Слиток Империо
+item.EssenceIngots.zivicio.name=Слиток Живичио
