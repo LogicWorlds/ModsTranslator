@@ -79,6 +79,6 @@ class TranslateUtils(object):
         # Place translated lines and assemble data to output
         translated_text = translated_text.split('\n')
         for i, value in enumerate(data_list):
-            data_list[value] = translated_text[i]
+            data_list[value] = translated_text[i+1]
         data_list = json.dumps(data_list) # , ensure_ascii=False
         return data_list
